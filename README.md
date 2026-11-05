@@ -34,7 +34,7 @@ The work of Nazareth Amlesom Kifle on this treebank was carried out as part of h
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: [TODO: release number, e.g. UD v2.19]
+Data available since: UD v2.19
 License: CC BY-SA 4.0
 Includes text: yes
 Parallel: no
