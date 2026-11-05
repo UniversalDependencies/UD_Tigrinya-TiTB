@@ -37,14 +37,15 @@ The work of Nazareth Amlesom Kifle on this treebank was carried out as part of h
 Data available since: [TODO: release number, e.g. UD v2.19]
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: grammar-examples
 Lemmas: automatic with corrections
 UPOS: automatic with corrections
 XPOS: not available
 Features: automatic with corrections
 Relations: manual native
-Contributors: Amlesom Kifle, Nazareth; Gasser, Michael
+Contributors: Nazareth Amlesom Kifle; Gasser, Michael
 Contributing: here
-Contact: [TODO: email address(es)]
+Contact: nazareth.a.kifle@hiof.no, onlyskybl@gmail.com 
 ===============================================================================
 </pre>
