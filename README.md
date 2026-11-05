@@ -4,7 +4,7 @@ TiTB is a manually annotated Universal Dependencies treebank of Tigrinya, an Eth
 
 # Introduction
 
-The Tigrinya Treebank (TiTB) is the first Universal Dependencies treebank of Tigrinya. It contains 221 sentences (1,289 tokens, 1,598 syntactic words) written in the Ge'ez script (called Ethiopic in Unicode).
+The Tigrinya Treebank (TiTB) is the first Universal Dependencies treebank of Tigrinya. It contains 221 sentences (1,287 tokens, 1,598 syntactic words) written in the Ge'ez script (called Ethiopic in Unicode).
 
 The treebank consists of reference sentences constructed by the annotators. They were designed for two purposes: to cover the main morphosyntactic structures of Tigrinya, and to capture the syntactic constructions described in the UD guidelines, so that the treebank shows how each of these constructions is annotated in Tigrinya. The sentences therefore serve both as data and as a practical reference for the Tigrinya annotation guidelines.
 
