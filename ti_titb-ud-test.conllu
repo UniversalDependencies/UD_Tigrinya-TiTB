@@ -1,0 +1,2614 @@
+# sent_id = ti_ref_1
+# text = ደቀሰ ።
+1	ደቀሰ	ደቀሰ	VERB	VERB	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3	0	root	_	Translit=dək'əsə
+2	።	።	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = ti_ref_2
+# text = ኣብ ዓራት ደቂሳ ።
+1	ኣብ	ኣብ	ADP	ADP	_	2	case	_	Translit=ʔab
+2	ዓራት	ዓራት	NOUN	NOUN	Number=Sing	3	obl	_	Translit=ʕarat
+3	ደቂሳ	ደቀሰ	VERB	VERB	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=dək'isa
+4	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = ti_ref_3
+# text = እንጀራ የለን ።
+1	እንጀራ	እንጀራ	NOUN	NOUN	Number=Sing	2	nsubj	_	Translit=ʔnǰəra
+2-3	የለን	_	_	_	_	_	_	_	Translit=yələn
+2	የለ	ኣሎ	VERB	VSTEM	Gender=Masc|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	0	root	_	Aimad=SERAHI
+3	ን	ን	ADV	ADV	Polarity=Neg	2	advmod:aff	_	_
+4	።	።	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = ti_ref_4
+# text = ከልቢ ይነብሕ ።
+1	ከልቢ	ከልቢ	NOUN	NOUN	Number=Sing	2	nsubj	_	Translit=kəlbi
+2	ይነብሕ	ነብሐ	VERB	VERB	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3	0	root	_	Translit=ynəbħ
+3	።	።	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = ti_ref_5
+# text = እቲ ሰብኣይ ጠምዩ ።
+1	እቲ	እቲ	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Translit=ʔti
+2	ሰብኣይ	ሰብኣይ	NOUN	NOUN	Number=Sing	3	nsubj	_	Translit=səbʔay
+3	ጠምዩ	ጠመየ	VERB	VERB	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3	0	root	_	Translit=t'əmyu
+4	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = ti_ref_6
+# text = ኣስቴር ጠምያ ።
+1	ኣስቴር	ኣስቴር	PROPN	PROPN	Gender=Fem|Number=Sing	2	nsubj	_	Translit=ʔaster
+2	ጠምያ	ጠመየ	VERB	VERB	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3	0	root	_	Translit=t'əmya
+3	።	።	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = ti_ref_7a
+# text = ኣስቴር መኪና ኣላታ ።
+1	ኣስቴር	ኣስቴር	PROPN	PROPN	Gender=Fem|Number=Sing	3	obj:poss	_	Translit=ʔaster
+2	መኪና	መኪና	NOUN	NOUN	Number=Sing	3	nsubj	_	Translit=məkina
+3	ኣላታ	ኣሎ	VERB	VERB	Gender=Fem|Gender[obj]=Fem|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3|Tense=Pres	0	root	_	Translit=ʔalata
+4	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = ti_ref_7b
+# text = ንኣስቴር መኪና ኣላታ ።
+1-2	ንኣስቴር	_	_	_	_	_	_	_	Translit=nʔaster
+1	ን	ን	ADP	ADP	_	2	case:pre	_	_
+2	ኣስቴር	ኣስቴር	PROPN	PROPN	Gender=Fem|Number=Sing	3	obj:poss	_	_
+3	መኪና	መኪና	NOUN	NOUN	Number=Sing	4	nsubj	_	Translit=məkina
+4	ኣላታ	ኣሎ	VERB	VERB	Gender=Fem|Gender[obj]=Fem|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3|Tense=Pres	0	root	_	Translit=ʔalata
+5	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = ti_ref_8
+# text = ሰቢሩ ።
+1	ሰቢሩ	ሰበረ	VERB	VERB	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=səbiru
+2	።	።	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = ti_ref_9
+# text = ንሱ ሰቢሩ ።
+1	ንሱ	ንሱ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Translit=nsu
+2	ሰቢሩ	ሰበረ	VERB	VERB	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=səbiru
+3	።	።	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = ti_ref_10
+# text = ንሱ ሰቢሩዎ ።
+1	ንሱ	ንሱ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Translit=nsu
+2	ሰቢሩዎ	ሰበረ	VERB	VERB	Aspect=Perf|Gender=Masc|Gender[obj]=Masc|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3	0	root	_	Translit=səbiruwo
+3	።	።	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = ti_ref_11
+# text = ካሌብ ነቲ ቢኬሪ ሰቢሩዎ ።
+1	ካሌብ	ካሌብ	PROPN	PROPN	Gender=Masc|Number=Sing	5	nsubj	_	Translit=kaleb
+2-3	ነቲ	_	_	_	_	_	_	_	Translit=nəti
+2	ን	ን	ADP	ADP	_	4	case:pre	_	_
+3	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	ቢኬሪ	ቢኬሪ	NOUN	NOUN	Number=Sing	5	obj	_	Translit=bikeri
+5	ሰቢሩዎ	ሰበረ	VERB	VERB	Aspect=Perf|Gender=Masc|Gender[obj]=Masc|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3	0	root	_	Translit=səbiruwo
+6	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = ti_ref_12
+# text = ኣበበ ነቲ ገንዘብ ንኣልማዝ ሂቡዋ ።
+1	ኣበበ	ኣበበ	PROPN	PROPN	Gender=Masc|Number=Sing	7	nsubj	_	Translit=ʔabəbə
+2-3	ነቲ	_	_	_	_	_	_	_	Translit=nəti
+2	ን	ን	ADP	ADP	_	4	case:pre	_	_
+3	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	ገንዘብ	ገንዘብ	NOUN	NOUN	Number=Sing	7	obj	_	Translit=gənzəb
+5-6	ንኣልማዝ	_	_	_	_	_	_	_	Translit=nʔalmaz
+5	ን	ን	ADP	ADP	_	6	case:pre	_	_
+6	ኣልማዝ	ኣልማዝ	PROPN	PROPN	Gender=Fem|Number=Sing	7	iobj	_	_
+7	ሂቡዋ	ሃበ	VERB	VERB	Aspect=Perf|Gender=Masc|Gender[obj]=Fem|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3	0	root	_	Translit=hibuwa
+8	።	።	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = ti_ref_13a
+# text = ኣበበ ነቲ ገንዘብ ሂቡዋ ።
+1	ኣበበ	ኣበበ	PROPN	PROPN	Gender=Masc|Number=Sing	5	nsubj	_	Translit=ʔabəbə
+2-3	ነቲ	_	_	_	_	_	_	_	Translit=nəti
+2	ን	ን	ADP	ADP	_	4	case:pre	_	_
+3	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	ገንዘብ	ገንዘብ	NOUN	NOUN	Number=Sing	5	obj	_	Translit=gənzəb
+5	ሂቡዋ	ሃበ	VERB	VERB	Aspect=Perf|Gender=Masc|Gender[obj]=Fem|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3	0	root	_	Translit=hibuwa
+6	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = ti_ref_13b
+# text = ኣበበ እቲ ገንዘብ ሂቡዋ ።
+1	ኣበበ	ኣበበ	PROPN	PROPN	Gender=Masc|Number=Sing	4	nsubj	_	Translit=ʔabəbə
+2	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	3	det	_	Translit=ʔti
+3	ገንዘብ	ገንዘብ	NOUN	NOUN	Number=Sing	4	obj	_	Translit=gənzəb
+4	ሂቡዋ	ሃበ	VERB	VERB	Aspect=Perf|Gender=Masc|Gender[obj]=Fem|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3	0	root	_	Translit=hibuwa
+5	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = ti_ref_14
+# text = ርእሰይ ሒሙኒ ።
+1-2	ርእሰይ	_	_	_	_	_	_	_	Translit=rʔsəy
+1	ርእሲ	ርእሲ	NOUN	NOUN	Number=Sing	3	nsubj	_	_
+2	አይ	አይ	DET	DET	Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	det:poss	_	_
+3	ሒሙኒ	ሓመመ	VERB	VERB	Aspect=Perf|Gender=Masc|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=1	0	root	_	Translit=ħimuni
+4	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = ti_ref_15
+# text = እቲ ቢኬሪ ተሰቢሩ ።
+1	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	2	det	_	Translit=ʔti
+2	ቢኬሪ	ቢኬሪ	NOUN	NOUN	Number=Sing	3	nsubj:pass	_	Translit=bikeri
+3	ተሰቢሩ	ተሰብረ	VERB	VERB	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Pass	0	root	_	Translit=təsəbiru
+4	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = ti_ref_16
+# text = እቲ መንገዲ ብማይ ተባሕጒጉ ።
+1	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	2	det	_	Translit=ʔti
+2	መንገዲ	መንገዲ	NOUN	NOUN	Number=Sing	5	nsubj:pass	_	Translit=məngədi
+3-4	ብማይ	_	_	_	_	_	_	_	Translit=bmay
+3	ብ	ብ	ADP	ADP	_	4	case:pre	_	_
+4	ማይ	ማይ	NOUN	NOUN	Number=Sing	5	obl	_	_
+5	ተባሕጒጉ	ተባሕጐጐ	VERB	VERB	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Pass	0	root	_	Translit=təbaħgwigu
+6	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = ti_ref_17
+# text = ነቲ ወዲ ስራሕ ኣስሪሐዮ ።
+1-2	ነቲ	_	_	_	_	_	_	_	Translit=nəti
+1	ን	ን	ADP	ADP	_	3	case:pre	_	_
+2	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	ወዲ	ወዲ	NOUN	NOUN	Number=Sing	5	iobj	_	Translit=wədi
+4	ስራሕ	ስራሕ	NOUN	NOUN	Number=Sing	5	obj	_	Translit=sraħ
+5	ኣስሪሐዮ	ኣስርሐ	VERB	VERB	Aspect=Perf|Gender[obj]=Masc|Number=Sing|Number[obj]=Sing|Person=1|Person[obj]=3|Voice=Cau	0	root	_	Translit=ʔasriħɛyo
+6	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = ti_ref_18
+# text = ነቲ ወዲ ኣጐየዮ ።
+1-2	ነቲ	_	_	_	_	_	_	_	Translit=nəti
+1	ን	ን	ADP	ADP	_	3	case:pre	_	_
+2	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	ወዲ	ወዲ	NOUN	NOUN	Number=Sing	4	obj	_	Translit=wədi
+4	ኣጐየዮ	ኣጐየየ	VERB	VERB	Aspect=Perf|Gender=Masc|Gender[obj]=Masc|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3|Voice=Cau	0	root	_	Translit=ʔagwyəyo
+5	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = ti_ref_19
+# text = ኣቦይ እዩ ።
+1-2	ኣቦይ	_	_	_	_	_	_	_	Translit=ʔaboy
+1	ኣቦ	ኣቦ	NOUN	NOUN	Number=Sing	0	root	_	_
+2	አይ	አይ	DET	DET	Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	det:poss	_	_
+3	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	1	cop	_	Translit=ʔyu
+4	።	።	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = ti_ref_20
+# text = ካሕሳይ መምህር እዩ ።
+1	ካሕሳይ	ካሕሳይ	PROPN	PROPN	Gender=Masc|Number=Sing	2	nsubj	_	Translit=kaħsay
+2	መምህር	መምህር	NOUN	NOUN	Number=Sing	0	root	_	Translit=məmhr
+3	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	2	cop	_	Translit=ʔyu
+4	።	።	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = ti_ref_21
+# text = እቲ ጸወታ ቀሊል ኣይኮነን ።
+1	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	2	det	_	Translit=ʔti
+2	ጸወታ	ጸወታ	NOUN	NOUN	Number=Sing	3	nsubj	_	Translit=s'əwəta
+3	ቀሊል	ቀሊል	NOUN	NOUN	Number=Sing	0	root	_	Translit=k'əlil
+4	ኣይኮነን	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	3	cop	_	Translit=ʔaykonən
+5	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = ti_ref_22
+# text = እቲ መግቢ ጽቡቕ እዩ ።
+1	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	2	det	_	Translit=ʔti
+2	መግቢ	መግቢ	NOUN	NOUN	Number=Sing	3	nsubj	_	Translit=məgbi
+3	ጽቡቕ	ጽቡቕ	ADJ	ADJ	Number=Sing	0	root	_	Translit=s'bux'
+4	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	3	cop	_	Translit=ʔyu
+5	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = ti_ref_23
+# text = ፈተና ጽቡቕ እዩ ።
+1	ፈተና	ፈተና	NOUN	NOUN	Number=Sing	2	nsubj	_	Translit=fətəna
+2	ጽቡቕ	ጽቡቕ	ADJ	ADJ	Number=Sing	0	root	_	Translit=s'bux'
+3	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	2	cop	_	Translit=ʔyu
+4	።	።	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = ti_ref_24
+# text = ንፍዕቲ እያ ።
+1	ንፍዕቲ	ንፍዕቲ	ADJ	ADJ	Gender=Fem|Number=Sing	0	root	_	Translit=nfʕti
+2	እያ	እዩ	AUX	AUX	Gender=Fem|Number=Sing|Person=3|Tense=Pres	1	cop	_	Translit=ʔya
+3	።	።	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = ti_ref_25
+# text = እቶም ተመሃሮ ክልተ እዮም ።
+1	እቶም	እቶም	DET	DET	Gender=Masc|Number=Plur|PronType=Art	2	det	_	Translit=ʔtom
+2	ተመሃሮ	ተመሃራይ	NOUN	NOUN	Number=Plur	3	nsubj	_	Translit=təməharo
+3	ክልተ	ክልተ	NUM	NUM	Number=Sing	0	root	_	Translit=kltə
+4	እዮም	እዩ	AUX	AUX	Gender=Masc|Number=Plur|Person=3|Tense=Pres	3	cop	_	Translit=ʔyom
+5	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = ti_ref_26
+# text = እዘን ትካላት ኣብ ዓለም ፍሉጣት እየን ።
+1	እዘን	እዘን	DET	DET	Gender=Fem|Number=Plur|PronType=Dem	2	det	_	Translit=ʔzən
+2	ትካላት	ትካል	NOUN	NOUN	Number=Plur	5	nsubj	_	Translit=tkalat
+3	ኣብ	ኣብ	ADP	ADP	_	4	case:pre	_	Translit=ʔab
+4	ዓለም	ዓለም	NOUN	NOUN	Number=Sing	5	obl	_	Translit=ʕaləm
+5	ፍሉጣት	ፍሉጣት	ADJ	ADJ	Number=Plur	0	root	_	Translit=flut'at
+6	እየን	እዩ	AUX	AUX	Gender=Fem|Number=Plur|Person=3|Tense=Pres	5	cop	_	Translit=ʔyən
+7	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = ti_ref_27a
+# text = ንሳ ኣብ ቤት መመገቢ ኣላ ።
+1	ንሳ	ንሳ	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Translit=nsa
+2	ኣብ	ኣብ	ADP	ADP	_	3	case:pre	_	Translit=ʔab
+3	ቤት	ቤት	NOUN	NOUN	Number=Sing	5	obl	_	Translit=bet
+4	መመገቢ	መመገቢ	NOUN	NOUN	Number=Sing	3	compound	_	Translit=məməgəbi
+5	ኣላ	ኣሎ	VERB	VERB	Gender=Fem|Number=Sing|Person=3|Tense=Pres	0	root	_	Translit=ʔala
+6	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = ti_ref_27b
+# text = ኣብ ቤት መመገቢ ኣላ ።
+1	ኣብ	ኣብ	ADP	ADP	_	2	case:pre	_	Translit=ʔab
+2	ቤት	ቤት	NOUN	NOUN	Number=Sing	4	obl	_	Translit=bet
+3	መመገቢ	መመገቢ	NOUN	NOUN	Number=Sing	2	compound	_	Translit=məməgəbi
+4	ኣላ	ኣሎ	VERB	VERB	Gender=Fem|Number=Sing|Person=3|Tense=Pres	0	root	_	Translit=ʔala
+5	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = ti_ref_28
+# text = እቲ መጽሓፍ ኣብ ጣውላ ኣሎ ።
+1	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	2	det	_	Translit=ʔti
+2	መጽሓፍ	መጽሓፍ	NOUN	NOUN	Number=Sing	5	nsubj	_	Translit=məs'ħaf
+3	ኣብ	ኣብ	ADP	ADP	_	4	case:pre	_	Translit=ʔab
+4	ጣውላ	ጣውላ	NOUN	NOUN	Number=Sing	5	obl	_	Translit=t'awla
+5	ኣሎ	ኣሎ	VERB	VERB	Gender=Masc|Number=Sing|Person=3|Tense=Pres	0	root	_	Translit=ʔalo
+6	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = ti_ref_29
+# text = ናታ እዩ ።
+1	ናታ	ናታ	DET	DET	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	Translit=nata
+2	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	1	cop	_	Translit=ʔyu
+3	።	።	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = ti_ref_30
+# text = እቲ ገዛ ናቶም እዩ ።
+1	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	2	det	_	Translit=ʔti
+2	ገዛ	ገዛ	NOUN	NOUN	Number=Sing	3	nsubj	_	Translit=gəza
+3	ናቶም	ናቶም	PRON	PRON	Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	0	root	_	Translit=natom
+4	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	3	cop	_	Translit=ʔyu
+5	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = ti_ref_31
+# text = ንዓኣ እዩ ።
+1	ንዓኣ	ንሳ	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	root	_	Translit=nʕaʔa
+2	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	1	cop	_	Translit=ʔyu
+3	።	።	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = ti_ref_32a
+# text = ኣብ ገዛ ሰብ ኣሎ ።
+1	ኣብ	ኣብ	ADP	ADP	_	2	case:pre	_	Translit=ʔab
+2	ገዛ	ገዛ	NOUN	NOUN	Number=Sing	4	obl	_	Translit=gəza
+3	ሰብ	ሰብ	NOUN	NOUN	Number=Sing	4	nsubj	_	Translit=səb
+4	ኣሎ	ኣሎ	VERB	VERB	Gender=Masc|Number=Sing|Person=3|Tense=Pres	0	root	_	Translit=ʔalo
+5	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = ti_ref_32b
+# text = ሰብ ኣሎ ኣብ ገዛ ።
+1	ሰብ	ሰብ	NOUN	NOUN	Number=Sing	2	nsubj	_	Translit=səb
+2	ኣሎ	ኣሎ	VERB	VERB	Gender=Masc|Number=Sing|Person=3|Tense=Pres	0	root	_	Translit=ʔalo
+3	ኣብ	ኣብ	ADP	ADP	_	4	case	_	Translit=ʔab
+4	ገዛ	ገዛ	NOUN	NOUN	Number=Sing	2	obl	_	Translit=gəza
+5	።	።	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = ti_ref_33a
+# text = ኣብ 'ቲ ሽሓኒ ምግቢ ኣሎ ።
+1	ኣብ	ኣብ	ADP	ADP	_	3	case:pre	_	Translit=ʔab
+2	'ቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	3	det	_	Translit='ti
+3	ሽሓኒ	ሽሓኒ	NOUN	NOUN	Number=Sing	5	obl	_	Translit=šħani
+4	ምግቢ	ምግቢ	NOUN	NOUN	Number=Sing	5	nsubj	_	Translit=mgbi
+5	ኣሎ	ኣሎ	VERB	VERB	Gender=Masc|Number=Sing|Person=3|Tense=Pres	0	root	_	Translit=ʔalo
+6	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = ti_ref_33b
+# text = ምግቢ ኣሎ ኣብ 'ቲ ሽሓኒ ።
+1	ምግቢ	ምግቢ	NOUN	NOUN	Number=Sing	2	nsubj	_	Translit=mgbi
+2	ኣሎ	ኣሎ	VERB	VERB	Gender=Masc|Number=Sing|Person=3|Tense=Pres	0	root	_	Translit=ʔalo
+3	ኣብ	ኣብ	ADP	ADP	_	5	case:pre	_	Translit=ʔab
+4	'ቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	5	det	_	Translit='ti
+5	ሽሓኒ	ሽሓኒ	NOUN	NOUN	Number=Sing	2	obl	_	Translit=šħani
+6	።	።	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = ti_ref_34
+# text = ኣብ 'ቲ ገዛ ድምጺ ይስማዕ ኣሎ ።
+1	ኣብ	ኣብ	ADP	ADP	_	3	case	_	Translit=ʔab
+2	'ቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	3	det	_	Translit='ti
+3	ገዛ	ገዛ	NOUN	NOUN	Number=Sing	5	obl	_	Translit=gəza
+4	ድምጺ	ድምጺ	NOUN	NOUN	Number=Sing	5	nsubj:pass	_	Translit=dms'i
+5	ይስማዕ	ተሰምዐ	VERB	VERB	Gender=Masc|Mood=Jus|Number=Sing|Person=3	0	root	_	Translit=ysmaʕ
+6	ኣሎ	ኣሎ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	5	aux	_	Translit=ʔalo
+7	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = ti_ref_35
+# text = ኣብ 'ቲ ገዛ ሃንደበት ድምጺ ተሰሚዑ ።
+1	ኣብ	ኣብ	ADP	ADP	_	3	case:pre	_	Translit=ʔab
+2	'ቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	3	det	_	Translit='ti
+3	ገዛ	ገዛ	NOUN	NOUN	Number=Sing	6	obl	_	Translit=gəza
+4	ሃንደበት	ሃንደበት	NOUN	NOUN	Number=Sing	6	obl	_	Translit=handəbət
+5	ድምጺ	ድምጺ	NOUN	NOUN	Number=Sing	6	nsubj:pass	_	Translit=dms'i
+6	ተሰሚዑ	ተሰምዐ	VERB	VERB	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Pass	0	root	_	Translit=təsəmiʕu
+7	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = ti_ref_36
+# text = ብንግሆኡ ካብ ገዛ ወጺኣ ።
+1-3	ብንግሆኡ	_	_	_	_	_	_	_	Translit=bnghoʔu
+1	ብ	ብ	ADP	ADP	_	2	case:pre	_	_
+2	ንግሆ	ንግሆ	NOUN	NOUN	Number=Sing	6	obl	_	_
+3	ኡ	ኡ	DET	DET	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det:poss	_	_
+4	ካብ	ካብ	ADP	ADP	_	5	case:pre	_	Translit=kab
+5	ገዛ	ገዛ	NOUN	NOUN	Number=Sing	6	obl	_	Translit=gəza
+6	ወጺኣ	ወጽአ	VERB	VERB	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=wəs'iʔa
+7	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = ti_ref_37
+# text = ብታክሲ ንትምህርቲ ቤት ኢላ ወጺኣ ።
+1-2	ብታክሲ	_	_	_	_	_	_	_	Translit=btaksi
+1	ብ	ብ	ADP	ADP	_	2	case:pre	_	_
+2	ታክሲ	ታክሲ	NOUN	NOUN	Number=Sing	7	obl	_	_
+3-4	ንትምህርቲ	_	_	_	_	_	_	_	Translit=ntmhrti
+3	ን	ን	ADP	ADP	_	4	case:pre	_	_
+4	ትምህርቲ	ትምህርቲ	NOUN	NOUN	Number=Sing	5	compound	_	_
+5	ቤት	ቤት	NOUN	NOUN	Number=Sing	6	obl	_	Translit=bet
+6	ኢላ	በለ	VERB	VERB	Gender=Fem|Number=Sing|Person=3|VerbForm=Conv	7	advcl	_	Translit=ʔila
+7	ወጺኣ	ወጽአ	VERB	VERB	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=wəs'iʔa
+8	።	።	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = ti_ref_38
+# text = ምሸት ገዛ በጺሑ ።
+1	ምሸት	ምሸት	NOUN	NOUN	Number=Sing	3	obl	_	Translit=mšət
+2	ገዛ	ገዛ	NOUN	NOUN	Number=Sing	3	obl	_	Translit=gəza
+3	በጺሑ	በጽሐ	VERB	VERB	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=bəs'iħu
+4	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = ti_ref_39a
+# text = ምሸት እዩ ገዛ ዝበጽሐ ።
+1	ምሸት	ምሸት	NOUN	NOUN	Number=Sing	0	root	_	Translit=mšət
+2	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	1	cop	_	Translit=ʔyu
+3	ገዛ	ገዛ	NOUN	NOUN	Number=Sing	5	obl	_	Translit=gəza
+4-5	ዝበጽሐ	_	_	_	_	_	_	_	Translit=zbəs'ħɛ
+4	ዝ	ዝ	SCONJ	SCONJ	_	5	mark	_	_
+5	በጽሐ	በጽሐ	VERB	VSTEM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	1	csubj:cleft	_	Aimad=SERAHI
+6	።	።	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = ti_ref_39b
+# text = ገዛ ዝበጽሐ ምሸት እዩ ።
+1	ገዛ	ገዛ	NOUN	NOUN	Number=Sing	4	obl	_	Translit=gəza
+2-3	ዝበጽሐ	_	_	_	_	_	_	_	Translit=zbəs'ħɛ
+2	ዝ	ዝ	SCONJ	SCONJ	_	3	mark	_	_
+3	በጽሐ	በጽሐ	VERB	VSTEM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	4	csubj:cleft	_	Aimad=SERAHI
+4	ምሸት	ምሸት	NOUN	NOUN	Number=Sing	0	root	_	Translit=mšət
+5	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	4	cop	_	Translit=ʔyu
+6	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = ti_ref_40
+# text = ምሸት እዩ ነይሩ ገዛ ዝበጽሐ ።
+1	ምሸት	ምሸት	NOUN	NOUN	Number=Sing	0	root	_	Translit=mšət
+2	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	1	cop	_	Translit=ʔyu
+3	ነይሩ	ነበረ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Past	1	aux	_	Translit=nəyru
+4	ገዛ	ገዛ	NOUN	NOUN	Number=Sing	6	obl	_	Translit=gəza
+5-6	ዝበጽሐ	_	_	_	_	_	_	_	Translit=zbəs'ħɛ
+5	ዝ	ዝ	SCONJ	SCONJ	_	6	mark	_	_
+6	በጽሐ	በጽሐ	VERB	VSTEM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	1	csubj:cleft	_	Aimad=SERAHI
+7	።	።	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = ti_ref_41
+# text = ብሃንደበት ወዲቑ ።
+1-2	ብሃንደበት	_	_	_	_	_	_	_	Translit=bhandəbət
+1	ብ	ብ	ADP	ADP	_	2	case:pre	_	_
+2	ሃንደበት	ሃንደበት	NOUN	NOUN	Number=Sing	3	obl	_	_
+3	ወዲቑ	ወደቐ	VERB	VERB	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=wədix'u
+4	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = ti_ref_42
+# text = ኣስቴር ንካሌብ ደጋጊማ ጸዊዓቶ ።
+1	ኣስቴር	ኣስቴር	PROPN	PROPN	Gender=Fem|Number=Sing	5	nsubj	_	Translit=ʔaster
+2-3	ንካሌብ	_	_	_	_	_	_	_	Translit=nkaleb
+2	ን	ን	ADP	ADP	_	3	case:pre	_	_
+3	ካሌብ	ካሌብ	PROPN	PROPN	Gender=Masc|Number=Sing	5	obj	_	_
+4	ደጋጊማ	ደጋገመ	VERB	VERB	Gender=Fem|Number=Sing|Person=3|VerbForm=Conv	5	advcl	_	Translit=dəgagima
+5	ጸዊዓቶ	ጸውዐ	VERB	VERB	Aspect=Perf|Gender=Fem|Gender[obj]=Masc|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3	0	root	_	Translit=s'əwiʕato
+6	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = ti_ref_43
+# text = ጅማ ዝበሃል ከተማ ከይዶም ።
+1	ጅማ	ጅማ	PROPN	PROPN	Number=Sing	3	xcomp	_	Translit=ǰma
+2-3	ዝበሃል	_	_	_	_	_	_	_	Translit=zbəhal
+2	ዝ	ዝ	SCONJ	SCONJ	_	3	mark	_	_
+3	ይበሃል	ተባህለ	VERB	VSTEM	Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Voice=Pass	4	acl	_	Aimad=TESERAHI
+4	ከተማ	ከተማ	NOUN	NOUN	Number=Sing	5	obl	_	Translit=kətəma
+5	ከይዶም	ከደ	VERB	VERB	Aspect=Perf|Gender=Masc|Number=Plur|Person=3	0	root	_	Translit=kəydom
+6	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = ti_ref_44
+# text = ንጅማ ከይዶም ።
+1-2	ንጅማ	_	_	_	_	_	_	_	Translit=nǰma
+1	ን	ን	ADP	ADP	_	2	case:pre	_	_
+2	ጅማ	ጅማ	PROPN	PROPN	Number=Sing	3	obl	_	_
+3	ከይዶም	ከደ	VERB	VERB	Aspect=Perf|Gender=Masc|Number=Plur|Person=3	0	root	_	Translit=kəydom
+4	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = ti_ref_45
+# text = ናብ ከተማ ጅማ ከይዶም ።
+1	ናብ	ናብ	ADP	ADP	_	2	case	_	Translit=nab
+2	ከተማ	ከተማ	NOUN	NOUN	Number=Sing	4	obl	_	Translit=kətəma
+3	ጅማ	ጅማ	PROPN	PROPN	Number=Sing	2	compound	_	Translit=ǰma
+4	ከይዶም	ከደ	VERB	VERB	Aspect=Perf|Gender=Masc|Number=Plur|Person=3	0	root	_	Translit=kəydom
+5	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = ti_ref_46a
+# text = ኣስቴር ደኺማ ።
+1	ኣስቴር	ኣስቴር	PROPN	PROPN	Gender=Fem|Number=Sing	2	nsubj	_	Translit=ʔaster
+2	ደኺማ	ደኸመ	VERB	VERB	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=dəxima
+3	።	።	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = ti_ref_46b
+# text = ኣስቴር ደኺሙዋ ።
+1	ኣስቴር	ኣስቴር	PROPN	PROPN	Gender=Fem|Number=Sing	2	obj:exp	_	Translit=ʔaster
+2	ደኺሙዋ	ደኸመ	VERB	VERB	Aspect=Perf|Gender=Masc|Gender[obj]=Fem|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3	0	root	_	Translit=dəximuwa
+3	።	።	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = ti_ref_47
+# text = ይመጽእ ነይሩ ።
+1	ይመጽእ	መጽአ	VERB	VERB	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=yməs'ʔ
+2	ነይሩ	ነበረ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Past	1	aux	_	Translit=nəyru
+3	።	።	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = ti_ref_48a
+# text = ነቲ ማዕጾ ከፊቱ ፡ ነቲ ከልቢ ኣእትዩዎ ።
+1-2	ነቲ	_	_	_	_	_	_	_	Translit=nəti
+1	ን	ን	ADP	ADP	_	3	case:pre	_	_
+2	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	ማዕጾ	ማዕጾ	NOUN	NOUN	Number=Sing	4	obj	_	Translit=maʕs'o
+4	ከፊቱ	ከፈተ	VERB	VERB	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	9	advcl	_	Translit=kəfitu
+5	፡	፡	PUNCT	PUNCT	_	4	punct	_	_
+6-7	ነቲ	_	_	_	_	_	_	_	Translit=nəti
+6	ን	ን	ADP	ADP	_	8	case:pre	_	_
+7	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	ከልቢ	ከልቢ	NOUN	NOUN	Number=Sing	9	obj	_	Translit=kəlbi
+9	ኣእትዩዎ	ኣእተወ	VERB	VERB	Aspect=Perf|Gender=Masc|Gender[obj]=Masc|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3|Voice=Cau	0	root	_	Translit=ʔaʔtyuwo
+10	።	።	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = ti_ref_48b
+# text = ነቲ ማዕጾ ክፍት ኣቢሉ ፡ ነቲ ከልቢ ኣእትዩዎ ።
+1-2	ነቲ	_	_	_	_	_	_	_	Translit=nəti
+1	ን	ን	ADP	ADP	_	3	case:pre	_	_
+2	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	ማዕጾ	ማዕጾ	NOUN	NOUN	Number=Sing	5	obj	_	Translit=maʕs'o
+4	ክፍት	ክፍት	PART	PART	_	5	compound:lvc	_	Translit=kft
+5	ኣቢሉ	በለ	VERB	VERB	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv|Voice=Cau	10	advcl	_	Translit=ʔabilu
+6	፡	፡	PUNCT	PUNCT	_	5	punct	_	_
+7-8	ነቲ	_	_	_	_	_	_	_	Translit=nəti
+7	ን	ን	ADP	ADP	_	9	case:pre	_	_
+8	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	ከልቢ	ከልቢ	NOUN	NOUN	Number=Sing	10	obj	_	Translit=kəlbi
+10	ኣእትዩዎ	ኣእተወ	VERB	VERB	Aspect=Perf|Gender=Masc|Gender[obj]=Masc|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3|Voice=Cau	0	root	_	Translit=ʔaʔtyuwo
+11	።	።	PUNCT	PUNCT	_	10	punct	_	_
+
+# sent_id = ti_ref_49
+# text = ስልኪ ዓጽያ ፡ ካብ 'ቲ መንበር ተሲኣ ፡ ነቲ ዝዅሕኳሕ ዝነበረ ማዕጾ ክትኸፍት ከይዳ ።
+1	ስልኪ	ስልኪ	NOUN	NOUN	Number=Sing	2	obj	_	Translit=slki
+2	ዓጽያ	ዓጸወ	VERB	VERB	Gender=Fem|Number=Sing|Person=3|VerbForm=Conv	18	advcl	_	Translit=ʕas'ya
+3	፡	፡	PUNCT	PUNCT	_	2	punct	_	_
+4	ካብ	ካብ	ADP	ADP	_	6	case	_	Translit=kab
+5	'ቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	6	det	_	Translit='ti
+6	መንበር	መንበር	NOUN	NOUN	Number=Sing	7	obl	_	Translit=mənbər
+7	ተሲኣ	ተስአ	VERB	VERB	Gender=Fem|Number=Sing|Person=3|VerbForm=Conv	18	advcl	_	Translit=təsiʔa
+8	፡	፡	PUNCT	PUNCT	_	7	punct	_	_
+9-10	ነቲ	_	_	_	_	_	_	_	Translit=nəti
+9	ን	ን	ADP	ADP	_	15	case:pre	_	_
+10	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+11-12	ዝዅሕኳሕ	_	_	_	_	_	_	_	Translit=zxwħkwaħ
+11	ዝ	ዝ	SCONJ	SCONJ	_	12	mark	_	_
+12	ይኹሕኳሕ	ተዃሕኵሐ	VERB	VSTEM	Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Voice=Pass	15	acl	_	Aimad=TESERAHI
+13-14	ዝነበረ	_	_	_	_	_	_	_	Translit=znəbərə
+13	ዝ	ዝ	SCONJ	SCONJ	_	12	mark	_	_
+14	ነበረ	ነበረ	AUX	VSTEM	Gender=Masc|Number=Sing|Person=3|Tense=Past	12	aux	_	Aimad=SERAHI
+15	ማዕጾ	ማዕጾ	NOUN	NOUN	Number=Sing	17	obj	_	Translit=maʕs'o
+16-17	ክትኸፍት	_	_	_	_	_	_	_	Translit=ktxəft
+16	ክ	ክ	SCONJ	SCONJ	_	17	mark	_	_
+17	ትኸፍት	ከፈተ	VERB	VSTEM	Aspect=Imp|Gender=Fem|Number=Sing|Person=3	18	advcl	_	Aimad=SERAHI
+18	ከይዳ	ከደ	VERB	VERB	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=kəyda
+19	።	።	PUNCT	PUNCT	_	18	punct	_	_
+
+# sent_id = ti_ref_50
+# text = ክመጽእ ደልዩ ኣሎ ፡ ንሳ 'ውን ክትመጽእ ደልያ ኣላ ።
+1-2	ክመጽእ	_	_	_	_	_	_	_	Translit=kməs'ʔ
+1	ክ	ክ	SCONJ	SCONJ	_	2	mark	_	_
+2	ይመጽእ	መጽአ	VERB	VSTEM	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	3	xcomp	_	Aimad=SERAHI
+3	ደልዩ	ደለየ	VERB	VERB	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=dəlyu
+4	ኣሎ	ኣሎ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	3	aux	_	Translit=ʔalo
+5	፡	፡	PUNCT	PUNCT	_	10	punct	_	_
+6	ንሳ	ንሳ	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	Translit=nsa
+7	'ውን	'ውን	ADV	ADV	_	10	cc	_	Translit='wn
+8-9	ክትመጽእ	_	_	_	_	_	_	_	Translit=ktməs'ʔ
+8	ክ	ክ	SCONJ	SCONJ	_	9	mark	_	_
+9	ትመጽእ	መጽአ	VERB	VSTEM	Aspect=Imp|Gender=Fem|Number=Sing|Person=3	10	xcomp	_	Aimad=SERAHI
+10	ደልያ	ደለየ	VERB	VERB	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	3	conj	_	Translit=dəlya
+11	ኣላ	ኣሎ	AUX	AUX	Gender=Fem|Number=Sing|Person=3|Tense=Pres	10	aux	_	Translit=ʔala
+12	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = ti_ref_51
+# text = ክመጽእ ደልዩ ኣሎ ፡ ንሳ 'ውን ከምኡ ።
+1-2	ክመጽእ	_	_	_	_	_	_	_	Translit=kməs'ʔ
+1	ክ	ክ	SCONJ	SCONJ	_	2	mark	_	_
+2	ይመጽእ	መጽአ	VERB	VSTEM	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	3	xcomp	_	Aimad=SERAHI
+3	ደልዩ	ደለየ	VERB	VERB	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=dəlyu
+4	ኣሎ	ኣሎ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	3	aux	_	Translit=ʔalo
+5	፡	፡	PUNCT	PUNCT	_	6	punct	_	_
+6	ንሳ	ንሳ	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	conj	_	Translit=nsa
+7	'ውን	'ውን	ADV	ADV	_	6	cc	_	Translit='wn
+8	ከምኡ	ንሱ	PRON	PRON	Case=Equ|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	orphan	_	Translit=kəmʔu
+9	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = ti_ref_52
+# text = ኣነ ሻሂ እፈቱ ፡ ንስኺ ከኣ ቡን ።
+1	ኣነ	ኣነ	PRON	PRON	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Translit=ʔanə
+2	ሻሂ	ሻሂ	NOUN	NOUN	Number=Sing	3	obj	_	Translit=šahi
+3	እፈቱ	ፈተወ	VERB	VERB	Gender=Masc|Mood=Imp|Number=Plur|Person=2	0	root	_	Translit=ʔfətu
+4	፡	፡	PUNCT	PUNCT	_	5	punct	_	_
+5	ንስኺ	ንስኺ	PRON	PRON	Gender=Fem|Number=Sing|Person=2|PronType=Prs	3	conj	_	Translit=nsxi
+6	ከኣ	ከኣ	CCONJ	CCONJ	_	5	cc	_	Translit=kəʔa
+7	ቡን	ቡን	NOUN	NOUN	Number=Sing	5	orphan	_	Translit=bun
+8	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = ti_ref_53
+# text = ኣነ ሻሂ እፈቱ ፡ ንስኺ ቡን ።
+1	ኣነ	ኣነ	PRON	PRON	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Translit=ʔanə
+2	ሻሂ	ሻሂ	NOUN	NOUN	Number=Sing	3	obj	_	Translit=šahi
+3	እፈቱ	ፈተወ	VERB	VERB	Gender=Masc|Mood=Imp|Number=Plur|Person=2	0	root	_	Translit=ʔfətu
+4	፡	፡	PUNCT	PUNCT	_	5	punct	_	_
+5	ንስኺ	ንስኺ	PRON	PRON	Gender=Fem|Number=Sing|Person=2|PronType=Prs	3	conj	_	Translit=nsxi
+6	ቡን	ቡን	NOUN	NOUN	Number=Sing	5	orphan	_	Translit=bun
+7	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = ti_ref_54
+# text = ንሳ ኣብ ጎንደር ክትነብር ትደልይ ፤ ሓፍታ ድማ ኣብ ጅማ ።
+1	ንሳ	ንሳ	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Translit=nsa
+2	ኣብ	ኣብ	ADP	ADP	_	3	case	_	Translit=ʔab
+3	ጎንደር	ጎንደር	PROPN	PROPN	Number=Sing	5	obl	_	Translit=gondər
+4-5	ክትነብር	_	_	_	_	_	_	_	Translit=ktnəbr
+4	ክ	ክ	SCONJ	SCONJ	_	5	mark	_	_
+5	ትነብር	ነበረ	VERB	VSTEM	Aspect=Imp|Gender=Fem|Number=Sing|Person=3	6	xcomp	_	Aimad=SERAHI
+6	ትደልይ	ደለየ	VERB	VERB	Aspect=Imp|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=tdəly
+7	፤	፤	PUNCT	PUNCT	_	8	punct	_	_
+8-9	ሓፍታ	_	_	_	_	_	_	_	Translit=ħafta
+8	ሓፍቲ	ሓፍቲ	NOUN	NOUN	Gender=Fem|Number=Sing	6	conj	_	_
+9	ኣ	ኣ	DET	DET	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	det:poss	_	_
+10	ድማ	ድማ	ADV	ADV	_	8	cc	_	Translit=dma
+11	ኣብ	ኣብ	ADP	ADP	_	12	case	_	Translit=ʔab
+12	ጅማ	ጅማ	PROPN	PROPN	Number=Sing	8	orphan	_	Translit=ǰma
+13	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = ti_ref_55
+# text = እቲ ዝመደብናዮ ነገር ኣይሰለጠናን ።
+1	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	4	det	_	Translit=ʔti
+2-3	ዝመደብናዮ	_	_	_	_	_	_	_	Translit=zmədəbnayo
+2	ዝ	ዝ	SCONJ	SCONJ	_	3	mark	_	_
+3	መደብናዮ	መደበ	VERB	VSTEM	Aspect=Perf|Gender[obj]=Masc|Number=Plur|Number[obj]=Sing|Person=1|Person[obj]=3	4	acl	_	Aimad=SERAHI
+4	ነገር	ነገር	NOUN	NOUN	Number=Sing	6	obj	_	Translit=nəgər
+5-7	ኣይሰለጠናን	_	_	_	_	_	_	_	Translit=ʔaysələt'ənan
+5	ኣይ	ኣይ	ADV	ADV	Polarity=Neg	6	advmod:aff	_	_
+6	ሰለጠና	ሰለጠ	VERB	VSTEM	Aspect=Perf|Gender=Masc|Number=Sing|Number[obj]=Plur|Person=3|Person[obj]=1	0	root	_	Aimad=SERAHI
+7	ን	ን	ADV	ADV	Polarity=Neg	6	advmod:aff	_	_
+8	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = ti_ref_56
+# text = ዝመደብናዮ ኣይሰለጠናን ።
+1-2	ዝመደብናዮ	_	_	_	_	_	_	_	Translit=zmədəbnayo
+1	ዝ	ዝ	SCONJ	SCONJ	_	2	mark	_	_
+2	መደብናዮ	መደበ	VERB	VSTEM	Aspect=Perf|Gender[obj]=Masc|Number=Plur|Number[obj]=Sing|Person=1|Person[obj]=3	4	csubj	_	Aimad=SERAHI
+3-5	ኣይሰለጠናን	_	_	_	_	_	_	_	Translit=ʔaysələt'ənan
+3	ኣይ	ኣይ	ADV	ADV	Polarity=Neg	4	advmod:aff	_	_
+4	ሰለጠና	ሰለጠ	VERB	VSTEM	Aspect=Perf|Gender=Masc|Number=Sing|Number[obj]=Plur|Person=3|Person[obj]=1	0	root	_	Aimad=SERAHI
+5	ን	ን	ADV	ADV	Polarity=Neg	4	advmod:aff	_	_
+6	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = ti_ref_57
+# text = ዝተዛረበቶ ኣይተረደኣንን ።
+1-2	ዝተዛረበቶ	_	_	_	_	_	_	_	Translit=ztəzarəbəto
+1	ዝ	ዝ	SCONJ	SCONJ	_	2	mark	_	_
+2	ተዛረበቶ	ተዛረበ	VERB	VSTEM	Aspect=Perf|Gender=Fem|Gender[obj]=Masc|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3	4	csubj	_	Aimad=TESARAHI
+3-5	ኣይተረደኣንን	_	_	_	_	_	_	_	Translit=ʔaytərədəʔann
+3	ኣይ	ኣይ	ADV	ADV	Polarity=Neg	4	advmod:aff	_	_
+4	ተረደአን	ተረደአ	VERB	VSTEM	Aspect=Perf|Gender=Masc|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=1	0	root	_	Aimad=TESERAHI
+5	ን	ን	ADV	ADV	Polarity=Neg	4	advmod:aff	_	_
+6	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = ti_ref_58
+# text = ጡረታ ዝወጸ ኣይምህርን እዩ ።
+1	ጡረታ	ጡረታ	NOUN	NOUN	Number=Sing	3	obl	_	Translit=t'urəta
+2-3	ዝወጸ	_	_	_	_	_	_	_	Translit=zwəs'ə
+2	ዝ	ዝ	SCONJ	SCONJ	_	3	mark	_	_
+3	ወጸ	ወጽአ	VERB	VSTEM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	5	csubj	_	Aimad=SERAHI
+4-6	ኣይምህርን	_	_	_	_	_	_	_	Translit=ʔaymhrn
+4	ኣይ	ኣይ	ADV	ADV	Polarity=Neg	5	advmod:aff	_	_
+5	ይምህር	ምሃረ	VERB	VSTEM	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	0	root	_	Aimad=SERAHI
+6	ን	ን	ADV	ADV	Polarity=Neg	5	advmod:aff	_	_
+7	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	5	aux	_	Translit=ʔyu
+8	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = ti_ref_59
+# text = ነቲ ብድሕሪት ተሰሪዑ ዘሎ ወዲ ጸውዓዮ ።
+1-2	ነቲ	_	_	_	_	_	_	_	Translit=nəti
+1	ን	ን	ADP	ADP	_	8	case:pre	_	_
+2	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+3-4	ብድሕሪት	_	_	_	_	_	_	_	Translit=bdħrit
+3	ብ	ብ	ADP	ADP	_	4	case:pre	_	_
+4	ድሕሪት	ድሕሪት	NOUN	NOUN	Number=Sing	5	obl	_	_
+5	ተሰሪዑ	ተሰርዐ	VERB	VERB	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv|Voice=Pass	8	acl	_	Translit=təsəriʕu
+6-7	ዘሎ	_	_	_	_	_	_	_	Translit=zəlo
+6	ዝ	ዝ	SCONJ	SCONJ	_	5	mark	_	_
+7	ኣሎ	ኣሎ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	5	aux	_	Aimad=SERAHI
+8	ወዲ	ወዲ	NOUN	NOUN	Number=Sing	9	obj	_	Translit=wədi
+9	ጸውዓዮ	ጸውዔ	VERB	VERB	Gender=Masc|Gender[obj]=Masc|Mood=Imp|Number=Sing|Number[obj]=Sing|Person=2|Person[obj]=3	0	root	_	Translit=s'əwʕayo
+10	።	።	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = ti_ref_60
+# text = ነቲ ብድሕሪት ተሰሪዑ ዘሎ ጸውዓዮ ።
+1-2	ነቲ	_	_	_	_	_	_	_	Translit=nəti
+1	ን	ን	ADP	ADP	_	5	case:pre	_	_
+2	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+3-4	ብድሕሪት	_	_	_	_	_	_	_	Translit=bdħrit
+3	ብ	ብ	ADP	ADP	_	4	case:pre	_	_
+4	ድሕሪት	ድሕሪት	NOUN	NOUN	Number=Sing	5	obl	_	_
+5	ተሰሪዑ	ተሰርዐ	VERB	VERB	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv|Voice=Pass	8	ccomp	_	Translit=təsəriʕu
+6-7	ዘሎ	_	_	_	_	_	_	_	Translit=zəlo
+6	ዝ	ዝ	SCONJ	SCONJ	_	5	mark	_	_
+7	ኣሎ	ኣሎ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	5	aux	_	Aimad=SERAHI
+8	ጸውዓዮ	ጸውዐ	VERB	VERB	Gender=Masc|Gender[obj]=Masc|Mood=Imp|Number=Sing|Number[obj]=Sing|Person=2|Person[obj]=3	0	root	_	Translit=s'əwʕayo
+9	።	።	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = ti_ref_61a
+# text = ክንሰምዕ ኣለና ።
+1-2	ክንሰምዕ	_	_	_	_	_	_	_	Translit=knsəmʕ
+1	ክ	ክ	SCONJ	SCONJ	_	2	mark	_	_
+2	ንሰምዕ	ሰምዐ	VERB	VSTEM	Aspect=Imp|Number=Plur|Person=1	3	xcomp	_	Aimad=SERAHI
+3	ኣለና	ኣሎ	VERB	VERB	Gender=Masc|Number=Sing|Number[obj]=Plur|Person=3|Person[obj]=1|Tense=Pres	0	root	_	Translit=ʔaləna
+4	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = ti_ref_61b
+# text = ጽን ኢልና ክንሰምዕ ኣለና ።
+1	ጽን	ጽን	PART	PART	_	2	compound:lvc	_	Translit=s'n
+2	ኢልና	በለ	VERB	VERB	Number=Plur|Person=1|VerbForm=Conv	4	advcl	_	Translit=ʔilna
+3-4	ክንሰምዕ	_	_	_	_	_	_	_	Translit=knsəmʕ
+3	ክ	ክ	SCONJ	SCONJ	_	4	mark	_	_
+4	ንሰምዕ	ሰምዐ	VERB	VSTEM	Aspect=Imp|Number=Plur|Person=1	5	xcomp	_	Aimad=SERAHI
+5	ኣለና	ኣሎ	VERB	VERB	Gender=Masc|Number=Sing|Number[obj]=Plur|Person=3|Person[obj]=1|Tense=Pres	0	root	_	Translit=ʔaləna
+6	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = ti_ref_62
+# text = እቲ ትምህርቲ ምውድኡ ጽቡቕ እዩ ።
+1	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	2	det	_	Translit=ʔti
+2	ትምህርቲ	ትምህርቲ	NOUN	NOUN	Number=Sing	3	nsubj	_	Translit=tmhrti
+3-4	ምውድኡ	_	_	_	_	_	_	_	Translit=mwdʔu
+3	ምውዳእ	ምውዳእ	NOUN	NOUN	Number=Sing	5	csubj	_	_
+4	ኡ	ኡ	DET	DET	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det:poss	_	_
+5	ጽቡቕ	ጽቡቕ	ADJ	ADJ	Number=Sing	0	root	_	Translit=s'bux'
+6	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	5	cop	_	Translit=ʔyu
+7	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = ti_ref_63
+# text = ሃብታማት ምዃኖም ኣገሪሙና ።
+1	ሃብታማት	ሃብታም	ADJ	ADJ	Number=Plur	2	xcomp:pred	_	Translit=habtamat
+2-3	ምዃኖም	_	_	_	_	_	_	_	Translit=mxwanom
+2	ምዃን	ምዃን	NOUN	NOUN	Number=Sing|VerbForm=Vnoun	4	csubj	_	_
+3	ኦም	ኦም	DET	DET	Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	det:poss	_	_
+4	ኣገሪሙና	ኣግረመ	VERB	VERB	Aspect=Perf|Gender=Masc|Number=Sing|Number[obj]=Plur|Person=3|Person[obj]=1|Voice=Cau	0	root	_	Translit=ʔagərimuna
+5	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = ti_ref_64
+# text = ሃብታም ምዃና ተፈሊጡ ።
+1	ሃብታም	ሃብታም	ADJ	ADJ	Number=Sing	2	xcomp:pred	_	Translit=habtam
+2-3	ምዃና	_	_	_	_	_	_	_	Translit=mxwana
+2	ምዃን	ምዃን	NOUN	NOUN	Number=Sing|VerbForm=Vnoun	4	csubj:pass	_	_
+3	ኣ	ኣ	DET	DET	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det:poss	_	_
+4	ተፈሊጡ	ተፈልጠ	VERB	VERB	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Pass	0	root	_	Translit=təfəlit'u
+5	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = ti_ref_65
+# text = ናብ ገዝኣ ከም እትምለስ እፈልጥ ነይሩ ።
+1	ናብ	ናብ	ADP	ADP	_	2	case	_	Translit=nab
+2-3	ገዝኣ	_	_	_	_	_	_	_	Translit=gəzʔa
+2	ገዛ	ገዛ	NOUN	NOUN	Number=Sing	6	obl	_	_
+3	ኣ	ኣ	DET	DET	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det:poss	_	_
+4	ከም	ከም	ADP	ADP	_	6	mark	_	Translit=kəm
+5-6	እትምለስ	_	_	_	_	_	_	_	Translit=ʔtmləs
+5	ዝ	ዝ	SCONJ	SCONJ	_	6	mark	_	_
+6	ትምለስ	ተመልሰ	VERB	VERB	Aspect=Imp|Gender=Fem|Number=Sing|Person=3|Voice=Pass	7	ccomp	_	Aimad=TESERAHI
+7	እፈልጥ	ፈለጠ	VERB	VERB	Aspect=Imp|Number=Sing|Person=1	0	root	_	Translit=ʔfəlt'
+8	ነይሩ	ነበረ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Past	7	aux	_	Translit=nəyru
+9	።	።	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = ti_ref_66a
+# text = ንሰብ ዘይምኽባር ናይ ዘይምብሳል ምልክት እዩ ።
+1-2	ንሰብ	_	_	_	_	_	_	_	Translit=nsəb
+1	ን	ን	ADP	ADP	_	2	case:pre	_	_
+2	ሰብ	ሰብ	NOUN	NOUN	Number=Sing	4	obj	_	_
+3-4	ዘይምኽባር	_	_	_	_	_	_	_	Translit=zəymxbar
+3	ዘይ	ዘይ	ADV	ADV	Polarity=Neg	4	advmod:aff	_	_
+4	ምክባር	ምኽባር	NOUN	NOUN	Number=Sing|VerbForm=Vnoun	8	csubj	_	_
+5	ናይ	ናይ	ADP	ADP	_	7	case	_	Translit=nay
+6-7	ዘይምብሳል	_	_	_	_	_	_	_	Translit=zəymbsal
+6	ዘይ	ዘይ	ADV	ADV	Polarity=Neg	7	advmod:aff	_	_
+7	ምብሳል	ምብሳል	NOUN	NOUN	Number=Sing|VerbForm=Vnoun	8	nmod	_	_
+8	ምልክት	ምልክት	NOUN	NOUN	Number=Sing	0	root	_	Translit=mlkt
+9	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	8	cop	_	Translit=ʔyu
+10	።	።	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = ti_ref_66b
+# text = ሰብ ዘይምኽባር ናይ ዘይምብሳል ምልክት እዩ ።
+1	ሰብ	ሰብ	NOUN	NOUN	Number=Sing	3	obj	_	Translit=səb
+2-3	ዘይምኽባር	_	_	_	_	_	_	_	Translit=zəymxbar
+2	ዘይ	ዘይ	ADV	ADV	Polarity=Neg	3	advmod:aff	_	_
+3	ምክባር	ምኽባር	NOUN	NOUN	Number=Sing|VerbForm=Vnoun	7	csubj	_	_
+4	ናይ	ናይ	ADP	ADP	_	6	case	_	Translit=nay
+5-6	ዘይምብሳል	_	_	_	_	_	_	_	Translit=zəymbsal
+5	ዘይ	ዘይ	ADV	ADV	Polarity=Neg	6	advmod:aff	_	_
+6	ምብሳል	ምብሳል	NOUN	NOUN	Number=Sing|VerbForm=Vnoun	7	nmod	_	_
+7	ምልክት	ምልክት	NOUN	NOUN	Number=Sing	0	root	_	Translit=mlkt
+8	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	7	cop	_	Translit=ʔyu
+9	።	።	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = ti_ref_67
+# text = ንሳ ወላ ኣይትምጻእ ፡ ምኻድና ግድን እዩ ።
+1	ንሳ	ንሳ	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Translit=nsa
+2	ወላ	ወላ	ADV	ADV	_	4	advmod	_	Translit=wəla
+3-4	ኣይትምጻእ	_	_	_	_	_	_	_	Translit=ʔaytms'aʔ
+3	ኣይ	ኣይ	ADV	ADV	Polarity=Neg	4	advmod:aff	_	_
+4	ትምጻእ	መጽአ	VERB	VSTEM	Gender=Fem|Mood=Jus|Number=Sing|Person=3	8	advcl	_	Aimad=SERAHI
+5	፡	፡	PUNCT	PUNCT	_	4	punct	_	_
+6-7	ምኻድና	_	_	_	_	_	_	_	Translit=mxadna
+6	ምኻድ	ምኻድ	NOUN	NOUN	Number=Sing	8	csubj	_	_
+7	ና	ና	DET	DET	Number=Plur|Person=1|Poss=Yes|PronType=Prs	6	det:poss	_	_
+8	ግድን	ግድን	NOUN	NOUN	Number=Sing	0	root	_	Translit=gdn
+9	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	8	cop	_	Translit=ʔyu
+10	።	።	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = ti_ref_68
+# text = ዝኾነ ይኹን ሰብ ጉዳየይ ኢሉ ፡ ነቲ ነገር ኣትኵሮ ዘይምሃቡ ኣሕዚኑዋ ።
+1-2	ዝኾነ	_	_	_	_	_	_	_	Translit=zxonə
+1	ዝ	ዝ	SCONJ	DET	ExtPos=DET	4	det	_	_
+2	ኮነ	ኮነ	VERB	VSTEM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	1	fixed	_	Aimad=SERAHI
+3	ይኹን	ኮነ	VERB	VERB	Gender=Masc|Mood=Jus|Number=Sing|Person=3	1	fixed	_	Translit=yxun
+4	ሰብ	ሰብ	NOUN	NOUN	Number=Sing	7	nsubj	_	Translit=səb
+5-6	ጉዳየይ	_	_	_	_	_	_	_	Translit=gudayəy
+5	ጉዳይ	ጉዳይ	NOUN	NOUN	Number=Sing	7	ccomp	_	_
+6	አይ	አይ	DET	DET	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	det:poss	_	_
+7	ኢሉ	በለ	VERB	VERB	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	16	advcl	_	Translit=ʔilu
+8	፡	፡	PUNCT	PUNCT	_	7	punct	_	_
+9-10	ነቲ	_	_	_	_	_	_	_	Translit=nəti
+9	ን	ን	ADP	ADP	_	11	case:pre	_	_
+10	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	ነገር	ነገር	NOUN	NOUN	Number=Sing	14	iobj	_	Translit=nəgər
+12	ኣትኵሮ	ኣትኵሮ	NOUN	NOUN	Number=Sing	14	obj	_	Translit=ʔatəkwro
+13-15	ዘይምሃቡ	_	_	_	_	_	_	_	Translit=zəymhabu
+13	ዘይ	ዘይ	ADV	ADV	Polarity=Neg	14	advmod:aff	_	_
+14	ምሃብ	ምሃብ	NOUN	NOUN	Number=Sing|VerbForm=Vnoun	16	csubj	_	_
+15	ኡ	ኡ	DET	DET	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	det:poss	_	_
+16	ኣሕዚኑዋ	ኣሕዘነ	VERB	VERB	Aspect=Perf|Gender=Masc|Gender[obj]=Fem|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3|Voice=Cau	0	root	_	Translit=ʔaħzinuwa
+17	።	።	PUNCT	PUNCT	_	16	punct	_	_
+
+# sent_id = ti_ref_69
+# text = ነዚ ምግቢ ኣይፈትዎን እየ ኢላ ።
+1-2	ነዚ	_	_	_	_	_	_	_	Translit=nəzi
+1	ን	ን	ADP	ADP	_	3	case:pre	_	_
+2	እዚ	እዚ	DET	DET	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+3	ምግቢ	ምግቢ	NOUN	NOUN	Number=Sing	5	obj	_	Translit=mgbi
+4-6	ኣይፈትዎን	_	_	_	_	_	_	_	Translit=ʔayfətwon
+4	ኣይ	ኣይ	ADV	ADV	Polarity=Neg	5	advmod:aff	_	_
+5	እፈትዎ	ፈተወ	VERB	VSTEM	Aspect=Imp|Gender[obj]=Masc|Number=Sing|Number[obj]=Sing|Person=1|Person[obj]=3	8	ccomp	_	Aimad=SERAHI
+6	ን	ን	ADV	ADV	Polarity=Neg	5	advmod:aff	_	_
+7	እየ	እዩ	AUX	AUX	Number=Sing|Person=1|Tense=Pres	5	aux	_	Translit=ʔyə
+8	ኢላ	በለ	VERB	VERB	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=ʔila
+9	።	።	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = ti_ref_70
+# text = ነቲ ስራሕ ክውድሶ ኢሉ ሓሲቡ ።
+1-2	ነቲ	_	_	_	_	_	_	_	Translit=nəti
+1	ን	ን	ADP	ADP	_	3	case:pre	_	_
+2	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	ስራሕ	ስራሕ	NOUN	NOUN	Number=Sing	5	obj	_	Translit=sraħ
+4-5	ክውድሶ	_	_	_	_	_	_	_	Translit=kwdso
+4	ክ	ክ	SCONJ	SCONJ	_	5	mark	_	_
+5	ይውድሶ	ወደሰ	VERB	VSTEM	Aspect=Imp|Gender[obj]=Masc|Number=Sing|Number[obj]=Sing|Person=1|Person[obj]=3	6	ccomp	_	Aimad=SERAHI
+6	ኢሉ	በለ	VERB	VERB	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	7	advcl	_	Translit=ʔilu
+7	ሓሲቡ	ሓሰበ	VERB	VERB	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=ħasibu
+8	።	።	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = ti_ref_71
+# text = ወዳ ትምህርቲ ተቢዑ ንኽምሃር መኺራቶ ።
+1-2	ወዳ	_	_	_	_	_	_	_	Translit=wəda
+1	ወዲ	ወዲ	NOUN	NOUN	Number=Sing	8	obj	_	_
+2	ኣ	ኣ	DET	DET	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	det:poss	_	_
+3	ትምህርቲ	ትምህርቲ	NOUN	NOUN	Number=Sing	7	obj	_	Translit=tmhrti
+4	ተቢዑ	ተብዐ	VERB	VERB	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	7	advcl	_	Translit=təbiʕu
+5-7	ንኽምሃር	_	_	_	_	_	_	_	Translit=nxmhar
+5	ን	ን	ADP	ADP	_	7	mark	_	_
+6	ክ	ክ	SCONJ	SCONJ	_	7	mark	_	_
+7	ይምሃር	ተማህረ	VERB	VSTEM	Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Voice=Pass	8	xcomp	_	Aimad=TESERAHI
+8	መኺራቶ	መኸረ	VERB	VERB	Aspect=Perf|Gender=Fem|Gender[obj]=Masc|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3	0	root	_	Translit=məxirato
+9	።	።	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = ti_ref_72
+# text = ወዳ ትምህርቱ ተቢዑ ንኽምሃር ምምካር ኣየቋረጸትን ።
+1-2	ወዳ	_	_	_	_	_	_	_	Translit=wəda
+1	ወዲ	ወዲ	NOUN	NOUN	Number=Sing	8	nsubj	_	_
+2	ኣ	ኣ	DET	DET	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	det:poss	_	_
+3-4	ትምህርቱ	_	_	_	_	_	_	_	Translit=tmhrtu
+3	ትምህርቲ	ትምህርቲ	NOUN	NOUN	Number=Sing	8	obj	_	_
+4	ኡ	ኡ	DET	DET	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det:poss	_	_
+5	ተቢዑ	ተብዐ	VERB	VERB	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	8	advcl	_	Translit=təbiʕu
+6-8	ንኽምሃር	_	_	_	_	_	_	_	Translit=nxmhar
+6	ን	ን	ADP	ADP	_	8	mark	_	_
+7	ክ	ክ	SCONJ	SCONJ	_	8	mark	_	_
+8	ይምሃር	መሃረ	VERB	VSTEM	Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Voice=Pass	9	advcl	_	Aimad=TESERAHI
+9	ምምካር	ምምካር	NOUN	NOUN	Number=Sing|VerbForm=Vnoun	11	xcomp	_	Translit=mmkar
+10-12	ኣየቋረጸትን	_	_	_	_	_	_	_	Translit=ʔayək'warəs'ətn
+10	ኣይ	ኣይ	ADV	ADV	Polarity=Neg	11	advmod:aff	_	_
+11	ኣቋረጸት	ኣቋረጸ	VERB	VSTEM	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Voice=Cau	0	root	_	Aimad=ASARAHI
+12	ን	ን	ADV	ADV	Polarity=Neg	11	advmod:aff	_	_
+13	።	።	PUNCT	PUNCT	_	11	punct	_	_
+
+# sent_id = ti_ref_73a
+# text = ክበክይ ጀሚሩ ።
+1-2	ክበክይ	_	_	_	_	_	_	_	Translit=kbəky
+1	ክ	ክ	SCONJ	SCONJ	_	2	mark	_	_
+2	ይበክይ	በኸየ	VERB	VSTEM	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	3	xcomp	_	Aimad=SERAHI
+3	ጀሚሩ	ጀመረ	VERB	VERB	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=ǰəmiru
+4	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = ti_ref_73b
+# text = ምብካይ ጀሚሩ ።
+1	ምብካይ	ምብካይ	NOUN	NOUN	Number=Sing|VerbForm=Vnoun	2	xcomp	_	Translit=mbkay
+2	ጀሚሩ	ጀመረ	VERB	VERB	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=ǰəmiru
+3	።	።	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = ti_ref_74
+# text = እታ ጽሓይ ቀስ እናበለት ክትዓርብ እንከላ ፡ ከም ካብ ናይ ሰብ ጠመተ ትሃድም ሓፋር ጓል ትመስል ነይራ ።
+1	እታ	እታ	DET	DET	Gender=Fem|Number=Sing|PronType=Art	2	det	_	Translit=ʔta
+2	ጽሓይ	ጽሓይ	NOUN	NOUN	Gender=Fem|Number=Sing	7	nsubj	_	Translit=s'əħay
+3	ቀስ	ቀስ	PART	PART	_	5	compound:lvc	_	Translit=k'əs
+4-5	እናበለት	_	_	_	_	_	_	_	Translit=ʔnabələt
+4	እና	እና	SCONJ	SCONJ	_	5	mark	_	_
+5	በለት	በለ	VERB	VSTEM	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	7	advcl	_	Aimad=SERAHI
+6-7	ክትዓርብ	_	_	_	_	_	_	_	Translit=ktʕarb
+6	ክ	ክ	SCONJ	SCONJ	_	7	mark	_	_
+7	ትዓርብ	ዓረበ	VERB	VSTEM	Aspect=Imp|Gender=Fem|Number=Sing|Person=3	19	advcl	_	Aimad=SERAHI
+8-9	እንከላ	_	_	_	_	_	_	_	Translit=ʔnkəla
+8	እንክ	እንክ	SCONJ	SCONJ	_	7	mark	_	_
+9	ኣላ	ኣሎ	AUX	VSTEM	Gender=Fem|Number=Sing|Person=3|Tense=Pres	7	aux	_	Aimad=SERAHI
+10	፡	፡	PUNCT	PUNCT	_	7	punct	_	_
+11	ከም	ከም	ADP	ADP	_	18	case	_	Translit=kəm
+12	ካብ	ካብ	ADP	ADP	_	15	case	_	Translit=kab
+13	ናይ	ናይ	ADP	ADP	_	14	case	_	Translit=nay
+14	ሰብ	ሰብ	NOUN	NOUN	Number=Sing	15	nmod	_	Translit=səb
+15	ጠመተ	ጠመተ	NOUN	NOUN	Number=Sing	16	obl	_	Translit=t'əmətə
+16	ትሃድም	ሃደመ	VERB	VERB	Aspect=Imp|Gender=Fem|Number=Sing|Person=3	18	acl	_	Translit=thdm
+17	ሓፋር	ሓፋር	ADJ	ADJ	Number=Sing	18	amod	_	Translit=ħafar
+18	ጓል	ጓል	NOUN	NOUN	Gender=Fem|Number=Sing	19	xcomp	_	Translit=gwal
+19	ትመስል	መሰለ	VERB	VERB	Aspect=Imp|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=tməsl
+20	ነይራ	ነበረ	AUX	AUX	Gender=Fem|Number=Sing|Person=3|Tense=Past	19	aux	_	Translit=nəyra
+21	።	።	PUNCT	PUNCT	_	19	punct	_	_
+
+# sent_id = ti_ref_75
+# text = ይመስይ ስለዝነበረ ተሃዊኽና ከይድና ።
+1	ይመስይ	መሰየ	VERB	VERB	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	5	advcl	_	Translit=yməsy
+2-4	ስለዝነበረ	_	_	_	_	_	_	_	Translit=sləznəbərə
+2	ስለ	ስለ	ADP	ADP	_	1	mark	_	_
+3	ዝ	ዝ	SCONJ	SCONJ	_	1	mark	_	_
+4	ነበረ	ነበረ	AUX	VSTEM	Gender=Masc|Number=Sing|Person=3|Tense=Past	1	aux	_	Aimad=SERAHI
+5	ተሃዊኽና	ተሃወኸ	VERB	VERB	Number=Plur|Person=1|VerbForm=Conv|Voice=Pass	6	advcl	_	Translit=təhawixna
+6	ከይድና	ከደ	VERB	VERB	Aspect=Perf|Number=Plur|Person=1	0	root	_	Translit=kəydna
+7	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = ti_ref_76a
+# text = ካብ ቤት ትምህርቲ ወደይ ንኸምጽእ ክኸይድ እየ ።
+1	ካብ	ካብ	ADP	ADP	_	2	case	_	Translit=kab
+2	ቤት	ቤት	NOUN	NOUN	Number=Sing	8	obl	_	Translit=bet
+3	ትምህርቲ	ትምህርቲ	NOUN	NOUN	Number=Sing	2	compound	_	Translit=tmhrti
+4-5	ወደይ	_	_	_	_	_	_	_	Translit=wədəy
+4	ወዲ	ወዲ	NOUN	NOUN	Number=Sing	8	obj	_	_
+5	አይ	አይ	DET	DET	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	det:poss	_	_
+6-8	ንኸምጽእ	_	_	_	_	_	_	_	Translit=nxəms'ʔ
+6	ን	ን	ADP	ADP	_	8	mark	_	_
+7	ክ	ክ	SCONJ	SCONJ	_	8	mark	_	_
+8	የምጽእ	ኣምጽአ	VERB	VSTEM	Aspect=Imp|Number=Sing|Person=1|Voice=Cau	10	advcl	_	Aimad=ASRAHI
+9-10	ክኸይድ	_	_	_	_	_	_	_	Translit=kxəyd
+9	ክ	ክ	SCONJ	SCONJ	_	10	mark	_	_
+10	ይኸይድ	ከደ	VERB	VSTEM	Aspect=Imp|Number=Sing|Person=1	0	root	_	Aimad=SERAHI
+11	እየ	እዩ	AUX	AUX	Number=Sing|Person=1|Tense=Pres	10	aux	_	Translit=ʔyə
+12	።	።	PUNCT	PUNCT	_	10	punct	_	_
+
+# sent_id = ti_ref_76b
+# text = ካብ ቤት ትምህርቲ ወደይ ከምጽእ ክኸይድ እየ ።
+1	ካብ	ካብ	ADP	ADP	_	2	case	_	Translit=kab
+2	ቤት	ቤት	NOUN	NOUN	Number=Sing	7	obl	_	Translit=bet
+3	ትምህርቲ	ትምህርቲ	NOUN	NOUN	Number=Sing	2	compound	_	Translit=tmhrti
+4-5	ወደይ	_	_	_	_	_	_	_	Translit=wədəy
+4	ወዲ	ወዲ	NOUN	NOUN	Number=Sing	7	obj	_	_
+5	አይ	አይ	DET	DET	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	det:poss	_	_
+6-7	ከምጽእ	_	_	_	_	_	_	_	Translit=kəms'ʔ
+6	ክ	ክ	SCONJ	SCONJ	_	7	mark	_	_
+7	የምጽእ	ኣምጽአ	VERB	VSTEM	Aspect=Imp|Number=Sing|Person=1|Voice=Cau	9	advcl	_	Aimad=ASRAHI
+8-9	ክኸይድ	_	_	_	_	_	_	_	Translit=kxəyd
+8	ክ	ክ	SCONJ	SCONJ	_	9	mark	_	_
+9	ይኸይድ	ከደ	VERB	VSTEM	Aspect=Imp|Number=Sing|Person=1	0	root	_	Aimad=SERAHI
+10	እየ	እዩ	AUX	AUX	Number=Sing|Person=1|Tense=Pres	9	aux	_	Translit=ʔyə
+11	።	።	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = ti_ref_77
+# text = እቲ መምህር ናብ ቤት ትምህርቲ ንኽመጹ ኣዚዙዎም ።
+1	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	2	det	_	Translit=ʔti
+2	መምህር	መምህር	NOUN	NOUN	Number=Sing	9	nsubj	_	Translit=məmhr
+3	ናብ	ናብ	ADP	ADP	_	4	case	_	Translit=nab
+4	ቤት	ቤት	NOUN	NOUN	Number=Sing	8	obl	_	Translit=bet
+5	ትምህርቲ	ትምህርቲ	NOUN	NOUN	Number=Sing	4	compound	_	Translit=tmhrti
+6-8	ንኽመጹ	_	_	_	_	_	_	_	Translit=nxməs'u
+6	ን	ን	ADP	ADP	_	8	mark	_	_
+7	ክ	ክ	SCONJ	SCONJ	_	8	mark	_	_
+8	ይመጹ	መጽአ	VERB	VSTEM	Aspect=Imp|Gender=Masc|Number=Plur|Person=3	9	xcomp	_	Aimad=SERAHI
+9	ኣዚዙዎም	ኣዘዘ	VERB	VERB	Aspect=Perf|Gender=Masc|Gender[obj]=Masc|Number=Sing|Number[obj]=Plur|Person=3|Person[obj]=3	0	root	_	Translit=ʔazizuwom
+10	።	።	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = ti_ref_78
+# text = ምስ ወግሐ ናብ ቤት ሕክምና ክወስዳ እየ ።
+1	ምስ	ምስ	ADP	ADP	_	2	mark	_	Translit=ms
+2	ወግሐ	ወግሐ	VERB	VERB	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	7	advcl	_	Translit=wəgħɛ
+3	ናብ	ናብ	ADP	ADP	_	4	case	_	Translit=nab
+4	ቤት	ቤት	NOUN	NOUN	Number=Sing	7	obl	_	Translit=bet
+5	ሕክምና	ሕክምና	NOUN	NOUN	Number=Sing	4	compound	_	Translit=ħkmna
+6-7	ክወስዳ	_	_	_	_	_	_	_	Translit=kwəsda
+6	ክ	ክ	SCONJ	SCONJ	_	7	mark	_	_
+7	ይወስዳ	ወሰደ	VERB	VSTEM	Aspect=Imp|Gender[obj]=Fem|Number=Sing|Number[obj]=Sing|Person=1|Person[obj]=3	0	root	_	Aimad=SERAHI
+8	እየ	እዩ	AUX	AUX	Number=Sing|Person=1|Tense=Pres	7	aux	_	Translit=ʔyə
+9	።	።	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = ti_ref_79
+# text = ዝመጹ እንተኾይኖም ሓብሮ ።
+1-2	ዝመጹ	_	_	_	_	_	_	_	Translit=zməs'u
+1	ዝ	ዝ	SCONJ	SCONJ	_	2	mark	_	_
+2	ይመጹ	መጽአ	VERB	VSTEM	Aspect=Imp|Gender=Masc|Number=Plur|Person=3	5	advcl	_	Aimad=SERAHI
+3-4	እንተኾይኖም	_	_	_	_	_	_	_	Translit=ʔntəxoynom
+3	እንተ	እንተ	ADP	ADP	_	2	mark	_	_
+4	ኮይኖም	ኮነ	AUX	VSTEM	Aspect=Perf|Gender=Masc|Number=Plur|Person=3	2	aux	_	Aimad=SERAHI
+5	ሓብሮ	ሓበረ	VERB	VERB	Gender=Masc|Gender[obj]=Masc|Mood=Imp|Number=Sing|Number[obj]=Sing|Person=2|Person[obj]=3	0	root	_	Translit=ħabro
+6	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = ti_ref_80
+# text = ካበየናይ ሃገር ከምዝመጹ እንተፈሊጥና ፡ ዝርድኣና ኣተርጓሚ ክንደልይ ኢና ።
+1-2	ካበየናይ	_	_	_	_	_	_	_	Translit=kabəyənay
+1	ካብ	ካብ	ADP	ADP	_	3	case	_	_
+2	ኣየናይ	ኣየናይ	DET	DET	Number=Sing|PronType=Int	3	det	_	_
+3	ሃገር	ሃገር	NOUN	NOUN	Number=Sing	6	obl	_	Translit=hagər
+4-6	ከምዝመጹ	_	_	_	_	_	_	_	Translit=kəmzməs'u
+4	ከም	ከም	ADP	ADP	_	6	mark	_	_
+5	ዝ	ዝ	SCONJ	SCONJ	_	6	mark	_	_
+6	ይመጹ	መጽአ	VERB	VSTEM	Aspect=Imp|Gender=Masc|Number=Plur|Person=3	8	ccomp	_	Aimad=SERAHI
+7-8	እንተፈሊጥና	_	_	_	_	_	_	_	Translit=ʔntəfəlit'na
+7	እንተ	እንተ	ADP	ADP	_	8	mark	_	_
+8	ፈሊጥና	ፈለጠ	VERB	VSTEM	Aspect=Perf|Number=Plur|Person=1	14	advcl	_	Aimad=SERAHI
+9	፡	፡	PUNCT	PUNCT	_	8	punct	_	_
+10-11	ዝርድኣና	_	_	_	_	_	_	_	Translit=zrdʔana
+10	ዝ	ዝ	SCONJ	SCONJ	_	11	mark	_	_
+11	ይርድእና	ተረድአ	VERB	VSTEM	Aspect=Imp|Gender=Masc|Number=Sing|Number[obj]=Plur|Person=3|Person[obj]=1	12	acl	_	Aimad=TESERAHI
+12	ኣተርጓሚ	ኣተርጓሚ	NOUN	NOUN	Number=Sing	14	obj	_	Translit=ʔatərgwami
+13-14	ክንደልይ	_	_	_	_	_	_	_	Translit=kndəly
+13	ክ	ክ	SCONJ	SCONJ	_	14	mark	_	_
+14	ንደልይ	ደለየ	VERB	VSTEM	Aspect=Imp|Number=Plur|Person=1	0	root	_	Aimad=SERAHI
+15	ኢና	እዩ	AUX	AUX	Number=Plur|Person=1|Tense=Pres	14	aux	_	Translit=ʔina
+16	።	።	PUNCT	PUNCT	_	14	punct	_	_
+
+# sent_id = ti_ref_81
+# text = ዝበልዖ ምስ ሰኣነ ፡ ወደይ ስኒ ኣውጺኡ ።
+1-2	ዝበልዖ	_	_	_	_	_	_	_	Translit=zbəlʕo
+1	ዝ	ዝ	SCONJ	SCONJ	_	2	mark	_	_
+2	ይበልዖ	በልዔ	VERB	VSTEM	Aspect=Imp|Gender[obj]=Masc|Number=Sing|Number[obj]=Sing|Person=1|Person[obj]=3	4	ccomp	_	Aimad=SERAHI
+3	ምስ	ምስ	SCONJ	SCONJ	_	4	mark	_	Translit=ms
+4	ሰኣነ	ሰኣነ	VERB	VERB	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	9	advcl	_	Translit=səʔanə
+5	፡	፡	PUNCT	PUNCT	_	4	punct	_	_
+6-7	ወደይ	_	_	_	_	_	_	_	Translit=wədəy
+6	ወዲ	ወዲ	NOUN	NOUN	Number=Sing	9	nsubj	_	_
+7	አይ	አይ	DET	DET	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	det:poss	_	_
+8	ስኒ	ስኒ	NOUN	NOUN	Number=Sing	9	obj	_	Translit=sni
+9	ኣውጺኡ	ኣውጽአ	VERB	VERB	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Cau	0	root	_	Translit=ʔaws'iʔu
+10	።	።	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = ti_ref_82
+# text = መጺኡ ኢሉ ከይዱ ።
+1	መጺኡ	መጽአ	VERB	VERB	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	2	ccomp	_	Translit=məs'iʔu
+2	ኢሉ	በለ	VERB	VERB	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	3	advcl	_	Translit=ʔilu
+3	ከይዱ	ከደ	VERB	VERB	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=kəydu
+4	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = ti_ref_83
+# text = ስርሐይ ውድእ ምስ ኣበልኩ ክመጽእ እየ ።
+1-2	ስርሐይ	_	_	_	_	_	_	_	Translit=srħɛy
+1	ስራሕ	ስራሕ	NOUN	NOUN	Number=Sing	3	obj	_	_
+2	አይ	አይ	DET	DET	Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	det:poss	_	_
+3	ውድእ	ውድእ	PART	PART	_	7	advcl	_	Translit=wdʔ
+4	ምስ	ምስ	SCONJ	SCONJ	_	5	mark	_	Translit=ms
+5	ኣበልኩ	ኣበለ	VERB	VERB	Aspect=Perf|Number=Sing|Person=1|Voice=Cau	3	compound	_	Translit=ʔabəlku
+6-7	ክመጽእ	_	_	_	_	_	_	_	Translit=kməs'ʔ
+6	ክ	ክ	SCONJ	SCONJ	_	7	mark	_	_
+7	ይመጽእ	መጽአ	VERB	VSTEM	Aspect=Imp|Number=Sing|Person=1	0	root	_	Aimad=SERAHI
+8	እየ	እዩ	AUX	AUX	Number=Sing|Person=1|Tense=Pres	7	aux	_	Translit=ʔyə
+9	።	።	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = ti_ref_84
+# text = ስርሐይ ወዲአ ክመጽእ እየ ።
+1-2	ስርሐይ	_	_	_	_	_	_	_	Translit=srħɛy
+1	ስራሕ	ስራሕ	NOUN	NOUN	Number=Sing	3	obj	_	_
+2	አይ	አይ	DET	DET	Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	det:poss	_	_
+3	ወዲአ	ወድአ	VERB	VERB	Number=Sing|Person=1|VerbForm=Conv	5	advcl	_	Translit=wədiʔɛ
+4-5	ክመጽእ	_	_	_	_	_	_	_	Translit=kməs'ʔ
+4	ክ	ክ	SCONJ	SCONJ	_	5	mark	_	_
+5	ይመጽእ	መጽአ	VERB	VSTEM	Aspect=Imp|Number=Sing|Person=1	0	root	_	Aimad=SERAHI
+6	እየ	እዩ	AUX	AUX	Number=Sing|Person=1|Tense=Pres	5	aux	_	Translit=ʔyə
+7	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = ti_ref_85
+# text = ስርሐይ ምስ ወዳእኩ ክመጽእ እየ ።
+1-2	ስርሐይ	_	_	_	_	_	_	_	Translit=srħɛy
+1	ስራሕ	ስራሕ	NOUN	NOUN	Number=Sing	4	obj	_	_
+2	አይ	አይ	DET	DET	Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	det:poss	_	_
+3	ምስ	ምስ	SCONJ	SCONJ	_	4	mark	_	Translit=ms
+4	ወዳእኩ	ወድአ	VERB	VERB	Aspect=Perf|Number=Sing|Person=1	6	advcl	_	Translit=wədaʔku
+5-6	ክመጽእ	_	_	_	_	_	_	_	Translit=kməs'ʔ
+5	ክ	ክ	SCONJ	SCONJ	_	6	mark	_	_
+6	ይመጽእ	መጽአ	VERB	VSTEM	Aspect=Imp|Number=Sing|Person=1	0	root	_	Aimad=SERAHI
+7	እየ	እዩ	AUX	AUX	Number=Sing|Person=1|Tense=Pres	6	aux	_	Translit=ʔyə
+8	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = ti_ref_86
+# text = ስርሐይ ውድእ ኣቢለ ክመጽእ እየ ።
+1-2	ስርሐይ	_	_	_	_	_	_	_	Translit=srħɛy
+1	ስራሕ	ስራሕ	NOUN	NOUN	Number=Sing	4	obj	_	_
+2	አይ	አይ	DET	DET	Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	det:poss	_	_
+3	ውድእ	ውድእ	PART	PART	_	4	compound:lvc	_	Translit=wdʔ
+4	ኣቢለ	ኣበለ	VERB	VERB	Number=Sing|Person=1|VerbForm=Conv|Voice=Cau	6	advcl	_	Translit=ʔabilə
+5-6	ክመጽእ	_	_	_	_	_	_	_	Translit=kməs'ʔ
+5	ክ	ክ	SCONJ	SCONJ	_	6	mark	_	_
+6	ይመጽእ	መጽአ	VERB	VSTEM	Aspect=Imp|Number=Sing|Person=1	0	root	_	Aimad=SERAHI
+7	እየ	እዩ	AUX	AUX	Number=Sing|Person=1|Tense=Pres	6	aux	_	Translit=ʔyə
+8	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = ti_ref_87
+# text = ንኣቡኡ እናኣለየ ጊዜኡ የሕልፍ ።
+1-3	ንኣቡኡ	_	_	_	_	_	_	_	Translit=nʔabuʔu
+1	ን	ን	ADP	ADP	_	2	case:pre	_	_
+2	ኣቦ	ኣቦ	NOUN	NOUN	Number=Sing	5	obj	_	_
+3	ኡ	ኡ	DET	DET	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det:poss	_	_
+4-5	እናኣለየ	_	_	_	_	_	_	_	Translit=ʔnaʔaləyə
+4	እና	እና	SCONJ	SCONJ	_	5	mark	_	_
+5	ኣለየ	ኣለየ	VERB	VSTEM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	8	advcl	_	Aimad=SERAHI
+6-7	ጊዜኡ	_	_	_	_	_	_	_	Translit=gizeʔu
+6	ጊዜ	ጊዜ	NOUN	NOUN	Number=Sing	8	obj	_	_
+7	ኡ	ኡ	DET	DET	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	det:poss	_	_
+8	የሕልፍ	ኣሕለፈ	VERB	VERB	Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Voice=Cau	0	root	_	Translit=yəħlf
+9	።	።	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = ti_ref_88a
+# text = ደሞዝ ምስ ተኸፍለኒ ፡ ዕዳይ ክመልስ እየ ።
+1	ደሞዝ	ደሞዝ	NOUN	NOUN	Number=Sing	3	nsubj:pass	_	Translit=dəmoz
+2	ምስ	ምስ	SCONJ	SCONJ	_	3	mark	_	Translit=ms
+3	ተኸፍለኒ	ተኸፍለ	VERB	VERB	Aspect=Perf|Gender=Masc|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=1|Voice=Pass	8	advcl	_	Translit=təxəfləni
+4	፡	፡	PUNCT	PUNCT	_	3	punct	_	_
+5-6	ዕዳይ	_	_	_	_	_	_	_	Translit=ʕday
+5	ዕዳ	ዕዳ	NOUN	NOUN	Number=Sing	8	obj	_	_
+6	አይ	አይ	DET	DET	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	det:poss	_	_
+7-8	ክመልስ	_	_	_	_	_	_	_	Translit=kməls
+7	ክ	ክ	SCONJ	SCONJ	_	8	mark	_	_
+8	ይመልስ	መለሰ	VERB	VSTEM	Aspect=Imp|Number=Sing|Person=1	0	root	_	Aimad=SERAHI
+9	እየ	እዩ	AUX	AUX	Number=Sing|Person=1|Tense=Pres	8	aux	_	Translit=ʔyə
+10	።	።	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = ti_ref_88b
+# text = ደሞዝ ምስ ተኸፈልኩ ፡ ለቕሐይ ክመልስ እየ ።
+1	ደሞዝ	ደሞዝ	NOUN	NOUN	Number=Sing	3	obj	_	Translit=dəmoz
+2	ምስ	ምስ	SCONJ	SCONJ	_	3	mark	_	Translit=ms
+3	ተኸፈልኩ	ተኸፍለ	VERB	VERB	Aspect=Perf|Number=Sing|Person=1|Voice=Pass	8	advcl	_	Translit=təxəfəlku
+4	፡	፡	PUNCT	PUNCT	_	3	punct	_	_
+5-6	ለቕሐይ	_	_	_	_	_	_	_	Translit=ləx'ħɛy
+5	ለቕሓ	ለቕሓ	NOUN	NOUN	Number=Sing	8	obj	_	_
+6	አይ	አይ	DET	DET	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	det:poss	_	_
+7-8	ክመልስ	_	_	_	_	_	_	_	Translit=kməls
+7	ክ	ክ	SCONJ	SCONJ	_	8	mark	_	_
+8	ይመልስ	መለሰ	VERB	VSTEM	Aspect=Imp|Number=Sing|Person=1	0	root	_	Aimad=SERAHI
+9	እየ	እዩ	AUX	AUX	Number=Sing|Person=1|Tense=Pres	8	aux	_	Translit=ʔyə
+10	።	።	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = ti_ref_89a
+# text = ኣብቲ ኣኼባ እንተዝሳተፍ ደስ ምበለኒ ነይሩ ።
+1-2	ኣብቲ	_	_	_	_	_	_	_	Translit=ʔabti
+1	ኣብ	ኣብ	ADP	ADP	_	3	case:pre	_	_
+2	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	ኣኼባ	ኣኼባ	NOUN	NOUN	Number=Sing	6	obl	_	Translit=ʔaxeba
+4-6	እንተዝሳተፍ	_	_	_	_	_	_	_	Translit=ʔntəzsatəf
+4	እንተ	እንተ	ADP	ADP	_	6	mark	_	_
+5	ዝ	ዝ	SCONJ	SCONJ	_	6	mark	_	_
+6	ይሳተፍ	ተሳተፈ	VERB	VSTEM	Aspect=Imp|Number=Sing|Person=1	9	advcl	_	Aimad=TESARAHI
+7	ደስ	ደስ	PART	PART	_	9	compound:lvc	_	Translit=dəs
+8-9	ምበለኒ	_	_	_	_	_	_	_	Translit=mbələni
+8	ም	ም	SCONJ	SCONJ	_	9	mark	_	_
+9	በለኒ	በለ	VERB	VSTEM	Aspect=Perf|Gender=Masc|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=1	0	root	_	Aimad=SERAHI
+10	ነይሩ	ነበረ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Past	9	aux	_	Translit=nəyru
+11	።	።	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = ti_ref_89b
+# text = ኣኼባ እንተዝሳተፍ ደስ ምበለኒ ነይሩ ።
+1	ኣኼባ	ኣኼባ	NOUN	NOUN	Number=Sing	4	obl	_	Translit=ʔaxeba
+2-4	እንተዝሳተፍ	_	_	_	_	_	_	_	Translit=ʔntəzsatəf
+2	እንተ	እንተ	ADP	ADP	_	4	mark	_	_
+3	ዝ	ዝ	SCONJ	SCONJ	_	4	mark	_	_
+4	ይሳተፍ	ተሳተፈ	VERB	VSTEM	Aspect=Imp|Number=Sing|Person=1	7	advcl	_	Aimad=TESARAHI
+5	ደስ	ደስ	PART	PART	_	7	compound:lvc	_	Translit=dəs
+6-7	ምበለኒ	_	_	_	_	_	_	_	Translit=mbələni
+6	ም	ም	SCONJ	SCONJ	_	7	mark	_	_
+7	በለኒ	በለ	VERB	VSTEM	Aspect=Perf|Gender=Masc|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=1	0	root	_	Aimad=SERAHI
+8	ነይሩ	ነበረ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Past	7	aux	_	Translit=nəyru
+9	።	።	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = ti_ref_90
+# text = እንተ ዝሳተፍ ደስ ምበለኒ ነይሩ ።
+1	እንተ	እንተ	SCONJ	SCONJ	_	3	mark	_	Translit=ʔntə
+2-3	ዝሳተፍ	_	_	_	_	_	_	_	Translit=zsatəf
+2	ዝ	ዝ	SCONJ	SCONJ	_	3	mark	_	_
+3	ይሳተፍ	ተሳተፈ	VERB	VSTEM	Aspect=Imp|Number=Sing|Person=1	6	advcl	_	Aimad=TESARAHI
+4	ደስ	ደስ	PART	PART	_	6	compound:lvc	_	Translit=dəs
+5-6	ምበለኒ	_	_	_	_	_	_	_	Translit=mbələni
+5	ም	ም	SCONJ	SCONJ	_	6	mark	_	_
+6	በለኒ	በለ	VERB	VSTEM	Aspect=Perf|Gender=Masc|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=1	0	root	_	Aimad=SERAHI
+7	ነይሩ	ነበረ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Past	6	aux	_	Translit=nəyru
+8	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = ti_ref_91
+# text = ተበላጺ ኰይንካ ዝመጽእ ረብሓ ደስ ኣይብለንን እዩ ።
+1	ተበላጺ	ተበላጺ	NOUN	NOUN	Number=Sing	4	advcl	_	Translit=təbəlas'i
+2	ኰይንካ	ኮነ	AUX	AUX	Aspect=Perf|Gender=Masc|Number=Sing|Person=2	1	cop	_	Translit=kwəynka
+3-4	ዝመጽእ	_	_	_	_	_	_	_	Translit=zməs'ʔ
+3	ዝ	ዝ	SCONJ	SCONJ	_	4	mark	_	_
+4	ይመጽእ	መጽአ	VERB	VSTEM	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	5	acl	_	Aimad=SERAHI
+5	ረብሓ	ረብሓ	NOUN	NOUN	Number=Sing	8	nsubj	_	Translit=rəbħa
+6	ደስ	ደስ	PART	PART	_	8	compound:lvc	_	Translit=dəs
+7-9	ኣይብለንን	_	_	_	_	_	_	_	Translit=ʔayblənn
+7	ኣይ	ኣይ	ADV	ADV	Polarity=Neg	8	advmod:aff	_	_
+8	ይብልን	በለ	VERB	VSTEM	Aspect=Imp|Gender=Masc|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=1	0	root	_	Aimad=SERAHI
+9	ን	ን	ADV	ADV	Polarity=Neg	8	advmod:aff	_	_
+10	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	8	aux	_	Translit=ʔyu
+11	።	።	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = ti_ref_92
+# text = ነቶም ዝረኸብክዎም ጭብጥታት ተጠቒመ ፡ ዝሓሸ ውጽኢት ከምጽእ እየ ።
+1-2	ነቶም	_	_	_	_	_	_	_	Translit=nətom
+1	ን	ን	ADP	ADP	_	5	case:pre	_	_
+2	እቶም	እቶም	DET	DET	Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+3-4	ዝረኸብክዎም	_	_	_	_	_	_	_	Translit=zrəxəbkwom
+3	ዝ	ዝ	SCONJ	SCONJ	_	4	mark	_	_
+4	ረኸብክዎም	ረኸበ	VERB	VSTEM	Aspect=Perf|Gender[obj]=Masc|Number=Sing|Number[obj]=Plur|Person=1|Person[obj]=3	5	acl	_	Aimad=SERAHI
+5	ጭብጥታት	ጭብጢ	NOUN	NOUN	Number=Plur	6	obj	_	Translit=č'bt'tat
+6	ተጠቒመ	ተጠቕመ	VERB	VERB	Number=Sing|Person=1|VerbForm=Conv|Voice=Pass	12	advcl	_	Translit=tət'əx'imə
+7	፡	፡	PUNCT	PUNCT	_	6	punct	_	_
+8-9	ዝሓሸ	_	_	_	_	_	_	_	Translit=zħašə
+8	ዝ	ዝ	SCONJ	SCONJ	_	9	mark	_	_
+9	ሓሸ	ሓሸ	VERB	VSTEM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	10	acl	_	Aimad=SERAHI
+10	ውጽኢት	ውጽኢት	NOUN	NOUN	Number=Sing	12	obj	_	Translit=ws'ʔit
+11-12	ከምጽእ	_	_	_	_	_	_	_	Translit=kəms'ʔ
+11	ክ	ክ	SCONJ	SCONJ	_	12	mark	_	_
+12	የምጽእ	ኣምጽአ	VERB	VSTEM	Aspect=Imp|Number=Sing|Person=1|Voice=Cau	0	root	_	Aimad=ASRAHI
+13	እየ	እዩ	AUX	AUX	Number=Sing|Person=1|Tense=Pres	12	aux	_	Translit=ʔyə
+14	።	።	PUNCT	PUNCT	_	12	punct	_	_
+
+# sent_id = ti_ref_93
+# text = እቲ ጸገም ኣበበ ናይ ካልእ ሰብ ሓሳብ ብፍጹም ዘይምስምዑ እዩ ።
+1	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	2	det	_	Translit=ʔti
+2	ጸገም	ጸገም	NOUN	NOUN	Number=Sing	11	nsubj:outer	_	Translit=s'əgəm
+3	ኣበበ	ኣበበ	PROPN	PROPN	Gender=Masc|Number=Sing	11	nsubj	_	Translit=ʔabəbə
+4	ናይ	ናይ	ADP	ADP	_	6	case	_	Translit=nay
+5	ካልእ	ካልእ	ADJ	ADJ	Number=Sing	6	amod	_	Translit=kalʔ
+6	ሰብ	ሰብ	NOUN	NOUN	Number=Sing	7	nmod	_	Translit=səb
+7	ሓሳብ	ሓሳብ	NOUN	NOUN	Number=Sing	11	obj	_	Translit=ħasab
+8-9	ብፍጹም	_	_	_	_	_	_	_	Translit=bfs'um
+8	ብ	ብ	ADP	ADP	_	9	case:pre	_	_
+9	ፍጹም	ፍጹም	ADJ	ADJ	Number=Sing	11	obl	_	_
+10-12	ዘይምስምዑ	_	_	_	_	_	_	_	Translit=zəymsmʕu
+10	ዘይ	ዘይ	ADV	ADV	Polarity=Neg	11	advmod:aff	_	_
+11	ምስማዕ	ምስማዕ	NOUN	NOUN	Number=Sing	0	root	_	_
+12	ኡ	ኡ	DET	DET	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	det:poss	_	_
+13	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	11	cop	_	Translit=ʔyu
+14	።	።	PUNCT	PUNCT	_	11	punct	_	_
+
+# sent_id = ti_ref_94
+# text = ስቕ ምባል ዝሓሸ እዩ ።
+1	ስቕ	ስቕ	PART	PART	_	2	compound:lvc	_	Translit=sx'
+2	ምባል	ምባል	NOUN	NOUN	Number=Sing	4	csubj	_	Translit=mbal
+3-4	ዝሓሸ	_	_	_	_	_	_	_	Translit=zħašə
+3	ዝ	ዝ	SCONJ	SCONJ	_	4	mark	_	_
+4	ሓሸ	ሓሸ	VERB	VSTEM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	0	root	_	Aimad=SERAHI
+5	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	4	cop	_	Translit=ʔyu
+6	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = ti_ref_95
+# text = እቲ ዝሓሸ ፡ ንነገራት እናረኣኻ ከምዘይርኣኻ ኰይንካ ምሕላፍ እዩ ።
+1	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	3	det	_	Translit=ʔti
+2-3	ዝሓሸ	_	_	_	_	_	_	_	Translit=zħašə
+2	ዝ	ዝ	SCONJ	SCONJ	_	3	mark	_	_
+3	ሓሸ	ሓሸ	VERB	VSTEM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	14	csubj:outer	_	Aimad=SERAHI
+4	፡	፡	PUNCT	PUNCT	_	3	punct	_	_
+5-6	ንነገራት	_	_	_	_	_	_	_	Translit=nnəgərat
+5	ን	ን	ADP	ADP	_	6	case:pre	_	_
+6	ነገር	ነገር	NOUN	NOUN	Number=Plur	8	obj	_	_
+7-8	እናረኣኻ	_	_	_	_	_	_	_	Translit=ʔnarəʔaxa
+7	እና	እና	SCONJ	SCONJ	_	8	mark	_	_
+8	ረኣኻ	ረኣየ	VERB	VSTEM	Aspect=Perf|Gender=Masc|Number=Sing|Person=2	14	advcl	_	Aimad=SERAHI
+9-12	ከምዘይርኣኻ	_	_	_	_	_	_	_	Translit=kəmzəyrʔaxa
+9	ከም	ከም	ADP	ADP	_	12	mark	_	_
+10	ዝ	ዝ	SCONJ	SCONJ	_	12	mark	_	_
+11	ኣይ	ኣይ	ADV	ADV	Polarity=Neg	12	advmod:aff	_	_
+12	ርኣኻ	ረኣየ	VERB	VSTEM	Aspect=Perf|Gender=Masc|Number=Sing|Person=2	14	advcl	_	Aimad=SERAHI
+13	ኰይንካ	ኮነ	AUX	AUX	Aspect=Perf|Gender=Masc|Number=Sing|Person=2	12	aux	_	Translit=kwəynka
+14	ምሕላፍ	ምሕላፍ	NOUN	NOUN	Number=Sing	0	root	_	Translit=mħlaf
+15	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	14	cop	_	Translit=ʔyu
+16	።	።	PUNCT	PUNCT	_	14	punct	_	_
+
+# sent_id = ti_ref_96
+# text = እቲ ዝሓይሽ ፡ ከምዘይርኣኻ ኰይንካ ምሕላፍ እዩ ።
+1	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	3	det	_	Translit=ʔti
+2-3	ዝሓይሽ	_	_	_	_	_	_	_	Translit=zħayš
+2	ዝ	ዝ	SCONJ	SCONJ	_	3	mark	_	_
+3	ይሓይሽ	ሓሸ	VERB	VSTEM	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	10	csubj:outer	_	Aimad=SERAHI
+4	፡	፡	PUNCT	PUNCT	_	3	punct	_	_
+5-8	ከምዘይርኣኻ	_	_	_	_	_	_	_	Translit=kəmzəyrʔaxa
+5	ከም	ከም	ADP	ADP	_	8	mark	_	_
+6	ዝ	ዝ	SCONJ	SCONJ	_	8	mark	_	_
+7	ኣይ	ኣይ	ADV	ADV	Polarity=Neg	8	advmod:aff	_	_
+8	ርኣኻ	ረኣየ	VERB	VSTEM	Aspect=Perf|Gender=Masc|Number=Sing|Person=2	10	advcl	_	Aimad=SERAHI
+9	ኰይንካ	ኮነ	AUX	AUX	Aspect=Perf|Gender=Masc|Number=Sing|Person=2	8	aux	_	Translit=kwəynka
+10	ምሕላፍ	ምሕላፍ	NOUN	NOUN	Number=Sing	0	root	_	Translit=mħlaf
+11	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	10	cop	_	Translit=ʔyu
+12	።	።	PUNCT	PUNCT	_	10	punct	_	_
+
+# sent_id = ti_ref_97
+# text = እቲ ዝሓሸ ነገር ፡ ርግእ ኢልካ ምጽባይ እዩ ።
+1	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	4	det	_	Translit=ʔti
+2-3	ዝሓሸ	_	_	_	_	_	_	_	Translit=zħašə
+2	ዝ	ዝ	SCONJ	SCONJ	_	3	mark	_	_
+3	ሓሸ	ሓሸ	VERB	VSTEM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	4	acl	_	Aimad=SERAHI
+4	ነገር	ነገር	NOUN	NOUN	Number=Sing	8	nsubj:outer	_	Translit=nəgər
+5	፡	፡	PUNCT	PUNCT	_	4	punct	_	_
+6	ርግእ	ርግእ	PART	PART	_	7	compound:lvc	_	Translit=rgʔ
+7	ኢልካ	በለ	VERB	VERB	Gender=Masc|Number=Sing|Person=2|VerbForm=Conv	8	advcl	_	Translit=ʔilka
+8	ምጽባይ	ምጽባይ	NOUN	NOUN	Number=Sing	0	root	_	Translit=ms'bay
+9	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	8	cop	_	Translit=ʔyu
+10	።	።	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = ti_ref_98
+# text = እቲ ዝሓሸ ነገር ምርግጋእ ጥራሕ እዩ ።
+1	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	4	det	_	Translit=ʔti
+2-3	ዝሓሸ	_	_	_	_	_	_	_	Translit=zħašə
+2	ዝ	ዝ	SCONJ	SCONJ	_	3	mark	_	_
+3	ሓሸ	ሓሸ	VERB	VSTEM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	4	acl	_	Aimad=SERAHI
+4	ነገር	ነገር	NOUN	NOUN	Number=Sing	5	nsubj:outer	_	Translit=nəgər
+5	ምርግጋእ	ምርግጋእ	NOUN	NOUN	Number=Sing	0	root	_	Translit=mrggaʔ
+6	ጥራሕ	ጥራሕ	ADV	ADV	_	5	advmod	_	Translit=t'raħ
+7	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	5	cop	_	Translit=ʔyu
+8	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = ti_ref_99
+# text = ናይ 'ቲ መጽሓፍ ኣርእስቲ ፡ " ጽሓይ ምምሃር ትፈቱ " እዩ ።
+1	ናይ	ናይ	ADP	ADP	_	3	case	_	Translit=nay
+2	'ቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	3	det	_	Translit='ti
+3	መጽሓፍ	መጽሓፍ	NOUN	NOUN	Number=Sing	4	nmod	_	Translit=məs'ħaf
+4	ኣርእስቲ	ኣርእስቲ	NOUN	NOUN	Number=Sing	9	nsubj:outer	_	Translit=ʔarʔsti
+5	፡	፡	PUNCT	PUNCT	_	4	punct	_	_
+6	"	"	PUNCT	PUNCT	_	7	punct	_	_
+7	ጽሓይ	ጽሓይ	PROPN	PROPN	Gender=Fem|Number=Sing	9	nsubj	_	Translit=s'hay
+8	ምምሃር	ምምሃር	NOUN	NOUN	Number=Sing	9	xcomp	_	Translit=mmhar
+9	ትፈቱ	ፈተወ	VERB	VERB	Aspect=Imp|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=tfətu
+10	"	"	PUNCT	PUNCT	_	9	punct	_	_
+11	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	9	cop	_	Translit=ʔyu
+12	።	።	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = ti_ref_100
+# text = ናይ 'ቲ መጽሓፍ ኣርእስቲ ፡ " ዝተሰብሩ ልብታት " እዩ ።
+1	ናይ	ናይ	ADP	ADP	_	3	case	_	Translit=nay
+2	'ቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	3	det	_	Translit='ti
+3	መጽሓፍ	መጽሓፍ	NOUN	NOUN	Number=Sing	4	nmod	_	Translit=məs'ħaf
+4	ኣርእስቲ	ኣርእስቲ	NOUN	NOUN	Number=Sing	9	nsubj:outer	_	Translit=ʔarʔsti
+5	፡	፡	PUNCT	PUNCT	_	4	punct	_	_
+6	"	"	PUNCT	PUNCT	_	9	punct	_	_
+7-8	ዝተሰብሩ	_	_	_	_	_	_	_	Translit=ztəsəbru
+7	ዝ	ዝ	SCONJ	SCONJ	_	8	mark	_	_
+8	ተሰብሩ	ተሰብረ	VERB	VSTEM	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Voice=Pass	9	acl	_	Aimad=TESERAHI
+9	ልብታት	ልቢ	NOUN	NOUN	Number=Plur	0	root	_	Translit=lbtat
+10	"	"	PUNCT	PUNCT	_	9	punct	_	_
+11	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	9	cop	_	Translit=ʔyu
+12	።	።	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = ti_ref_101a
+# text = ኣብ ዱር ምዝውዋር ፡ ናይ ተፈጥሮ ጽባቐ ብጋህዲ ምርኣይ እዩ ።
+1	ኣብ	ኣብ	ADP	ADP	_	2	case	_	Translit=ʔab
+2	ዱር	ዱር	NOUN	NOUN	Number=Sing	3	obl	_	Translit=dur
+3	ምዝውዋር	ምዝውዋር	NOUN	NOUN	Number=Sing	10	csubj:outer	_	Translit=mzwwar
+4	፡	፡	PUNCT	PUNCT	_	3	punct	_	_
+5	ናይ	ናይ	ADP	ADP	_	6	case	_	Translit=nay
+6	ተፈጥሮ	ተፈጥሮ	NOUN	NOUN	Number=Sing	7	nmod	_	Translit=təfət'ro
+7	ጽባቐ	ጽባቐ	NOUN	NOUN	Number=Sing	10	obj	_	Translit=s'bax'ə
+8-9	ብጋህዲ	_	_	_	_	_	_	_	Translit=bgahdi
+8	ብ	ብ	ADP	ADP	_	9	case:pre	_	_
+9	ጋህዲ	ጋህዲ	NOUN	NOUN	Number=Sing	10	obl	_	_
+10	ምርኣይ	ምርኣይ	NOUN	NOUN	Number=Sing	0	root	_	Translit=mrʔay
+11	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	10	cop	_	Translit=ʔyu
+12	።	።	PUNCT	PUNCT	_	10	punct	_	_
+
+# sent_id = ti_ref_101b
+# text = ኣብ ዱር ምዝውዋር ፡ ናይ ተፈጥሮ ጽባቐ ብጋህዲ ምርኣይ ማለት እዩ ።
+1	ኣብ	ኣብ	ADP	ADP	_	2	case	_	Translit=ʔab
+2	ዱር	ዱር	NOUN	NOUN	Number=Sing	3	obl	_	Translit=dur
+3	ምዝውዋር	ምዝውዋር	NOUN	NOUN	Number=Sing	10	csubj:outer	_	Translit=mzwwar
+4	፡	፡	PUNCT	PUNCT	_	3	punct	_	_
+5	ናይ	ናይ	ADP	ADP	_	6	case	_	Translit=nay
+6	ተፈጥሮ	ተፈጥሮ	NOUN	NOUN	Number=Sing	7	nmod	_	Translit=təfət'ro
+7	ጽባቐ	ጽባቐ	NOUN	NOUN	Number=Sing	10	obj	_	Translit=s'bax'ə
+8-9	ብጋህዲ	_	_	_	_	_	_	_	Translit=bgahdi
+8	ብ	ብ	ADP	ADP	_	9	case:pre	_	_
+9	ጋህዲ	ጋህዲ	NOUN	NOUN	Number=Sing	10	obl	_	_
+10	ምርኣይ	ምርኣይ	NOUN	NOUN	Number=Sing	11	ccomp	_	Translit=mrʔay
+11	ማለት	ማለት	NOUN	NOUN	_	0	root	_	Translit=malət
+12	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	11	cop	_	Translit=ʔyu
+13	።	።	PUNCT	PUNCT	_	11	punct	_	_
+
+# sent_id = ti_ref_102a
+# text = እቲ ተግባር ፍጹም ቅቡል ዘይምዃኑ ጥራሕ እየ ዝዝክር ።
+1	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	2	det	_	Translit=ʔti
+2	ተግባር	ተግባር	NOUN	NOUN	Number=Sing	6	nsubj	_	Translit=təgbar
+3	ፍጹም	ፍጹም	ADJ	ADJ	Number=Sing	4	obl	_	Translit=fs'um
+4	ቅቡል	ቅቡል	ADJ	ADJ	Number=Sing	6	xcomp:pred	_	Translit=k'bul
+5-7	ዘይምዃኑ	_	_	_	_	_	_	_	Translit=zəymxwanu
+5	ዘይ	ዘይ	ADV	ADV	Polarity=Neg	6	advmod:aff	_	_
+6	ምዃን	ምዃን	NOUN	NOUN	Number=Sing|VerbForm=Vnoun	0	root	_	_
+7	ኡ	ኡ	DET	DET	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	det:poss	_	_
+8	ጥራሕ	ጥራሕ	ADV	ADV	_	6	advmod	_	Translit=t'raħ
+9	እየ	እዩ	AUX	AUX	Number=Sing|Person=1|Tense=Pres	6	cop	_	Translit=ʔyə
+10-11	ዝዝክር	_	_	_	_	_	_	_	Translit=zzkr
+10	ዝ	ዝ	SCONJ	SCONJ	_	11	mark	_	_
+11	ይዝክር	ዘከረ	VERB	VSTEM	Aspect=Imp|Number=Sing|Person=1	6	csubj:outer	_	Aimad=SERAHI
+12	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = ti_ref_102b
+# text = እቲ ዝዝክሮ እቲ ተግባር ፍጹም ቅቡል ዘይምዃኑ ጥራሕ እዩ ።
+1	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	3	det	_	Translit=ʔti
+2-3	ዝዝክሮ	_	_	_	_	_	_	_	Translit=zzkro
+2	ዝ	ዝ	SCONJ	SCONJ	_	3	mark	_	_
+3	ይዝክርኦ	ዘከረ	VERB	VSTEM	Aspect=Imp|Gender[obj]=Masc|Number=Sing|Number[obj]=Sing|Person=1|Person[obj]=3	9	csubj:outer	_	Aimad=SERAHI
+4	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	5	det	_	Translit=ʔti
+5	ተግባር	ተግባር	NOUN	NOUN	Number=Sing	9	nsubj	_	Translit=təgbar
+6	ፍጹም	ፍጹም	ADJ	ADJ	Number=Sing	7	obl	_	Translit=fs'um
+7	ቅቡል	ቅቡል	ADJ	ADJ	Number=Sing	9	xcomp:pred	_	Translit=k'bul
+8-10	ዘይምዃኑ	_	_	_	_	_	_	_	Translit=zəymxwanu
+8	ዘይ	ዘይ	ADV	ADV	Polarity=Neg	9	advmod:aff	_	_
+9	ምዃን	ምዃን	NOUN	NOUN	Number=Sing|VerbForm=Vnoun	0	root	_	_
+10	ኡ	ኡ	DET	DET	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	det:poss	_	_
+11	ጥራሕ	ጥራሕ	ADV	ADV	_	9	advmod	_	Translit=t'raħ
+12	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	9	cop	_	Translit=ʔyu
+13	።	።	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = ti_ref_103
+# text = ዘስተውዓልኩዎ ፡ ጸገም ኣስቴር ውላዳ ምሕብኣ ምዃኑ እዩ ።
+1-2	ዘስተውዓልኩዎ	_	_	_	_	_	_	_	Translit=zəstəwʕalkuwo
+1	ዝ	ዝ	SCONJ	SCONJ	_	2	mark	_	_
+2	ኣስተውዓልኩዎ	ኣስተውዓለ	VERB	VSTEM	Aspect=Perf|Gender[obj]=Masc|Number=Sing|Number[obj]=Sing|Person=1|Person[obj]=3|Voice=Cau	10	csubj:outer	_	Aimad=ASRAHI
+3	፡	፡	PUNCT	PUNCT	_	2	punct	_	_
+4	ጸገም	ጸገም	NOUN	NOUN	Number=Sing	10	nsubj	_	Translit=s'əgəm
+5	ኣስቴር	ኣስቴር	PROPN	PROPN	Gender=Fem|Number=Sing	4	nmod	_	Translit=ʔaster
+6-7	ውላዳ	_	_	_	_	_	_	_	Translit=wlada
+6	ውላድ	ውላድ	NOUN	NOUN	Number=Sing	8	obj	_	_
+7	ኣ	ኣ	DET	DET	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	det:poss	_	_
+8-9	ምሕብኣ	_	_	_	_	_	_	_	Translit=mħbʔa
+8	ምሕባእ	ምሕባእ	NOUN	NOUN	Number=Sing|VerbForm=Vnoun	10	xcomp:pred	_	_
+9	ኣ	ኣ	DET	DET	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	det:poss	_	_
+10-11	ምዃኑ	_	_	_	_	_	_	_	Translit=mxwanu
+10	ምዃን	ምዃን	NOUN	NOUN	Number=Sing|VerbForm=Vnoun	0	root	_	_
+11	ኡ	ኡ	DET	DET	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det:poss	_	_
+12	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	10	cop	_	Translit=ʔyu
+13	።	።	PUNCT	PUNCT	_	10	punct	_	_
+
+# sent_id = ti_ref_104a
+# text = ዘስተውዓልኩዎ ፡ እቲ ጸገም እዚ ምዃኑ እዩ ።
+1-2	ዘስተውዓልኩዎ	_	_	_	_	_	_	_	Translit=zəstəwʕalkuwo
+1	ዝ	ዝ	SCONJ	SCONJ	_	2	mark	_	_
+2	ኣስተውዓልኩዎ	ኣስተውዓለ	VERB	VSTEM	Aspect=Perf|Gender[obj]=Masc|Number=Sing|Number[obj]=Sing|Person=1|Person[obj]=3|Voice=Cau	7	csubj:outer	_	Aimad=ASRAHI
+3	፡	፡	PUNCT	PUNCT	_	2	punct	_	_
+4	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	5	det	_	Translit=ʔti
+5	ጸገም	ጸገም	NOUN	NOUN	Number=Sing	7	nsubj	_	Translit=s'əgəm
+6	እዚ	እዚ	DET	DET	Gender=Masc|Number=Sing|PronType=Dem	7	xcomp:pred	_	Translit=ʔzi
+7-8	ምዃኑ	_	_	_	_	_	_	_	Translit=mxwanu
+7	ምዃን	ምዃን	NOUN	NOUN	Number=Sing|VerbForm=Vnoun	0	root	_	_
+8	ኡ	ኡ	DET	DET	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det:poss	_	_
+9	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	7	cop	_	Translit=ʔyu
+10	።	።	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = ti_ref_104b
+# text = እቲ ዘስተውዓልኩዎ ጸገም እዚ ምዃኑ እዩ ።
+1	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	4	det	_	Translit=ʔti
+2-3	ዘስተውዓልኩዎ	_	_	_	_	_	_	_	Translit=zəstəwʕalkuwo
+2	ዝ	ዝ	SCONJ	SCONJ	_	3	mark	_	_
+3	ኣስተውዓልኩዎ	ኣስተውዓለ	VERB	VSTEM	Aspect=Perf|Gender[obj]=Masc|Number=Sing|Number[obj]=Sing|Person=1|Person[obj]=3|Voice=Cau	4	acl	_	Aimad=ASRAHI
+4	ጸገም	ጸገም	NOUN	NOUN	Number=Sing	6	nsubj	_	Translit=s'əgəm
+5	እዚ	እዚ	DET	DET	Gender=Masc|Number=Sing|PronType=Dem	6	xcomp:pred	_	Translit=ʔzi
+6-7	ምዃኑ	_	_	_	_	_	_	_	Translit=mxwanu
+6	ምዃን	ምዃን	NOUN	NOUN	Number=Sing|VerbForm=Vnoun	0	root	_	_
+7	ኡ	ኡ	DET	DET	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	det:poss	_	_
+8	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	6	cop	_	Translit=ʔyu
+9	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = ti_ref_105a
+# text = ዘስተውዓልኩዎ ሰባት ሕጕሳት ከምዘይዀኑ እዩ ።
+1-2	ዘስተውዓልኩዎ	_	_	_	_	_	_	_	Translit=zəstəwʕalkuwo
+1	ዝ	ዝ	SCONJ	SCONJ	_	2	mark	_	_
+2	ኣስተውዓልኩዎ	ኣስተውዓለ	VERB	VSTEM	Aspect=Perf|Gender[obj]=Masc|Number=Sing|Number[obj]=Sing|Person=1|Person[obj]=3|Voice=Cau	8	csubj:outer	_	Aimad=ASRAHI
+3	ሰባት	ሰብ	NOUN	NOUN	Number=Plur	8	nsubj	_	Translit=səbat
+4	ሕጕሳት	ሕጕስ	NOUN	NOUN	Number=Plur	8	xcomp:pred	_	Translit=ħgwsat
+5-8	ከምዘይዀኑ	_	_	_	_	_	_	_	Translit=kəmzəyxwənu
+5	ከም	ከም	ADP	ADP	_	8	mark	_	_
+6	ዝ	ዝ	SCONJ	SCONJ	_	8	mark	_	_
+7	ኣይ	ኣይ	ADV	ADV	Polarity=Neg	8	advmod:aff	_	_
+8	ይኾኑ	ኮነ	VERB	VSTEM	Aspect=Imp|Gender=Masc|Number=Plur|Person=3	0	root	_	Aimad=SERAHI
+9	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	8	cop	_	Translit=ʔyu
+10	።	።	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = ti_ref_105b
+# text = ዘስተውዓልኩዎ ሰባት ሕጕሳት ምዃኖም እዩ ።
+1-2	ዘስተውዓልኩዎ	_	_	_	_	_	_	_	Translit=zəstəwʕalkuwo
+1	ዝ	ዝ	SCONJ	SCONJ	_	2	mark	_	_
+2	ኣስተውዓልኩዎ	ኣስተውዓለ	VERB	VSTEM	Aspect=Perf|Gender[obj]=Masc|Number=Sing|Number[obj]=Sing|Person=1|Person[obj]=3|Voice=Cau	5	csubj:outer	_	Aimad=ASRAHI
+3	ሰባት	ሰብ	NOUN	NOUN	Number=Plur	5	nsubj	_	Translit=səbat
+4	ሕጕሳት	ሕጕስ	NOUN	NOUN	Number=Plur	5	xcomp:pred	_	Translit=ħgwsat
+5-6	ምዃኖም	_	_	_	_	_	_	_	Translit=mxwanom
+5	ምዃን	ምዃን	NOUN	NOUN	Number=Sing|VerbForm=Vnoun	0	root	_	_
+6	ኦም	ኦም	DET	DET	Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	5	det:poss	_	_
+7	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	5	cop	_	Translit=ʔyu
+8	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = ti_ref_106
+# text = እቲ ዘስተውዓልኩዎ ነቶም ሰባት ዘይሕጐሶም እቲ ዝቐረበ ትምህርቲ ምዃኑ እዩ ።
+1	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	3	det	_	Translit=ʔti
+2-3	ዘስተውዓልኩዎ	_	_	_	_	_	_	_	Translit=zəstəwʕalkuwo
+2	ዝ	ዝ	SCONJ	SCONJ	_	3	mark	_	_
+3	ኣስተውዓልኩዎ	ኣስተውዓለ	VERB	VSTEM	Aspect=Perf|Gender[obj]=Masc|Number=Sing|Number[obj]=Sing|Person=1|Person[obj]=3|Voice=Cau	14	csubj:outer	_	Aimad=ASRAHI
+4-5	ነቶም	_	_	_	_	_	_	_	Translit=nətom
+4	ን	ን	ADP	ADP	_	6	case:pre	_	_
+5	እቶም	እቶም	DET	DET	Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	ሰባት	ሰብ	NOUN	NOUN	Number=Plur	9	obj	_	Translit=səbat
+7-9	ዘይሕጐሶም	_	_	_	_	_	_	_	Translit=zəyħgwəsom
+7	ዝ	ዝ	SCONJ	SCONJ	_	9	mark	_	_
+8	ኣይ	ኣይ	ADV	ADV	Polarity=Neg	9	advmod:aff	_	_
+9	ይሕጎስኦም	ተሓጐሰ	VERB	VSTEM	Aspect=Imp|Gender=Masc|Gender[obj]=Masc|Number=Sing|Number[obj]=Plur|Person=3|Person[obj]=3	14	csubj	_	Aimad=TESERAHI
+10	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	13	det	_	Translit=ʔti
+11-12	ዝቐረበ	_	_	_	_	_	_	_	Translit=zx'ərəbə
+11	ዝ	ዝ	SCONJ	SCONJ	_	12	mark	_	_
+12	ቀረበ	ቀረበ	VERB	VSTEM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	13	acl	_	Aimad=SERAHI
+13	ትምህርቲ	ትምህርቲ	NOUN	NOUN	Number=Sing	14	xcomp:pred	_	Translit=tmhrti
+14-15	ምዃኑ	_	_	_	_	_	_	_	Translit=mxwanu
+14	ምዃን	ምዃን	NOUN	NOUN	Number=Sing|VerbForm=Vnoun	0	root	_	_
+15	ኡ	ኡ	DET	DET	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	det:poss	_	_
+16	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	14	cop	_	Translit=ʔyu
+17	።	።	PUNCT	PUNCT	_	14	punct	_	_
+
+# sent_id = ti_ref_107
+# text = ዘስተውዓልኩዎ ፡ እቲ ጸገም ኣስቴር ኣብ ቀረባ ጊዜ ትኸይድ ምዃና እዩ ።
+1-2	ዘስተውዓልኩዎ	_	_	_	_	_	_	_	Translit=zəstəwʕalkuwo
+1	ዝ	ዝ	SCONJ	SCONJ	_	2	mark	_	_
+2	ኣስተውዓልኩዎ	ኣስተውዓለ	VERB	VSTEM	Aspect=Perf|Gender[obj]=Masc|Number=Sing|Number[obj]=Sing|Person=1|Person[obj]=3|Voice=Cau	11	csubj:outer	_	Aimad=ASRAHI
+3	፡	፡	PUNCT	PUNCT	_	2	punct	_	_
+4	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	5	det	_	Translit=ʔti
+5	ጸገም	ጸገም	NOUN	NOUN	Number=Sing	11	nsubj:outer	_	Translit=s'əgəm
+6	ኣስቴር	ኣስቴር	PROPN	PROPN	Gender=Fem|Number=Sing	11	nsubj	_	Translit=ʔaster
+7	ኣብ	ኣብ	ADP	ADP	_	9	case	_	Translit=ʔab
+8	ቀረባ	ቀረባ	NOUN	NOUN	Number=Sing	9	nmod	_	Translit=k'ərəba
+9	ጊዜ	ጊዜ	NOUN	NOUN	Number=Sing	10	obl	_	Translit=gize
+10	ትኸይድ	ከደ	VERB	VERB	Aspect=Imp|Gender=Fem|Number=Sing|Person=3	11	xcomp:pred	_	Translit=txəyd
+11-12	ምዃና	_	_	_	_	_	_	_	Translit=mxwana
+11	ምዃን	ምዃን	NOUN	NOUN	Number=Sing|VerbForm=Vnoun	0	root	_	_
+12	ኣ	ኣ	DET	DET	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	det:poss	_	_
+13	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	11	cop	_	Translit=ʔyu
+14	።	።	PUNCT	PUNCT	_	11	punct	_	_
+
+# sent_id = ti_ref_108
+# text = መሸፈኒ ጣውላ ኣጋዝእኒ ።
+1	መሸፈኒ	መሸፈኒ	NOUN	NOUN	Number=Sing	3	obj	_	Translit=məšəfəni
+2	ጣውላ	ጣውላ	NOUN	NOUN	Number=Sing	1	nmod	_	Translit=t'awla
+3	ኣጋዝእኒ	ኣጋዝአ	VERB	VERB	Gender=Fem|Mood=Imp|Number=Sing|Number[obj]=Sing|Person=2|Person[obj]=1|Voice=Cau	0	root	_	Translit=ʔagazʔni
+4	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = ti_ref_109
+# text = ኣቶ ካሌብ ፡ ናይቲ ትካል ኣመሓዳሪ ፡ ከምዝተዛረቦ እንተዀይኑ እቲ ምህርቲ ብቕልጡፍ ይዝርጋሕ እዩ ።
+1	ኣቶ	ኣቶ	NOUN	NOUN	Number=Sing	2	nmod	_	Translit=ʔato
+2	ካሌብ	ካሌብ	PROPN	PROPN	Gender=Masc|Number=Sing	11	nsubj	_	Translit=kaleb
+3	፡	፡	PUNCT	PUNCT	_	2	punct	_	_
+4-5	ናይቲ	_	_	_	_	_	_	_	Translit=nayti
+4	ናይ	ናይ	ADP	ADP	_	6	case:pre	_	_
+5	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	ትካል	ትካል	NOUN	NOUN	Number=Sing	7	nmod	_	Translit=tkal
+7	ኣመሓዳሪ	ኣመሓዳሪ	NOUN	NOUN	Gender=Masc|Number=Sing	2	appos	_	Translit=ʔaməħadari
+8	፡	፡	PUNCT	PUNCT	_	7	punct	_	_
+9-11	ከምዝተዛረቦ	_	_	_	_	_	_	_	Translit=kəmztəzarəbo
+9	ከም	ከም	ADP	ADP	_	11	mark	_	_
+10	ዝ	ዝ	SCONJ	SCONJ	_	11	mark	_	_
+11	ተዛረቦ	ተዘረበ	VERB	VSTEM	Aspect=Perf|Gender=Masc|Gender[obj]=Masc|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3	18	advcl	_	Aimad=TESARAHI
+12-13	እንተዀይኑ	_	_	_	_	_	_	_	Translit=ʔntəxwəynu
+12	እንተ	እንተ	ADP	ADP	_	11	mark	_	_
+13	ኮይኑ	ኮነ	AUX	VSTEM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	11	cop	_	Aimad=SERAHI
+14	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	15	det	_	Translit=ʔti
+15	ምህርቲ	ምህርቲ	NOUN	NOUN	Number=Sing	18	nsubj:pass	_	Translit=mhrti
+16-17	ብቕልጡፍ	_	_	_	_	_	_	_	Translit=bx'lt'uf
+16	ብ	ብ	ADP	ADP	_	17	case:pre	_	_
+17	ቅልጡፍ	ቅልጡፍ	ADJ	ADJ	Number=Sing	18	obl	_	_
+18	ይዝርጋሕ	ተዘርግሔ	VERB	VERB	Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Voice=Pass	0	root	_	Translit=yzrgaħ
+19	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	18	aux	_	Translit=ʔyu
+20	።	።	PUNCT	PUNCT	_	18	punct	_	_
+
+# sent_id = ti_ref_110
+# text = ንወደይ ሓበጀራይ ኵዕሶ ብሚእቲ ብር ገዚአሉ ።
+1-3	ንወደይ	_	_	_	_	_	_	_	Translit=nwədəy
+1	ን	ን	ADP	ADP	_	2	case:pre	_	_
+2	ወዲ	ወዲ	NOUN	NOUN	Number=Sing	9	iobj	_	_
+3	አይ	አይ	DET	DET	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	det:poss	_	_
+4	ሓበጀራይ	ሓበጀራይ	ADJ	ADJ	Number=Sing	5	amod	_	Translit=ħabəǰəray
+5	ኵዕሶ	ኵዕሶ	NOUN	NOUN	Number=Sing	9	obj	_	Translit=kwʕso
+6-7	ብሚእቲ	_	_	_	_	_	_	_	Translit=bmiʔti
+6	ብ	ብ	ADP	ADP	_	7	case:pre	_	_
+7	ሚእቲ	ሚእቲ	NOUN	NOUN	Number=Sing	8	nummod	_	_
+8	ብር	ብር	NOUN	NOUN	Number=Sing	9	obl	_	Translit=br
+9	ገዚአሉ	ገዝአ	VERB	VERB	Aspect=Perf|Gender[app]=Masc|Number=Sing|Number[app]=Sing|Person=1|Person[app]=3	0	root	_	Translit=gəziʔɛlu
+10	።	።	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = ti_ref_111
+# text = ነቲ ክዳን ሓደ ሽሕ ብር ገዚአዮ ።
+1-2	ነቲ	_	_	_	_	_	_	_	Translit=nəti
+1	ን	ን	ADP	ADP	_	3	case:pre	_	_
+2	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	ክዳን	ክዳን	NOUN	NOUN	Number=Sing	7	obj	_	Translit=kdan
+4	ሓደ	ሓደ	NUM	NUM	Number=Sing	5	compound	_	Translit=ħadə
+5	ሽሕ	ሽሕ	NUM	NUM	Number=Sing	6	nummod	_	Translit=šħ
+6	ብር	ብር	NOUN	NOUN	Number=Sing	7	obl	_	Translit=br
+7	ገዚአዮ	ገዝአ	VERB	VERB	Aspect=Perf|Gender[obj]=Masc|Number=Sing|Number[obj]=Sing|Person=1|Person[obj]=3	0	root	_	Translit=gəziʔɛyo
+8	።	።	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = ti_ref_112a
+# text = ነዚ ዕላማ እዚ ኢሉ ዘቐመጦ ገንዘብ የብሉን ።
+1-2	ነዚ	_	_	_	_	_	_	_	Translit=nəzi
+1	ን	ን	ADP	ADP	_	3	case:pre	_	_
+2	እዚ	እዚ	DET	DET	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+3	ዕላማ	ዕላማ	NOUN	NOUN	Number=Sing	5	obj	_	Translit=ʕlama
+4	እዚ	እዚ	DET	DET	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	Translit=ʔzi
+5	ኢሉ	በለ	VERB	VERB	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	7	advcl	_	Translit=ʔilu
+6-7	ዘቐመጦ	_	_	_	_	_	_	_	Translit=zəx'əmət'o
+6	ዝ	ዝ	SCONJ	SCONJ	_	7	mark	_	_
+7	ኣቐመጦ	ኣቐመጠ	VERB	VSTEM	Aspect=Perf|Gender=Masc|Gender[obj]=Masc|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3|Voice=Cau	8	acl	_	Aimad=ASRAHI
+8	ገንዘብ	ገንዘብ	NOUN	NOUN	Number=Sing	9	nsubj	_	Translit=gənzəb
+9-10	የብሉን	_	_	_	_	_	_	_	Translit=yəblun
+9	የብሉ	ኣሎ	VERB	VSTEM	Gender=Masc|Gender[obj]=Masc|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3|Tense=Pres	0	root	_	Aimad=SERAHI
+10	ን	ን	ADV	ADV	Polarity=Neg	9	advmod:aff	_	_
+11	።	።	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = ti_ref_112b
+# text = ነዚ ዕላማ ዘቐመጦ ገንዘብ የብሉን ።
+1-2	ነዚ	_	_	_	_	_	_	_	Translit=nəzi
+1	ን	ን	ADP	ADP	_	3	case:pre	_	_
+2	እዚ	እዚ	DET	DET	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+3	ዕላማ	ዕላማ	NOUN	NOUN	Number=Sing	5	obl	_	Translit=ʕlama
+4-5	ዘቐመጦ	_	_	_	_	_	_	_	Translit=zəx'əmət'o
+4	ዝ	ዝ	SCONJ	SCONJ	_	5	mark	_	_
+5	ኣቐመጦ	ኣቐመጠ	VERB	VSTEM	Aspect=Perf|Gender=Masc|Gender[obj]=Masc|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3|Voice=Cau	6	acl	_	Aimad=ASRAHI
+6	ገንዘብ	ገንዘብ	NOUN	NOUN	Number=Sing	7	nsubj	_	Translit=gənzəb
+7-8	የብሉን	_	_	_	_	_	_	_	Translit=yəblun
+7	የብሉ	ኣሎ	VERB	VSTEM	Gender=Masc|Gender[obj]=Masc|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3|Tense=Pres	0	root	_	Aimad=SERAHI
+8	ን	ን	ADV	ADV	Polarity=Neg	7	advmod:aff	_	_
+9	።	።	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = ti_ref_113
+# text = ነዞም ዝስዕቡ ሕቶታት መልሱ ።
+1-2	ነዞም	_	_	_	_	_	_	_	Translit=nəzom
+1	ን	ን	ADP	ADP	_	5	case:pre	_	_
+2	እዞም	እዞም	DET	DET	Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+3-4	ዝስዕቡ	_	_	_	_	_	_	_	Translit=zsʕbu
+3	ዝ	ዝ	SCONJ	SCONJ	_	4	mark	_	_
+4	ይስዕቡ	ስዐበ	VERB	VSTEM	Aspect=Imp|Gender=Masc|Number=Plur|Person=3	5	acl	_	Aimad=SERAHI
+5	ሕቶታት	ሕቶ	NOUN	NOUN	Number=Plur	6	obj	_	Translit=ħtotat
+6	መልሱ	መለሰ	VERB	VERB	Gender=Masc|Mood=Imp|Number=Plur|Person=2	0	root	_	Translit=məlsu
+7	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = ti_ref_114
+# text = እቲ ዝመጽእ ቀዳም ክመጽእ እየ ።
+1	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	4	det	_	Translit=ʔti
+2-3	ዝመጽእ	_	_	_	_	_	_	_	Translit=zməs'ʔ
+2	ዝ	ዝ	SCONJ	SCONJ	_	3	mark	_	_
+3	ይመጽእ	መጽአ	VERB	VSTEM	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	4	acl	_	Aimad=SERAHI
+4	ቀዳም	ቀዳም	NOUN	NOUN	Number=Sing	6	obl	_	Translit=k'ədam
+5-6	ክመጽእ	_	_	_	_	_	_	_	Translit=kməs'ʔ
+5	ክ	ክ	SCONJ	SCONJ	_	6	mark	_	_
+6	ይመጽእ	መጽአ	VERB	VSTEM	Aspect=Imp|Number=Sing|Person=1	0	root	_	Aimad=SERAHI
+7	እየ	እዩ	AUX	AUX	Number=Sing|Person=1|Tense=Pres	6	aux	_	Translit=ʔyə
+8	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = ti_ref_115
+# text = ሃብታም ከም ዝኾነት ተፈሊጡ ።
+# text_en = It became known that she is rich.
+1	ሃብታም	ሃብታም	ADJ	ADJ	Number=Sing	4	xcomp:pred	_	Translit=habtam
+2	ከም	ከም	ADP	ADP	_	4	mark	_	Translit=kəm
+3-4	ዝኾነት	_	_	_	_	_	_	_	Translit=zxonət
+3	ዝ	ዝ	SCONJ	SCONJ	_	4	mark	_	_
+4	ኮነት	ኮነ	VERB	VERB	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	5	csubj:pass	_	_
+5	ተፈሊጡ	ተፈልጠ	VERB	VERB	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv|Voice=Pass	0	root	_	Translit=təfəlit'u
+6	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = ti_ref_116
+# text = ቀደም ንፉዕ ነይሩ ።
+# text_en = He was clever before.
+1	ቀደም	ቀደም	NOUN	NOUN	Number=Sing	2	obl	_	Translit=k'ədəm
+2	ንፉዕ	ንፉዕ	ADJ	ADJ	Gender=Masc|Number=Sing	0	root	_	Translit=nfuʕ
+3	ነይሩ	ነበረ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	2	cop	_	Translit=nəyru
+4	።	።	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = ti_ref_117
+# text = ንሳ ክትመጽእ ምዃና ነጊራትና ።
+# text_en = She told us that she will come.
+1	ንሳ	ንሳ	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Translit=nsa
+2-3	ክትመጽእ	_	_	_	_	_	_	_	Translit=ktməs'ʔ
+2	ክ	ክ	SCONJ	SCONJ	_	3	mark	_	_
+3	ትመጽእ	መጽአ	VERB	VERB	Aspect=Imp|Gender=Fem|Number=Sing|Person=3	4	xcomp:pred	_	_
+4-5	ምዃና	_	_	_	_	_	_	_	Translit=mxwana
+4	ምዃን	ምዃን	NOUN	NOUN	Number=Sing|VerbForm=Vnoun	6	ccomp	_	_
+5	ኣ	ኣ	DET	DET	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det:poss	_	_
+6	ነጊራትና	ነገረ	VERB	VERB	Gender=Fem|Number=Sing|Number[obj]=Plur|Person=3|Person[obj]=1|VerbForm=Conv	0	root	_	Translit=nəgiratna
+7	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = ti_ref_118
+# text = ንግሆ ንግሆ ትጐይይ ምዃና ነጊራትና ።
+# text_en = She told us that she runs every morning.
+1	ንግሆ	ንግሆ	NOUN	NOUN	Number=Sing	3	obl	_	Translit=ngho
+2	ንግሆ	ንግሆ	NOUN	NOUN	Number=Sing	1	compound:redup	_	Translit=ngho
+3	ትጐይይ	ጐየየ	VERB	VERB	Aspect=Imp|Gender=Fem|Number=Sing|Person=3	4	xcomp:pred	_	Translit=tgwəyy
+4-5	ምዃና	_	_	_	_	_	_	_	Translit=mxwana
+4	ምዃን	ምዃን	NOUN	NOUN	Number=Sing|VerbForm=Vnoun	6	ccomp	_	_
+5	ኣ	ኣ	DET	DET	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det:poss	_	_
+6	ነጊራትና	ነገረ	VERB	VERB	Gender=Fem|Number=Sing|Number[obj]=Plur|Person=3|Person[obj]=1|VerbForm=Conv	0	root	_	Translit=nəgiratna
+7	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = ti_ref_119
+# text = ንገዛ ክትመጽእ እንተ ኰይና ሕተታ ።
+# text_en = Ask her whether she will come home.
+1-2	ንገዛ	_	_	_	_	_	_	_	Translit=ngəza
+1	ን	ን	ADP	ADP	_	2	case:pre	_	_
+2	ገዛ	ገዛ	NOUN	NOUN	Number=Sing	4	obl	_	_
+3-4	ክትመጽእ	_	_	_	_	_	_	_	Translit=ktməs'ʔ
+3	ክ	ክ	SCONJ	SCONJ	_	4	mark	_	_
+4	ትመጽእ	መጽአ	VERB	VERB	Aspect=Imp|Gender=Fem|Number=Sing|Person=3	7	ccomp	_	_
+5	እንተ	እንተ	ADP	ADP	_	4	mark	_	Translit=ʔntə
+6	ኰይና	ኮነ	AUX	AUX	Gender=Fem|Number=Sing|Person=3|VerbForm=Conv	4	aux	_	Translit=kwəyna
+7	ሕተታ	ሓተተ	VERB	VERB	Gender=Masc|Gender[obj]=Fem|Mood=Imp|Number=Sing|Number[obj]=Sing|Person=2|Person[obj]=3	0	root	_	Translit=ħtəta
+8	።	።	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = ti_ref_120
+# text = ኣብ ገዛ ከም ዘላ ፈሊጥና ።
+# text_en = We knew that she is at home.
+1	ኣብ	ኣብ	ADP	ADP	_	2	case	_	Translit=ʔab
+2	ገዛ	ገዛ	NOUN	NOUN	Number=Sing	5	obl	_	Translit=gəza
+3	ከም	ከም	ADP	ADP	_	5	mark	_	Translit=kəm
+4-5	ዘላ	_	_	_	_	_	_	_	Translit=zəla
+4	ዝ	ዝ	SCONJ	SCONJ	_	5	mark	_	_
+5	ኣላ	ኣሎ	VERB	VERB	Gender=Fem|Number=Sing|Person=3|Tense=Pres	6	ccomp	_	_
+6	ፈሊጥና	ፈለጠ	VERB	VERB	Number=Plur|Person=1|VerbForm=Conv	0	root	_	Translit=fəlit'na
+7	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = ti_ref_121
+# text = ኣብ ገዛ ምንባራ ፈሊጥና ።
+# text_en = We knew that she was at home.
+1	ኣብ	ኣብ	ADP	ADP	_	2	case	_	Translit=ʔab
+2	ገዛ	ገዛ	NOUN	NOUN	Number=Sing	3	obl	_	Translit=gəza
+3-4	ምንባራ	_	_	_	_	_	_	_	Translit=mnbara
+3	ምንባር	ምንባር	NOUN	NOUN	Number=Sing|VerbForm=Vnoun	5	ccomp	_	_
+4	ኣ	ኣ	DET	DET	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det:poss	_	_
+5	ፈሊጥና	ፈለጠ	VERB	VERB	Number=Plur|Person=1|VerbForm=Conv	0	root	_	Translit=fəlit'na
+6	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = ti_ref_122
+# text = ሓፍተይ ትማሊ ካብ ዓዲ መጺኣ ።
+# text_en = My sister came from the village yesterday.
+1-2	ሓፍተይ	_	_	_	_	_	_	_	Translit=ħaftəy
+1	ሓፍቲ	ሓፍቲ	NOUN	NOUN	Gender=Fem|Number=Sing	6	nsubj	_	_
+2	አይ	አይ	DET	DET	Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	det:poss	_	_
+3	ትማሊ	ትማሊ	NOUN	NOUN	Number=Sing	6	obl	_	Translit=tmali
+4	ካብ	ካብ	ADP	ADP	_	5	case	_	Translit=kab
+5	ዓዲ	ዓዲ	NOUN	NOUN	Number=Sing	6	obl	_	Translit=ʕadi
+6	መጺኣ	መጽአ	VERB	VERB	Gender=Fem|Number=Sing|Person=3|VerbForm=Conv	0	root	_	Translit=məs'iʔa
+7	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = ti_ref_123
+# text = ሓፍተይ ትማሊ ካብ ዓዲ መጺኣ እያ ።
+# text_en = My sister DID come from the village yesterday.
+1-2	ሓፍተይ	_	_	_	_	_	_	_	Translit=ħaftəy
+1	ሓፍቲ	ሓፍቲ	NOUN	NOUN	Gender=Fem|Number=Sing	6	nsubj	_	_
+2	አይ	አይ	DET	DET	Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	det:poss	_	_
+3	ትማሊ	ትማሊ	NOUN	NOUN	Number=Sing	6	obl	_	Translit=tmali
+4	ካብ	ካብ	ADP	ADP	_	5	case	_	Translit=kab
+5	ዓዲ	ዓዲ	NOUN	NOUN	Number=Sing	6	obl	_	Translit=ʕadi
+6	መጺኣ	መጽአ	VERB	VERB	Gender=Fem|Number=Sing|Person=3|VerbForm=Conv	0	root	_	Translit=məs'iʔa
+7	እያ	እዩ	AUX	AUX	Gender=Fem|Number=Sing|Person=3|Tense=Pres	6	aux	_	Translit=ʔya
+8	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = ti_ref_124
+# text = ኣስቴር ክትኸይድ ኣለዋ ።
+# text_en = Aster has to go.
+1	ኣስቴር	ኣስቴር	PROPN	PROPN	Number=Sing	4	nsubj	_	Translit=ʔaster
+2-3	ክትኸይድ	_	_	_	_	_	_	_	Translit=ktxəyd
+2	ክ	ክ	SCONJ	SCONJ	_	3	mark	_	_
+3	ትኸይድ	ከደ	VERB	VERB	Aspect=Imp|Gender=Fem|Number=Sing|Person=3	4	xcomp	_	_
+4	ኣለዋ	ኣሎ	VERB	VERB	Gender=Masc|Gender[obj]=Fem|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3|Tense=Pres	0	root	_	Translit=ʔaləwa
+5	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = ti_ref_125
+# text = ነታ ሰበይቲ ከልቢ ሞይቱዋ ።
+# text_en = A dog died on the woman.
+1-2	ነታ	_	_	_	_	_	_	_	Translit=nəta
+1	ን	ን	ADP	ADP	_	3	case:pre	_	_
+2	እታ	እታ	DET	DET	Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	ሰበይቲ	ሰበይቲ	NOUN	NOUN	Gender=Fem|Number=Sing	5	iobj	_	Translit=səbəyti
+4	ከልቢ	ከልቢ	NOUN	NOUN	Number=Sing	5	nsubj	_	Translit=kəlbi
+5	ሞይቱዋ	ሞተ	VERB	VERB	Gender=Masc|Gender[obj]=Fem|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3|VerbForm=Conv	0	root	_	Translit=moytuwa
+6	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = ti_ref_126
+# text = ኣልማዝ ተሓጒሳ ።
+# text_en = Almaz is happy.
+1	ኣልማዝ	ኣልማዝ	PROPN	PROPN	Number=Sing	2	nsubj	_	Translit=ʔalmaz
+2	ተሓጒሳ	ተሓጐሰ	VERB	VERB	Gender=Fem|Number=Sing|Person=3|VerbForm=Conv|Voice=Pass	0	root	_	Translit=təħagwisa
+3	።	።	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = ti_ref_127
+# text = ነቲ ዓብይ እደሊ እየ ።
+# text_en = I want the big one.
+1-2	ነቲ	_	_	_	_	_	_	_	Translit=nəti
+1	ን	ን	ADP	ADP	_	3	case:pre	_	_
+2	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	ዓብይ	ዓብይ	ADJ	ADJ	Gender=Masc|Number=Sing	4	obj	_	Translit=ʕaby
+4	እደሊ	ደለየ	VERB	VERB	Aspect=Imp|Number=Sing|Person=1	0	root	_	Translit=ʔdəli
+5	እየ	እዩ	AUX	AUX	Number=Sing|Person=1|Tense=Pres	4	aux	_	Translit=ʔyə
+6	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = ti_ref_128
+# text = እቲ ናታ መጽሓፍ ጠፊኡ ።
+# text_en = Her book got lost.
+1	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	3	det	_	Translit=ʔti
+2	ናታ	ናታ	DET	DET	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det:poss	_	Translit=nata
+3	መጽሓፍ	መጽሓፍ	NOUN	NOUN	Number=Sing	4	nsubj	_	Translit=məs'ħaf
+4	ጠፊኡ	ጠፍአ	VERB	VERB	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	0	root	_	Translit=t'əfiʔu
+5	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = ti_ref_129
+# text = ናትኪ ጠፊኡ ።
+# text_en = Yours (fem. sg.) got lost.
+1	ናትኪ	ናትኪ	PRON	PRON	Gender=Fem|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nsubj	_	Translit=natki
+2	ጠፊኡ	ጠፍአ	VERB	VERB	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	0	root	_	Translit=t'əfiʔu
+3	።	።	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = ti_ref_130
+# text = ኣስቴር ዝበለጸ ውጽኢት ኣምጺኣ ።
+# text_en = Aster achieved the best result.
+1	ኣስቴር	ኣስቴር	PROPN	PROPN	Number=Sing	5	nsubj	_	Translit=ʔaster
+2-3	ዝበለጸ	_	_	_	_	_	_	_	Translit=zbələs'ə
+2	ዝ	ዝ	SCONJ	SCONJ	_	3	mark	_	_
+3	በለጸ	በለጸ	VERB	VERB	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	4	acl	_	_
+4	ውጽኢት	ውጽኢት	NOUN	NOUN	Number=Sing	5	obj	_	Translit=ws'ʔit
+5	ኣምጺኣ	ኣምጽአ	VERB	VERB	Gender=Fem|Number=Sing|Person=3|VerbForm=Conv|Voice=Cau	0	root	_	Translit=ʔams'iʔa
+6	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = ti_ref_131
+# text = ዝኾነ ሰብ ክመጽእ ይኽእል እዩ ።
+# text_en = Anyone can come.
+1-2	ዝኾነ	_	_	_	_	_	_	_	Translit=zxonə
+1	ዝ	ዝ	SCONJ	SCONJ	_	2	mark	_	_
+2	ኮነ	ኮነ	VERB	VERB	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	3	acl	_	_
+3	ሰብ	ሰብ	NOUN	NOUN	Number=Sing	6	nsubj	_	Translit=səb
+4-5	ክመጽእ	_	_	_	_	_	_	_	Translit=kməs'ʔ
+4	ክ	ክ	SCONJ	SCONJ	_	5	mark	_	_
+5	ይመጽእ	መጽአ	VERB	VERB	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	6	xcomp	_	_
+6	ይኽእል	ከኣለ	VERB	VERB	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=yxʔl
+7	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	6	aux	_	Translit=ʔyu
+8	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = ti_ref_132
+# text = ኣይሓወይን እዩ ።
+# text_en = He is not my brother.
+1-4	ኣይሓወይን	_	_	_	_	_	_	_	Translit=ʔayħawəyn
+1	ኣይ	ኣይ	ADV	ADV	Polarity=Neg	2	advmod:aff	_	_
+2	ሓው	ሓው	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	_
+3	አይ	አይ	DET	DET	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	det:poss	_	_
+4	ን	ን	ADV	ADV	Polarity=Neg	2	advmod:aff	_	_
+5	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	2	cop	_	Translit=ʔyu
+6	።	።	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = ti_ref_133
+# text = ኣይእዝን እዩ ።
+# text_en = It is not this.
+1-3	ኣይእዝን	_	_	_	_	_	_	_	Translit=ʔayʔzn
+1	ኣይ	ኣይ	ADV	ADV	Polarity=Neg	2	advmod:aff	_	_
+2	እዝ	እዚ	PRON	PRON	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+3	ን	ን	ADV	ADV	Polarity=Neg	2	advmod:aff	_	_
+4	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	2	cop	_	Translit=ʔyu
+5	።	።	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = ti_ref_134
+# text = ብጣዕሚ ተቐይሩ ።
+# text_en = He changed a lot.
+1	ብጣዕሚ	ብጣዕሚ	ADV	ADV	_	2	advmod	_	Translit=bt'aʕmi
+2	ተቐይሩ	ተቐየረ	VERB	VERB	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv|Voice=Pass	0	root	_	Translit=təx'əyru
+3	።	።	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = ti_ref_135
+# text = ምናልባት ኣይመጽእን እየ ።
+# text_en = Maybe I won't come.
+1	ምናልባት	ምናልባት	ADV	ADV	_	3	advmod	_	Translit=mnalbat
+2-4	ኣይመጽእን	_	_	_	_	_	_	_	Translit=ʔayməs'ʔn
+2	ኣይ	ኣይ	ADV	ADV	Polarity=Neg	3	advmod:aff	_	_
+3	እመጽእ	መጽአ	VERB	VERB	Aspect=Imp|Number=Sing|Person=1	0	root	_	_
+4	ን	ን	ADV	ADV	Polarity=Neg	3	advmod:aff	_	_
+5	እየ	እዩ	AUX	AUX	Number=Sing|Person=1|Tense=Pres	3	aux	_	Translit=ʔyə
+6	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = ti_ref_136
+# text = ኣይከኣለትን ።
+# text_en = She couldn't.
+1-3	ኣይከኣለትን	_	_	_	_	_	_	_	Translit=ʔaykəʔalətn
+1	ኣይ	ኣይ	ADV	ADV	Polarity=Neg	2	advmod:aff	_	_
+2	ከኣለት	ከኣለ	VERB	VERB	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	0	root	_	_
+3	ን	ን	ADV	ADV	Polarity=Neg	2	advmod:aff	_	_
+4	።	።	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = ti_ref_137
+# text = ካልእስ ኣበይ ከይድካ ፧
+# text_en = As for other things, where did you go?
+1-2	ካልእስ	_	_	_	_	_	_	_	Translit=kalʔs
+1	ካልእ	ካልእ	ADJ	ADJ	Number=Sing	4	dislocated	_	_
+2	ስ	ስ	PART	PART	_	1	discourse	_	_
+3	ኣበይ	ኣበይ	ADV	ADV	PronType=Int	4	advmod	_	Translit=ʔabəy
+4	ከይድካ	ከደ	VERB	VERB	Gender=Masc|Number=Sing|Person=2|VerbForm=Conv	0	root	_	Translit=kəydka
+5	፧	፧	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = ti_ref_138
+# text = ድንን ኢላ ።
+# text_en = She bent over.
+1	ድንን	ድንን	PART	PART	_	2	compound:lvc	_	Translit=dnn
+2	ኢላ	በለ	VERB	VERB	Gender=Fem|Number=Sing|Person=3|VerbForm=Conv	0	root	_	Translit=ʔila
+3	።	።	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = ti_ref_139
+# text = ብእግርና ዶ ፡ ወይስ ብኣውቶቡስ ንኺድ ፧
+# text_en = Shall we go on foot or by bus?
+1-3	ብእግርና	_	_	_	_	_	_	_	Translit=bʔgrna
+1	ብ	ብ	ADP	ADP	_	2	case:pre	_	_
+2	እግር	እግሪ	NOUN	NOUN	Number=Sing	9	obl	_	_
+3	ና	ና	DET	DET	Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	det:poss	_	_
+4	ዶ	ዶ	PART	PART	_	2	discourse	_	Translit=do
+5	፡	፡	PUNCT	PUNCT	_	8	punct	_	_
+6	ወይስ	ወይስ	CCONJ	CCONJ	_	8	cc	_	Translit=wəys
+7-8	ብኣውቶቡስ	_	_	_	_	_	_	_	Translit=bʔawtobus
+7	ብ	ብ	ADP	ADP	_	8	case:pre	_	_
+8	ኣውቶቡስ	ኣውቶቡስ	NOUN	NOUN	Number=Sing	2	conj	_	_
+9	ንኺድ	ከደ	VERB	VERB	Mood=Jus|Number=Plur|Person=1	0	root	_	Translit=nxid
+10	፧	፧	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = ti_ref_140
+# text = ኣስቴር ክፍእቲ ጓል እያ ።
+# text_en = Aster is a bad woman.
+1	ኣስቴር	ኣስቴር	PROPN	PROPN	Number=Sing	3	nsubj	_	Translit=ʔaster
+2	ክፍእቲ	ክፉእ	ADJ	ADJ	Gender=Fem|Number=Sing	3	amod	_	Translit=kfʔti
+3	ጓል	ጓል	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	Translit=gwal
+4	እያ	እዩ	AUX	AUX	Gender=Fem|Number=Sing|Person=3|Tense=Pres	3	cop	_	Translit=ʔya
+5	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = ti_ref_141
+# text = ኣቱም ሰባት ፡ ህድ እንበል ።
+# text_en = You people, let's be quiet.
+1	ኣቱም	ኣቱም	DET	DET	Gender=Masc|Number=Plur|Person=2|PronType=Dem	2	det	_	Translit=ʔatum
+2	ሰባት	ሰብ	NOUN	NOUN	Number=Plur	5	vocative	_	Translit=səbat
+3	፡	፡	PUNCT	PUNCT	_	2	punct	_	_
+4	ህድ	ህድ	PART	PART	_	5	compound:lvc	_	Translit=hd
+5	እንበል	በለ	VERB	VERB	Mood=Jus|Number=Plur|Person=1	0	root	_	Translit=ʔnbəl
+6	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = ti_ref_142
+# text = ኣታ ፡ ንኺድ እንዶ ።
+# text_en = Hey you, let's go!
+1	ኣታ	ኣታ	PRON	PRON	Gender=Masc|Number=Sing|Person=2|PronType=Dem	3	vocative	_	Translit=ʔata
+2	፡	፡	PUNCT	PUNCT	_	1	punct	_	_
+3	ንኺድ	ከደ	VERB	VERB	Mood=Jus|Number=Plur|Person=1	0	root	_	Translit=nxid
+4	እንዶ	እንዶ	PART	PART	_	3	discourse	_	Translit=ʔndo
+5	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = ti_ref_143
+# text = ገዛ እተዉ እንዶ ።
+# text_en = Come into the house!
+1	ገዛ	ገዛ	NOUN	NOUN	Number=Sing	2	obl	_	Translit=gəza
+2	እተዉ	ኣተወ	VERB	VERB	Gender=Masc|Mood=Imp|Number=Plur|Person=2	0	root	_	Translit=ʔtəwu
+3	እንዶ	እንዶ	PART	PART	_	2	discourse	_	Translit=ʔndo
+4	።	።	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = ti_ref_144
+# text = ኣስቴር ኣብ ሓጺር ግዜ ሃብታም ኮይና ።
+# text_en = Aster became rich in a short time.
+1	ኣስቴር	ኣስቴር	PROPN	PROPN	Number=Sing	6	nsubj	_	Translit=ʔaster
+2	ኣብ	ኣብ	ADP	ADP	_	4	case	_	Translit=ʔab
+3	ሓጺር	ሓጺር	ADJ	ADJ	Number=Sing	4	amod	_	Translit=ħas'ir
+4	ግዜ	ግዜ	NOUN	NOUN	Number=Sing	6	obl	_	Translit=gze
+5	ሃብታም	ሃብታም	ADJ	ADJ	Number=Sing	6	xcomp:pred	_	Translit=habtam
+6	ኮይና	ኮነ	VERB	VERB	Gender=Fem|Number=Sing|Person=3|VerbForm=Conv	0	root	_	Translit=koyna
+7	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = ti_ref_145
+# text = ንፍዕቲ ክኸውን እደልይ ።
+# text_en = I want to become skilled/clever.
+1	ንፍዕቲ	ንፉዕ	ADJ	ADJ	Gender=Fem|Number=Sing	3	xcomp:pred	_	Translit=nfʕti
+2-3	ክኸውን	_	_	_	_	_	_	_	Translit=kxəwn
+2	ክ	ክ	SCONJ	SCONJ	_	3	mark	_	_
+3	እኸውን	ኮነ	VERB	VERB	Aspect=Imp|Number=Sing|Person=1	4	xcomp	_	_
+4	እደልይ	ደለየ	VERB	VERB	Aspect=Imp|Number=Sing|Person=1	0	root	_	Translit=ʔdəly
+5	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = ti_ref_146
+# text = ናይ ኣስቴር ምኻድ ኣሕዚኑና ።
+# text_en = Aster's leaving saddened us.
+1	ናይ	ናይ	ADP	ADP	_	2	case	_	Translit=nay
+2	ኣስቴር	ኣስቴር	PROPN	PROPN	Number=Sing	3	nmod	_	Translit=ʔaster
+3	ምኻድ	ምኻድ	NOUN	NOUN	Number=Sing|VerbForm=Vnoun	4	csubj	_	Translit=mxad
+4	ኣሕዚኑና	ኣሕዘነ	VERB	VERB	Gender=Masc|Number=Sing|Number[obj]=Plur|Person=3|Person[obj]=1|VerbForm=Conv|Voice=Cau	0	root	_	Translit=ʔaħzinuna
+5	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = ti_ref_147
+# text = ኣበበ ነቲ ገንዘብ ንኣልማዝ ሂቡዎ ።
+# text_en = Abebe gave the money to Almaz.
+1	ኣበበ	ኣበበ	PROPN	PROPN	Number=Sing	7	nsubj	_	Translit=ʔabəbə
+2-3	ነቲ	_	_	_	_	_	_	_	Translit=nəti
+2	ን	ን	ADP	ADP	_	4	case:pre	_	_
+3	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	ገንዘብ	ገንዘብ	NOUN	NOUN	Number=Sing	7	obj	_	Translit=gənzəb
+5-6	ንኣልማዝ	_	_	_	_	_	_	_	Translit=nʔalmaz
+5	ን	ን	ADP	ADP	_	6	case:pre	_	_
+6	ኣልማዝ	ኣልማዝ	PROPN	PROPN	Number=Sing	7	obl	_	_
+7	ሂቡዎ	ሃበ	VERB	VERB	Gender=Masc|Gender[obj]=Masc|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3|VerbForm=Conv	0	root	_	Translit=hibuwo
+8	።	።	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = ti_ref_148
+# text = እቲ ስጋ ክልተ ኪሎ ይምዘን ።
+# text_en = The meat weighs two kilos.
+1	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	2	det	_	Translit=ʔti
+2	ስጋ	ስጋ	NOUN	NOUN	Number=Sing	5	nsubj	_	Translit=sga
+3	ክልተ	ክልተ	NUM	NUM	_	4	nummod	_	Translit=kltə
+4	ኪሎ	ኪሎ	NOUN	NOUN	Number=Sing	5	obj	_	Translit=kilo
+5	ይምዘን	ተመዘነ	VERB	VERB	Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Voice=Pass	0	root	_	Translit=ymzən
+6	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = ti_ref_149
+# text = ምኻዱ ጽቡቕ ኣይኮነን ።
+# text_en = His going is not good.
+1-2	ምኻዱ	_	_	_	_	_	_	_	Translit=mxadu
+1	ምኻድ	ምኻድ	NOUN	NOUN	Number=Sing|VerbForm=Vnoun	3	csubj	_	_
+2	ኡ	ኡ	DET	DET	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	det:poss	_	_
+3	ጽቡቕ	ጽቡቕ	ADJ	ADJ	Number=Sing	0	root	_	Translit=s'bux'
+4	ኣይኮነን	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	3	cop	_	Translit=ʔaykonən
+5	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = ti_ref_150
+# text = ካሕሳይ ኣስቴር ናብ ከረን ምኻዳ ሰሚዑ ።
+# text_en = Kahsay heard that Aster went to Keren.
+1	ካሕሳይ	ካሕሳይ	PROPN	PROPN	Number=Sing	7	nsubj	_	Translit=kaħsay
+2	ኣስቴር	ኣስቴር	PROPN	PROPN	Number=Sing	5	nsubj	_	Translit=ʔaster
+3	ናብ	ናብ	ADP	ADP	_	4	case	_	Translit=nab
+4	ከረን	ከረን	PROPN	PROPN	Number=Sing	5	obl	_	Translit=kərən
+5-6	ምኻዳ	_	_	_	_	_	_	_	Translit=mxada
+5	ምኻድ	ምኻድ	NOUN	NOUN	Number=Sing|VerbForm=Vnoun	7	ccomp	_	_
+6	ኣ	ኣ	DET	DET	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det:poss	_	_
+7	ሰሚዑ	ሰምዐ	VERB	VERB	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	0	root	_	Translit=səmiʕu
+8	።	።	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = ti_ref_151
+# text = እቲ ሓረስታይ ነቲ ሳዕሪ ነተን ከብቲ ሂቡዎ ።
+# text_en = The farmer gave the grass to the cattle.
+1	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	2	det	_	Translit=ʔti
+2	ሓረስታይ	ሓረስታይ	NOUN	NOUN	Number=Sing	9	nsubj	_	Translit=ħarəstay
+3-4	ነቲ	_	_	_	_	_	_	_	Translit=nəti
+3	ን	ን	ADP	ADP	_	5	case:pre	_	_
+4	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	ሳዕሪ	ሳዕሪ	NOUN	NOUN	Number=Sing	9	obj	_	Translit=saʕri
+6-7	ነተን	_	_	_	_	_	_	_	Translit=nətən
+6	ን	ን	ADP	ADP	_	8	case:pre	_	_
+7	እተን	እተን	DET	DET	Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	ከብቲ	ከብቲ	NOUN	NOUN	Number=Plur	9	obl	_	Translit=kəbti
+9	ሂቡዎ	ሃበ	VERB	VERB	Gender=Masc|Gender[obj]=Masc|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3|VerbForm=Conv	0	root	_	Translit=hibuwo
+10	።	።	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = ti_ref_152
+# text = እቲ ወዲ ነታ ኵዕሶ ቀሊዑዋ ።
+# text_en = The boy hit the ball.
+1	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	2	det	_	Translit=ʔti
+2	ወዲ	ወዲ	NOUN	NOUN	Number=Sing	6	nsubj	_	Translit=wədi
+3-4	ነታ	_	_	_	_	_	_	_	Translit=nəta
+3	ን	ን	ADP	ADP	_	5	case:pre	_	_
+4	እታ	እታ	DET	DET	Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	ኵዕሶ	ኵዕሶ	NOUN	NOUN	Number=Sing	6	obj	_	Translit=kwʕso
+6	ቀሊዑዋ	ቀልዐ	VERB	VERB	Gender=Masc|Gender[obj]=Fem|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3|VerbForm=Conv	0	root	_	Translit=k'əliʕuwa
+7	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = ti_ref_153
+# text = ነቲ ውድድር ምዕዋቱ ኣሕጒሱዎ ።
+# text_en = Winning the competition made him happy.
+1-2	ነቲ	_	_	_	_	_	_	_	Translit=nəti
+1	ን	ን	ADP	ADP	_	3	case:pre	_	_
+2	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	ውድድር	ውድድር	NOUN	NOUN	Number=Sing	4	obj	_	Translit=wddr
+4-5	ምዕዋቱ	_	_	_	_	_	_	_	Translit=mʕwatu
+4	ምዕዋት	ምዕዋት	NOUN	NOUN	Number=Sing|VerbForm=Vnoun	6	csubj	_	_
+5	ኡ	ኡ	DET	DET	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det:poss	_	_
+6	ኣሕጒሱዎ	ኣሕጐሰ	VERB	VERB	Gender=Masc|Gender[obj]=Masc|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3|VerbForm=Conv|Voice=Cau	0	root	_	Translit=ʔaħgwisuwo
+7	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = ti_ref_154
+# text = ንሱ ንፉዕ እዩ ፡ ንሳ እውን ከምኡ ።
+# text_en = He is clever, and she is too.
+1	ንሱ	ንሱ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Translit=nsu
+2	ንፉዕ	ንፉዕ	ADJ	ADJ	Gender=Masc|Number=Sing	0	root	_	Translit=nfuʕ
+3	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	2	cop	_	Translit=ʔyu
+4	፡	፡	PUNCT	PUNCT	_	5	punct	_	_
+5	ንሳ	ንሳ	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	conj	_	Translit=nsa
+6	እውን	እውን	ADV	ADV	_	5	cc	_	Translit=ʔwn
+7	ከምኡ	ንሱ	PRON	PRON	Case=Equ|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	orphan	_	Translit=kəmʔu
+8	።	።	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = ti_ref_155
+# text = ንሱ ንፉዕ እዩ ፡ ንሳ ግን ሕማቕ እያ ።
+# text_en = He is clever, but she is bad.
+1	ንሱ	ንሱ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Translit=nsu
+2	ንፉዕ	ንፉዕ	ADJ	ADJ	Gender=Masc|Number=Sing	0	root	_	Translit=nfuʕ
+3	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	2	cop	_	Translit=ʔyu
+4	፡	፡	PUNCT	PUNCT	_	7	punct	_	_
+5	ንሳ	ንሳ	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Translit=nsa
+6	ግን	ግን	CCONJ	CCONJ	_	7	cc	_	Translit=gn
+7	ሕማቕ	ሕማቕ	ADJ	ADJ	Number=Sing	2	conj	_	Translit=ħmax'
+8	እያ	እዩ	AUX	AUX	Gender=Fem|Number=Sing|Person=3|Tense=Pres	7	cop	_	Translit=ʔya
+9	።	።	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = ti_ref_156
+# text = ንሱ ንፉዕ እዩ ፡ ንሳ ግን ኣይከምኡን ።
+# text_en = He is clever, but she is not.
+1	ንሱ	ንሱ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Translit=nsu
+2	ንፉዕ	ንፉዕ	ADJ	ADJ	Gender=Masc|Number=Sing	0	root	_	Translit=nfuʕ
+3	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	2	cop	_	Translit=ʔyu
+4	፡	፡	PUNCT	PUNCT	_	5	punct	_	_
+5	ንሳ	ንሳ	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	conj	_	Translit=nsa
+6	ግን	ግን	CCONJ	CCONJ	_	5	cc	_	Translit=gn
+7-9	ኣይከምኡን	_	_	_	_	_	_	_	Translit=ʔaykəmʔun
+7	ኣይ	ኣይ	ADV	ADV	Polarity=Neg	8	advmod:aff	_	_
+8	ከምኡ	ንሱ	PRON	PRON	Case=Equ|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	orphan	_	_
+9	ን	ን	ADV	ADV	Polarity=Neg	8	advmod:aff	_	_
+10	።	።	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = ti_ref_157
+# text = ክመጽእ ይኸውን እዩ ።
+# text_en = He will probably come.
+1-2	ክመጽእ	_	_	_	_	_	_	_	Translit=kməs'ʔ
+1	ክ	ክ	SCONJ	SCONJ	_	2	mark	_	_
+2	ይመጽእ	መጽአ	VERB	VERB	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	0	root	_	_
+3	ይኸውን	ኮነ	AUX	AUX	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	2	aux	_	Translit=yxəwn
+4	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	2	aux	_	Translit=ʔyu
+5	።	።	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = ti_ref_158
+# text = ክመጽእ ይኽእል እዩ ።
+# text_en = He can come. / He may come.
+1-2	ክመጽእ	_	_	_	_	_	_	_	Translit=kməs'ʔ
+1	ክ	ክ	SCONJ	SCONJ	_	2	mark	_	_
+2	ይመጽእ	መጽአ	VERB	VERB	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	3	xcomp	_	_
+3	ይኽእል	ከኣለ	VERB	VERB	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=yxʔl
+4	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	3	aux	_	Translit=ʔyu
+5	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = ti_ref_159
+# text = ክመጽእ ይግብኦ እዩ ።
+# text_en = He should come.
+1-2	ክመጽእ	_	_	_	_	_	_	_	Translit=kməs'ʔ
+1	ክ	ክ	SCONJ	SCONJ	_	2	mark	_	_
+2	ይመጽእ	መጽአ	VERB	VERB	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	3	xcomp	_	_
+3	ይግብኦ	ገበአ	VERB	VERB	Aspect=Imp|Gender=Masc|Gender[obj]=Masc|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3	0	root	_	Translit=ygbʔo
+4	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	3	aux	_	Translit=ʔyu
+5	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = ti_ref_160
+# text = ይመጽእ ይህሉ እዩ ።
+# text_en = He might be coming.
+1	ይመጽእ	መጽአ	VERB	VERB	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=yməs'ʔ
+2	ይህሉ	ኣሎ	AUX	AUX	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	1	aux	_	Translit=yhlu
+3	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	1	aux	_	Translit=ʔyu
+4	።	።	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = ti_ref_161
+# text = ክንመጽእ ኣለና ።
+# text_en = We have to come.
+1-2	ክንመጽእ	_	_	_	_	_	_	_	Translit=knməs'ʔ
+1	ክ	ክ	SCONJ	SCONJ	_	2	mark	_	_
+2	ንመጽእ	መጽአ	VERB	VERB	Aspect=Imp|Number=Plur|Person=1	3	xcomp	_	_
+3	ኣለና	ኣሎ	VERB	VERB	Gender=Masc|Number=Sing|Number[obj]=Plur|Person=3|Person[obj]=1|Tense=Pres	0	root	_	Translit=ʔaləna
+4	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = ti_ref_162
+# text = ትምህርቲ ተቢዑ ንኽመሃር ንወዳ ምምካር ኣየቋረጸትን ።
+# text_en = She did not stop advising her son to study diligently.
+1	ትምህርቲ	ትምህርቲ	NOUN	NOUN	Number=Sing	5	obj	_	Translit=tmhrti
+2	ተቢዑ	ተብዐ	VERB	VERB	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	5	advcl	_	Translit=təbiʕu
+3-5	ንኽመሃር	_	_	_	_	_	_	_	Translit=nxməhar
+3	ን	ን	ADP	ADP	_	5	mark	_	_
+4	ክ	ክ	SCONJ	SCONJ	_	5	mark	_	_
+5	ይመሃር	ተማህረ	VERB	VERB	Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Voice=Pass	9	xcomp	_	_
+6-8	ንወዳ	_	_	_	_	_	_	_	Translit=nwəda
+6	ን	ን	ADP	ADP	_	7	case:pre	_	_
+7	ወዲ	ወዲ	NOUN	NOUN	Number=Sing	9	obj	_	_
+8	ኣ	ኣ	DET	DET	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det:poss	_	_
+9	ምምካር	ምምካር	NOUN	NOUN	Number=Sing|VerbForm=Vnoun	11	xcomp	_	Translit=mmkar
+10-12	ኣየቋረጸትን	_	_	_	_	_	_	_	Translit=ʔayək'warəs'ətn
+10	ኣይ	ኣይ	ADV	ADV	Polarity=Neg	11	advmod:aff	_	_
+11	ኣቋረጸት	ኣቋረጸ	VERB	VERB	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Voice=Cau	0	root	_	_
+12	ን	ን	ADV	ADV	Polarity=Neg	11	advmod:aff	_	_
+13	።	።	PUNCT	PUNCT	_	11	punct	_	_
+
+# sent_id = ti_ref_163
+# text = ንሳ ምዃና ነጊራትና ።
+# text_en = She told us that it is her.
+1	ንሳ	ንሳ	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	xcomp:pred	_	Translit=nsa
+2-3	ምዃና	_	_	_	_	_	_	_	Translit=mxwana
+2	ምዃን	ምዃን	NOUN	NOUN	Number=Sing|VerbForm=Vnoun	4	ccomp	_	_
+3	ኣ	ኣ	DET	DET	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det:poss	_	_
+4	ነጊራትና	ነገረ	VERB	VERB	Gender=Fem|Number=Sing|Number[obj]=Plur|Person=3|Person[obj]=1|VerbForm=Conv	0	root	_	Translit=nəgiratna
+5	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = ti_ref_164
+# text = ንሳ ምንባራ ነጊራትና ።
+# text_en = She told us that it was her.
+1	ንሳ	ንሳ	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	xcomp:pred	_	Translit=nsa
+2-3	ምንባራ	_	_	_	_	_	_	_	Translit=mnbara
+2	ምንባር	ምንባር	NOUN	NOUN	Number=Sing|VerbForm=Vnoun	4	ccomp	_	_
+3	ኣ	ኣ	DET	DET	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det:poss	_	_
+4	ነጊራትና	ነገረ	VERB	VERB	Gender=Fem|Number=Sing|Number[obj]=Plur|Person=3|Person[obj]=1|VerbForm=Conv	0	root	_	Translit=nəgiratna
+5	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = ti_ref_165
+# text = ንሳ እንተኰይና ሕተታ ።
+# text_en = Ask her whether it is her.
+1	ንሳ	ንሳ	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	xcomp:pred	_	Translit=nsa
+2-3	እንተኰይና	_	_	_	_	_	_	_	Translit=ʔntəkwəyna
+2	እንተ	እንተ	ADP	ADP	_	3	mark	_	_
+3	ኰይና	ኮነ	VERB	VERB	Gender=Fem|Number=Sing|Person=3|VerbForm=Conv	4	ccomp	_	_
+4	ሕተታ	ሓተተ	VERB	VERB	Gender=Masc|Gender[obj]=Fem|Mood=Imp|Number=Sing|Number[obj]=Sing|Person=2|Person[obj]=3	0	root	_	Translit=ħtəta
+5	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = ti_ref_166
+# text = ንሳ እንተነይራ ሕተታ ።
+# text_en = Ask her whether it was her.
+1	ንሳ	ንሳ	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	ccomp	_	Translit=nsa
+2-3	እንተነይራ	_	_	_	_	_	_	_	Translit=ʔntənəyra
+2	እንተ	እንተ	ADP	ADP	_	1	mark	_	_
+3	ነይራ	ነበረ	AUX	AUX	Gender=Fem|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	1	cop	_	_
+4	ሕተታ	ሓተተ	VERB	VERB	Gender=Masc|Gender[obj]=Fem|Mood=Imp|Number=Sing|Number[obj]=Sing|Person=2|Person[obj]=3	0	root	_	Translit=ħtəta
+5	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = ti_ref_167
+# text = ንሳ ከምዝኾነት ፈሊጥና ።
+# text_en = We knew that it is her.
+1	ንሳ	ንሳ	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	xcomp:pred	_	Translit=nsa
+2-4	ከምዝኾነት	_	_	_	_	_	_	_	Translit=kəmzxonət
+2	ከም	ከም	ADP	ADP	_	4	mark	_	_
+3	ዝ	ዝ	SCONJ	SCONJ	_	4	mark	_	_
+4	ኮነት	ኮነ	VERB	VERB	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	5	ccomp	_	_
+5	ፈሊጥና	ፈለጠ	VERB	VERB	Number=Plur|Person=1|VerbForm=Conv	0	root	_	Translit=fəlit'na
+6	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = ti_ref_168
+# text = ንሳ ከምዝነበረት ፈሊጥና ።
+# text_en = We knew that it was her.
+1	ንሳ	ንሳ	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	ccomp	_	Translit=nsa
+2-4	ከምዝነበረት	_	_	_	_	_	_	_	Translit=kəmznəbərət
+2	ከም	ከም	ADP	ADP	_	1	mark	_	_
+3	ዝ	ዝ	SCONJ	SCONJ	_	1	mark	_	_
+4	ነበረት	ነበረ	AUX	AUX	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past	1	cop	_	_
+5	ፈሊጥና	ፈለጠ	VERB	VERB	Number=Plur|Person=1|VerbForm=Conv	0	root	_	Translit=fəlit'na
+6	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = ti_ref_169
+# text = ንሳ ኣብ ገዛ ምህላዋ ፈሊጥና ።
+# text_en = We knew that she is at home.
+1	ንሳ	ንሳ	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Translit=nsa
+2	ኣብ	ኣብ	ADP	ADP	_	3	case	_	Translit=ʔab
+3	ገዛ	ገዛ	NOUN	NOUN	Number=Sing	4	obl	_	Translit=gəza
+4-5	ምህላዋ	_	_	_	_	_	_	_	Translit=mhlawa
+4	ምህላው	ምህላው	NOUN	NOUN	Number=Sing|VerbForm=Vnoun	6	ccomp	_	_
+5	ኣ	ኣ	DET	DET	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det:poss	_	_
+6	ፈሊጥና	ፈለጠ	VERB	VERB	Number=Plur|Person=1|VerbForm=Conv	0	root	_	Translit=fəlit'na
+7	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = ti_ref_170
+# text = ንሳ ኣብ ገዛ ከምዝነበረት ፈሊጥና ።
+# text_en = We knew that she was at home.
+1	ንሳ	ንሳ	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Translit=nsa
+2	ኣብ	ኣብ	ADP	ADP	_	3	case	_	Translit=ʔab
+3	ገዛ	ገዛ	NOUN	NOUN	Number=Sing	6	obl	_	Translit=gəza
+4-6	ከምዝነበረት	_	_	_	_	_	_	_	Translit=kəmznəbərət
+4	ከም	ከም	ADP	ADP	_	6	mark	_	_
+5	ዝ	ዝ	SCONJ	SCONJ	_	6	mark	_	_
+6	ነበረት	ነበረ	VERB	VERB	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past	7	ccomp	_	_
+7	ፈሊጥና	ፈለጠ	VERB	VERB	Number=Plur|Person=1|VerbForm=Conv	0	root	_	Translit=fəlit'na
+8	።	።	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = ti_ref_171
+# text = ንሳ ኣብ ገዛ እንተላ ሕተታ ።
+# text_en = Ask her whether she is at home.
+1	ንሳ	ንሳ	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Translit=nsa
+2	ኣብ	ኣብ	ADP	ADP	_	3	case	_	Translit=ʔab
+3	ገዛ	ገዛ	NOUN	NOUN	Number=Sing	5	obl	_	Translit=gəza
+4-5	እንተላ	_	_	_	_	_	_	_	Translit=ʔntəla
+4	እንተ	እንተ	ADP	ADP	_	5	mark	_	_
+5	ኣላ	ኣሎ	VERB	VERB	Gender=Fem|Number=Sing|Person=3|Tense=Pres	6	ccomp	_	_
+6	ሕተታ	ሓተተ	VERB	VERB	Gender=Masc|Gender[obj]=Fem|Mood=Imp|Number=Sing|Number[obj]=Sing|Person=2|Person[obj]=3	0	root	_	Translit=ħtəta
+7	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = ti_ref_172
+# text = ንሳ ኣብ ገዛ እንተነይራ ሕተታ ።
+# text_en = Ask her whether she was at home.
+1	ንሳ	ንሳ	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Translit=nsa
+2	ኣብ	ኣብ	ADP	ADP	_	3	case	_	Translit=ʔab
+3	ገዛ	ገዛ	NOUN	NOUN	Number=Sing	5	obl	_	Translit=gəza
+4-5	እንተነይራ	_	_	_	_	_	_	_	Translit=ʔntənəyra
+4	እንተ	እንተ	ADP	ADP	_	5	mark	_	_
+5	ነይራ	ነበረ	VERB	VERB	Gender=Fem|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	6	ccomp	_	_
+6	ሕተታ	ሓተተ	VERB	VERB	Gender=Masc|Gender[obj]=Fem|Mood=Imp|Number=Sing|Number[obj]=Sing|Person=2|Person[obj]=3	0	root	_	Translit=ħtəta
+7	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = ti_ref_173
+# text = ትመጽእ ምዃና ነጊራትና ።
+# text_en = She told us that she comes.
+1	ትመጽእ	መጽአ	VERB	VERB	Aspect=Imp|Gender=Fem|Number=Sing|Person=3	2	xcomp:pred	_	Translit=tməs'ʔ
+2-3	ምዃና	_	_	_	_	_	_	_	Translit=mxwana
+2	ምዃን	ምዃን	NOUN	NOUN	Number=Sing|VerbForm=Vnoun	4	ccomp	_	_
+3	ኣ	ኣ	DET	DET	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det:poss	_	_
+4	ነጊራትና	ነገረ	VERB	VERB	Gender=Fem|Number=Sing|Number[obj]=Plur|Person=3|Person[obj]=1|VerbForm=Conv	0	root	_	Translit=nəgiratna
+5	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = ti_ref_174
+# text = ክትመጽእ ከም ዘለዋ ነጊራትና ።
+# text_en = She told us that she has to come.
+1-2	ክትመጽእ	_	_	_	_	_	_	_	Translit=ktməs'ʔ
+1	ክ	ክ	SCONJ	SCONJ	_	2	mark	_	_
+2	ትመጽእ	መጽአ	VERB	VERB	Aspect=Imp|Gender=Fem|Number=Sing|Person=3	5	xcomp	_	_
+3	ከም	ከም	ADP	ADP	_	5	mark	_	Translit=kəm
+4-5	ዘለዋ	_	_	_	_	_	_	_	Translit=zələwa
+4	ዝ	ዝ	SCONJ	SCONJ	_	5	mark	_	_
+5	ኣለዋ	ኣሎ	VERB	VERB	Gender=Masc|Gender[obj]=Fem|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3|Tense=Pres	6	ccomp	_	_
+6	ነጊራትና	ነገረ	VERB	VERB	Gender=Fem|Number=Sing|Number[obj]=Plur|Person=3|Person[obj]=1|VerbForm=Conv	0	root	_	Translit=nəgiratna
+7	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = ti_ref_175
+# text = ክትመጽእ ከም ዝነበራ ነጊራትና ።
+# text_en = She told us that she had to come.
+1-2	ክትመጽእ	_	_	_	_	_	_	_	Translit=ktməs'ʔ
+1	ክ	ክ	SCONJ	SCONJ	_	2	mark	_	_
+2	ትመጽእ	መጽአ	VERB	VERB	Aspect=Imp|Gender=Fem|Number=Sing|Person=3	5	xcomp	_	_
+3	ከም	ከም	ADP	ADP	_	5	mark	_	Translit=kəm
+4-5	ዝነበራ	_	_	_	_	_	_	_	Translit=znəbəra
+4	ዝ	ዝ	SCONJ	SCONJ	_	5	mark	_	_
+5	ነበራ	ነበረ	VERB	VERB	Aspect=Perf|Gender=Masc|Gender[obj]=Fem|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3|Tense=Past	6	ccomp	_	_
+6	ነጊራትና	ነገረ	VERB	VERB	Gender=Fem|Number=Sing|Number[obj]=Plur|Person=3|Person[obj]=1|VerbForm=Conv	0	root	_	Translit=nəgiratna
+7	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = ti_ref_176
+# text = ትመጽእ ከምዝኾነት ፈሊጥና ።
+# text_en = We knew that she comes.
+1	ትመጽእ	መጽአ	VERB	VERB	Aspect=Imp|Gender=Fem|Number=Sing|Person=3	5	ccomp	_	Translit=tməs'ʔ
+2-4	ከምዝኾነት	_	_	_	_	_	_	_	Translit=kəmzxonət
+2	ከም	ከም	ADP	ADP	_	1	mark	_	_
+3	ዝ	ዝ	SCONJ	SCONJ	_	1	mark	_	_
+4	ኮነት	ኮነ	AUX	AUX	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	1	aux	_	_
+5	ፈሊጥና	ፈለጠ	VERB	VERB	Number=Plur|Person=1|VerbForm=Conv	0	root	_	Translit=fəlit'na
+6	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = ti_ref_177
+# text = ንገዛ ክትመጽእ ከምዝኾነት ነጊራትና ።
+# text_en = She told us that she will come home.
+1-2	ንገዛ	_	_	_	_	_	_	_	Translit=ngəza
+1	ን	ን	ADP	ADP	_	2	case:pre	_	_
+2	ገዛ	ገዛ	NOUN	NOUN	Number=Sing	4	obl	_	_
+3-4	ክትመጽእ	_	_	_	_	_	_	_	Translit=ktməs'ʔ
+3	ክ	ክ	SCONJ	SCONJ	_	4	mark	_	_
+4	ትመጽእ	መጽአ	VERB	VERB	Aspect=Imp|Gender=Fem|Number=Sing|Person=3	8	ccomp	_	_
+5-7	ከምዝኾነት	_	_	_	_	_	_	_	Translit=kəmzxonət
+5	ከም	ከም	ADP	ADP	_	4	mark	_	_
+6	ዝ	ዝ	SCONJ	SCONJ	_	4	mark	_	_
+7	ኮነት	ኮነ	AUX	AUX	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	4	aux	_	_
+8	ነጊራትና	ነገረ	VERB	VERB	Gender=Fem|Number=Sing|Number[obj]=Plur|Person=3|Person[obj]=1|VerbForm=Conv	0	root	_	Translit=nəgiratna
+9	።	።	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = ti_ref_178
+# text = ዝናብ ይዘንብ ኣሎ ፤ ጽላልካ ውሰድ ።
+# text_en = It is raining; take your umbrella.
+1	ዝናብ	ዝናብ	NOUN	NOUN	Number=Sing	2	nsubj	_	Translit=znab
+2	ይዘንብ	ዘነበ	VERB	VERB	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=yzənb
+3	ኣሎ	ኣሎ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	2	aux	_	Translit=ʔalo
+4	፤	፤	PUNCT	PUNCT	_	7	punct	_	_
+5-6	ጽላልካ	_	_	_	_	_	_	_	Translit=s'lalka
+5	ጽላል	ጽላል	NOUN	NOUN	Number=Sing	7	obj	_	_
+6	ካ	ካ	DET	DET	Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	5	det:poss	_	_
+7	ውሰድ	ወሰደ	VERB	VERB	Gender=Masc|Mood=Imp|Number=Sing|Person=2	2	parataxis	_	Translit=wsəd
+8	።	።	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = ti_ref_179
+# text = እዋይ ኣነ ፡ ዘይሓልፈለይ !
+# text_en = Alas, poor me, it (the trouble) never passes for me!
+1	እዋይ	እዋይ	INTJ	INTJ	_	5	discourse	_	Translit=ʔway
+2	ኣነ	ኣነ	PRON	PRON	Number=Sing|Person=1|PronType=Prs	5	dislocated	_	Translit=ʔanə
+3	፡	፡	PUNCT	PUNCT	_	2	punct	_	_
+4-5	ዘይሓልፈለይ	_	_	_	_	_	_	_	Translit=zəyħalfələy
+4	ዘይ	ዘይ	ADV	ADV	Polarity=Neg	5	advmod:aff	_	_
+5	ሓልፈለይ	ሓለፈ	VERB	VERB	Aspect=Perf|Gender=Masc|Number=Sing|Number[app]=Sing|Person=3|Person[app]=1	0	root	_	_
+6	!	!	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = ti_ref_180
+# text = እቲ ቆልዓ ጠምዩ ኣሎ ።
+# text_en = The child is hungry.
+1	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	2	det	_	Translit=ʔti
+2	ቆልዓ	ቆልዓ	NOUN	NOUN	Number=Sing	3	nsubj	_	Translit=k'olʕa
+3	ጠምዩ	ጠመየ	VERB	VERB	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	0	root	_	Translit=t'əmyu
+4	ኣሎ	ኣሎ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	3	aux	_	Translit=ʔalo
+5	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = ti_ref_181
+# text = እቲ ቆልዓ ጠምዩዎ ኣሎ ።
+# text_en = The child is hungry (lit. hunger has got the child).
+1	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	2	det	_	Translit=ʔti
+2	ቆልዓ	ቆልዓ	NOUN	NOUN	Number=Sing	3	obj:exp	_	Translit=k'olʕa
+3	ጠምዩዎ	ጠመየ	VERB	VERB	Gender=Masc|Gender[obj]=Masc|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3|VerbForm=Conv	0	root	_	Translit=t'əmyuwo
+4	ኣሎ	ኣሎ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	3	aux	_	Translit=ʔalo
+5	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = ti_ref_182
+# text = ነቲ ቆልዓ ጠምዩዎ ኣሎ ።
+# text_en = The child is hungry (lit. hunger has got the child).
+1-2	ነቲ	_	_	_	_	_	_	_	Translit=nəti
+1	ን	ን	ADP	ADP	_	3	case:pre	_	_
+2	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	ቆልዓ	ቆልዓ	NOUN	NOUN	Number=Sing	4	obj:exp	_	Translit=k'olʕa
+4	ጠምዩዎ	ጠመየ	VERB	VERB	Gender=Masc|Gender[obj]=Masc|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3|VerbForm=Conv	0	root	_	Translit=t'əmyuwo
+5	ኣሎ	ኣሎ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	4	aux	_	Translit=ʔalo
+6	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = ti_ref_183
+# text = ኣስመራ ፡ ርእሰ ከተማ ኤርትራ ፡ ካብተን ዝጸበቓ ከተማታት ኣፍሪቃ እያ ።
+# text_en = Asmara, the capital of Eritrea, is one of the most beautiful cities of Africa.
+1	ኣስመራ	ኣስመራ	PROPN	PROPN	Gender=Fem|Number=Sing	11	nsubj	_	Translit=ʔasməra
+2	፡	፡	PUNCT	PUNCT	_	3	punct	_	_
+3	ርእሰ	ርእሲ	NOUN	NOUN	Number=Sing	1	appos	_	Translit=rʔsə
+4	ከተማ	ከተማ	NOUN	NOUN	Number=Sing	3	compound	_	Translit=kətəma
+5	ኤርትራ	ኤርትራ	PROPN	PROPN	Number=Sing	3	nmod	_	Translit=ʔertra
+6	፡	፡	PUNCT	PUNCT	_	3	punct	_	_
+7-8	ካብተን	_	_	_	_	_	_	_	Translit=kabtən
+7	ካብ	ካብ	ADP	ADP	_	11	case	_	_
+8	እተን	እተን	DET	DET	Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+9-10	ዝጸበቓ	_	_	_	_	_	_	_	Translit=zs'əbəx'a
+9	ዝ	ዝ	SCONJ	SCONJ	_	10	mark	_	_
+10	ጸበቓ	ጸበቐ	VERB	VERB	Aspect=Perf|Gender=Fem|Number=Plur|Person=3	11	acl	_	_
+11	ከተማታት	ከተማ	NOUN	NOUN	Number=Plur	0	root	_	Translit=kətəmatat
+12	ኣፍሪቃ	ኣፍሪቃ	PROPN	PROPN	Number=Sing	11	nmod	_	Translit=ʔafrik'a
+13	እያ	እዩ	AUX	AUX	Gender=Fem|Number=Sing|Person=3|Tense=Pres	11	cop	_	Translit=ʔya
+14	።	።	PUNCT	PUNCT	_	11	punct	_	_
+
+# sent_id = ti_ref_184
+# text = እታ ዝበለጸት ግን ፡ እታ ኣነ ዝገዛእኩዋ እያ ።
+# text_en = But the best one is the one that I bought.
+1	እታ	እታ	DET	DET	Gender=Fem|Number=Sing|PronType=Art	3	det	_	Translit=ʔta
+2-3	ዝበለጸት	_	_	_	_	_	_	_	Translit=zbələs'ət
+2	ዝ	ዝ	SCONJ	SCONJ	_	3	mark	_	_
+3	በለጸት	በለጸ	VERB	VERB	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	9	csubj:outer	_	_
+4	ግን	ግን	CCONJ	CCONJ	_	9	cc	_	Translit=gn
+5	፡	፡	PUNCT	PUNCT	_	9	punct	_	_
+6	እታ	እታ	DET	DET	Gender=Fem|Number=Sing|PronType=Art	9	det	_	Translit=ʔta
+7	ኣነ	ኣነ	PRON	PRON	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	Translit=ʔanə
+8-9	ዝገዛእኩዋ	_	_	_	_	_	_	_	Translit=zgəzaʔkuwa
+8	ዝ	ዝ	SCONJ	SCONJ	_	9	mark	_	_
+9	ገዛእኩዋ	ገዝአ	VERB	VERB	Aspect=Perf|Gender[obj]=Fem|Number=Sing|Number[obj]=Sing|Person=1|Person[obj]=3	0	root	_	_
+10	እያ	እዩ	AUX	AUX	Gender=Fem|Number=Sing|Person=3|Tense=Pres	9	cop	_	Translit=ʔya
+11	።	።	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = ti_ref_185
+# text = ወይዘሮ ጽገወይኒ ኪዳነ ናብ ከተማ ከይዳ ።
+# text_en = Mrs. Tsigeweyni Kidane went to town.
+1	ወይዘሮ	ወይዘሮ	NOUN	NOUN	Number=Sing	2	nmod	_	Translit=wəyzəro
+2	ጽገወይኒ	ጽገወይኒ	PROPN	PROPN	Gender=Fem|Number=Sing	6	nsubj	_	Translit=s'gəwəyni
+3	ኪዳነ	ኪዳነ	PROPN	PROPN	Number=Sing	2	flat	_	Translit=kidanə
+4	ናብ	ናብ	ADP	ADP	_	5	case	_	Translit=nab
+5	ከተማ	ከተማ	NOUN	NOUN	Number=Sing	6	obl	_	Translit=kətəma
+6	ከይዳ	ከደ	VERB	VERB	Gender=Fem|Number=Sing|Person=3|VerbForm=Conv	0	root	_	Translit=kəyda
+7	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = ti_ref_186
+# text = ነቲ ቢኬሪ ጸባ ሰትዩሉ ።
+# text_en = He drank milk from the glass.
+1-2	ነቲ	_	_	_	_	_	_	_	Translit=nəti
+1	ን	ን	ADP	ADP	_	3	case:pre	_	_
+2	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	ቢኬሪ	ቢኬሪ	NOUN	NOUN	Number=Sing	5	iobj	_	Translit=bikeri
+4	ጸባ	ጸባ	NOUN	NOUN	Number=Sing	5	obj	_	Translit=s'əba
+5	ሰትዩሉ	ሰተየ	VERB	VERB	Gender=Masc|Gender[app]=Masc|Number=Sing|Number[app]=Sing|Person=3|Person[app]=3|VerbForm=Conv	0	root	_	Translit=sətyulu
+6	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = ti_ref_187
+# text = ካሕሳይን ሃይለን መጺኦም ።
+# text_en = Kahsay and Haile came.
+1-2	ካሕሳይን	_	_	_	_	_	_	_	Translit=kaħsayn
+1	ካሕሳይ	ካሕሳይ	PROPN	PROPN	Number=Sing	5	nsubj	_	_
+2	ን	ን	CCONJ	CCONJ	_	1	cc	_	_
+3-4	ሃይለን	_	_	_	_	_	_	_	Translit=haylən
+3	ሃይለ	ሃይለ	PROPN	PROPN	Number=Sing	1	conj	_	_
+4	ን	ን	CCONJ	CCONJ	_	3	cc	_	_
+5	መጺኦም	መጽአ	VERB	VERB	Gender=Masc|Number=Plur|Person=3|VerbForm=Conv	0	root	_	Translit=məs'iʔom
+6	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = ti_ref_188
+# text = ወ/ሮ ጽገወይኒ ኪዳነ ኣብ ገዛ ኣላ ።
+# text_en = Mrs. Tsigeweyni Kidane is at home.
+1	ወ/ሮ	ወይዘሮ	NOUN	NOUN	Abbr=Yes|Number=Sing	2	nmod	_	Translit=wə/ro
+2	ጽገወይኒ	ጽገወይኒ	PROPN	PROPN	Gender=Fem|Number=Sing	6	nsubj	_	Translit=s'gəwəyni
+3	ኪዳነ	ኪዳነ	PROPN	PROPN	Number=Sing	2	flat	_	Translit=kidanə
+4	ኣብ	ኣብ	ADP	ADP	_	5	case	_	Translit=ʔab
+5	ገዛ	ገዛ	NOUN	NOUN	Number=Sing	6	obl	_	Translit=gəza
+6	ኣላ	ኣሎ	VERB	VERB	Gender=Fem|Number=Sing|Person=3|Tense=Pres	0	root	_	Translit=ʔala
+7	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = ti_ref_189
+# text = ነቲ ውሳኔ ብጽቡቕ ርእዩዎ ።
+# text_en = He considered the decision carefully.
+1-2	ነቲ	_	_	_	_	_	_	_	Translit=nəti
+1	ን	ን	ADP	ADP	_	3	case:pre	_	_
+2	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	ውሳኔ	ውሳኔ	NOUN	NOUN	Number=Sing	6	obj	_	Translit=wsane
+4-5	ብጽቡቕ	_	_	_	_	_	_	_	Translit=bs'bux'
+4	ብ	ብ	ADP	ADP	_	5	case:pre	_	_
+5	ጽቡቕ	ጽቡቕ	ADJ	ADJ	Number=Sing	6	obl	_	_
+6	ርእዩዎ	ርኣየ	VERB	VERB	Gender=Masc|Gender[obj]=Masc|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3|VerbForm=Conv	0	root	_	Translit=rʔyuwo
+7	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = ti_ref_190
+# text = ካሕሳይ ካብ ሓዉ ይነውሕ ።
+# text_en = Kahsay is taller than his brother.
+1	ካሕሳይ	ካሕሳይ	PROPN	PROPN	Number=Sing	5	nsubj	_	Translit=kaħsay
+2	ካብ	ካብ	ADP	ADP	_	3	case	_	Translit=kab
+3-4	ሓዉ	_	_	_	_	_	_	_	Translit=ħawu
+3	ሓው	ሓው	NOUN	NOUN	Gender=Masc|Number=Sing	5	obl	_	_
+4	ኡ	ኡ	DET	DET	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det:poss	_	_
+5	ይነውሕ	ነውሐ	VERB	VERB	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=ynəwħ
+6	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = ti_ref_191
+# text = መን መጺኡ ፧
+# text_en = Who came?
+1	መን	መን	PRON	PRON	PronType=Int	2	nsubj	_	Translit=mən
+2	መጺኡ	መጽአ	VERB	VERB	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	0	root	_	Translit=məs'iʔu
+3	፧	፧	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = ti_ref_192
+# text = ሓውኻ መጺኡ ዶ ፧
+# text_en = Did your brother come?
+1-2	ሓውኻ	_	_	_	_	_	_	_	Translit=ħawxa
+1	ሓው	ሓው	NOUN	NOUN	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	ኻ	ኻ	DET	DET	Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	1	det:poss	_	_
+3	መጺኡ	መጽአ	VERB	VERB	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	0	root	_	Translit=məs'iʔu
+4	ዶ	ዶ	PART	PART	_	3	discourse	_	Translit=do
+5	፧	፧	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = ti_ref_193
+# text = ናብኡ ኣይትኺድ ።
+# text_en = Don't go there.
+1	ናብኡ	ንሱ	PRON	PRON	Case=All|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	Translit=nabʔu
+2-3	ኣይትኺድ	_	_	_	_	_	_	_	Translit=ʔaytxid
+2	ኣይ	ኣይ	ADV	ADV	Polarity=Neg	3	advmod:aff	_	_
+3	ትኺድ	ከደ	VERB	VERB	Gender=Masc|Mood=Jus|Number=Sing|Person=2	0	root	_	_
+4	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = ti_ref_194
+# text = ነብሱ ኣብ መስትያት ርእዩ ።
+# text_en = He saw himself in the mirror.
+1-2	ነብሱ	_	_	_	_	_	_	_	Translit=nəbsu
+1	ነብሲ	ነብሲ	PRON	PRON	PronType=Prs|Reflex=Yes	5	obj	_	_
+2	ኡ	ኡ	DET	DET	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	det:poss	_	_
+3	ኣብ	ኣብ	ADP	ADP	_	4	case	_	Translit=ʔab
+4	መስትያት	መስትያት	NOUN	NOUN	Number=Sing	5	obl	_	Translit=məstyat
+5	ርእዩ	ርኣየ	VERB	VERB	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	0	root	_	Translit=rʔyu
+6	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = ti_ref_195
+# text = ካሕሳይን ኣስቴርን ተፋቒሮም ።
+# text_en = Kahsay and Aster loved each other.
+1-2	ካሕሳይን	_	_	_	_	_	_	_	Translit=kaħsayn
+1	ካሕሳይ	ካሕሳይ	PROPN	PROPN	Number=Sing	5	nsubj	_	_
+2	ን	ን	CCONJ	CCONJ	_	1	cc	_	_
+3-4	ኣስቴርን	_	_	_	_	_	_	_	Translit=ʔastern
+3	ኣስቴር	ኣስቴር	PROPN	PROPN	Gender=Fem|Number=Sing	1	conj	_	_
+4	ን	ን	CCONJ	CCONJ	_	3	cc	_	_
+5	ተፋቒሮም	ተፋቐረ	VERB	VERB	Gender=Masc|Number=Plur|Person=3|VerbForm=Conv|Voice=Pass	0	root	_	Translit=təfax'irom
+6	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = ti_ref_196
+# text = ቀዳመይቲ ተመሃሪት ኣስቴር እያ ።
+# text_en = The first student is Aster.
+1	ቀዳመይቲ	ቀዳማይ	ADJ	ADJ	Gender=Fem|Number=Sing|NumType=Ord	2	amod	_	Translit=k'ədaməyti
+2	ተመሃሪት	ተመሃራይ	NOUN	NOUN	Gender=Fem|Number=Sing	3	nsubj	_	Translit=təməharit
+3	ኣስቴር	ኣስቴር	PROPN	PROPN	Gender=Fem|Number=Sing	0	root	_	Translit=ʔaster
+4	እያ	እዩ	AUX	AUX	Gender=Fem|Number=Sing|Person=3|Tense=Pres	3	cop	_	Translit=ʔya
+5	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = ti_ref_197
+# text = ድሙ ኣብ ውሽጢ ገዛ ኣላ ።
+# text_en = The cat is inside the house.
+1	ድሙ	ድሙ	NOUN	NOUN	Number=Sing	5	nsubj	_	Translit=dmu
+2	ኣብ	ኣብ	ADP	ADP	_	3	case	_	Translit=ʔab
+3	ውሽጢ	ውሽጢ	NOUN	NOUN	Number=Sing	5	obl	_	Translit=wšt'i
+4	ገዛ	ገዛ	NOUN	NOUN	Number=Sing	3	nmod	_	Translit=gəza
+5	ኣላ	ኣሎ	VERB	VERB	Gender=Fem|Number=Sing|Person=3|Tense=Pres	0	root	_	Translit=ʔala
+6	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = ti_ref_198
+# text = ክሳብ ዝምለስ ተጸበዮ ።
+# text_en = Wait for him until he returns.
+1	ክሳብ	ክሳብ	SCONJ	SCONJ	_	3	mark	_	Translit=ksab
+2-3	ዝምለስ	_	_	_	_	_	_	_	Translit=zmləs
+2	ዝ	ዝ	SCONJ	SCONJ	_	3	mark	_	_
+3	ይምለስ	ተመልሰ	VERB	VERB	Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Voice=Pass	4	advcl	_	_
+4	ተጸበዮ	ተጸበየ	VERB	VERB	Gender=Masc|Gender[obj]=Masc|Mood=Imp|Number=Sing|Number[obj]=Sing|Person=2|Person[obj]=3	0	root	_	Translit=təs'əbəyo
+5	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = ti_ref_199
+# text = ምእንቲ ክመሃር ናብ ኣስመራ ከይዱ ።
+# text_en = He went to Asmara in order to study.
+1	ምእንቲ	ምእንቲ	SCONJ	SCONJ	_	3	mark	_	Translit=mʔnti
+2-3	ክመሃር	_	_	_	_	_	_	_	Translit=kməhar
+2	ክ	ክ	SCONJ	SCONJ	_	3	mark	_	_
+3	ይመሃር	ተማህረ	VERB	VERB	Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Voice=Pass	6	advcl	_	_
+4	ናብ	ናብ	ADP	ADP	_	5	case	_	Translit=nab
+5	ኣስመራ	ኣስመራ	PROPN	PROPN	Gender=Fem|Number=Sing	6	obl	_	Translit=ʔasməra
+6	ከይዱ	ከደ	VERB	VERB	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	0	root	_	Translit=kəydu
+7	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = ti_ref_200
+# text = እቲ ትማሊ ዝረኣኽዎ ሰብ ሓወይ እዩ ።
+# text_en = The man I saw yesterday is my brother.
+1	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	5	det	_	Translit=ʔti
+2	ትማሊ	ትማሊ	NOUN	NOUN	Number=Sing	4	obl	_	Translit=tmali
+3-4	ዝረኣኽዎ	_	_	_	_	_	_	_	Translit=zrəʔaxwo
+3	ዝ	ዝ	SCONJ	SCONJ	_	4	mark	_	_
+4	ረኣኽዎ	ርኣየ	VERB	VERB	Aspect=Perf|Gender[obj]=Masc|Number=Sing|Number[obj]=Sing|Person=1|Person[obj]=3	5	acl	_	_
+5	ሰብ	ሰብ	NOUN	NOUN	Number=Sing	6	nsubj	_	Translit=səb
+6-7	ሓወይ	_	_	_	_	_	_	_	Translit=ħawəy
+6	ሓው	ሓው	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	_
+7	አይ	አይ	DET	DET	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	det:poss	_	_
+8	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	6	cop	_	Translit=ʔyu
+9	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = ti_ref_201
+# text = ነቲ ስራሕ ጽቡቕ ሰሪሑዎ ።
+# text_en = He did the job well.
+1-2	ነቲ	_	_	_	_	_	_	_	Translit=nəti
+1	ን	ን	ADP	ADP	_	3	case:pre	_	_
+2	እቲ	እቲ	DET	DET	Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	ስራሕ	ስራሕ	NOUN	NOUN	Number=Sing	5	obj	_	Translit=sraħ
+4	ጽቡቕ	ጽቡቕ	ADJ	ADJ	Number=Sing	5	advmod	_	Translit=s'bux'
+5	ሰሪሑዎ	ሰርሐ	VERB	VERB	Gender=Masc|Gender[obj]=Masc|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3|VerbForm=Conv	0	root	_	Translit=səriħuwo
+6	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = ti_ref_202
+# text = ብእግርና ዶ ንኺድ ፡ ወይስ ብኣውቶቡስ ፧
+# text_en = Shall we go on foot, or (shall we go) by bus?
+1-3	ብእግርና	_	_	_	_	_	_	_	Translit=bʔgrna
+1	ብ	ብ	ADP	ADP	_	2	case:pre	_	_
+2	እግር	እግሪ	NOUN	NOUN	Number=Sing	5	obl	_	_
+3	ና	ና	DET	DET	Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	det:poss	_	_
+4	ዶ	ዶ	PART	PART	_	5	discourse	_	Translit=do
+5	ንኺድ	ከደ	VERB	VERB	Mood=Jus|Number=Plur|Person=1	0	root	_	Translit=nxid
+6	፡	፡	PUNCT	PUNCT	_	9	punct	_	_
+7	ወይስ	ወይስ	CCONJ	CCONJ	_	9	cc	_	Translit=wəys
+8-9	ብኣውቶቡስ	_	_	_	_	_	_	_	Translit=bʔawtobus
+8	ብ	ብ	ADP	ADP	_	9	case:pre	_	_
+9	ኣውቶቡስ	ኣውቶቡስ	NOUN	NOUN	Number=Sing	5	conj	_	_
+10	፧	፧	PUNCT	PUNCT	_	5	punct	_	_
+
