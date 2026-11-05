@@ -44,8 +44,8 @@ UPOS: automatic with corrections
 XPOS: not available
 Features: automatic with corrections
 Relations: manual native
-Contributors: Nazareth Amlesom Kifle; Gasser, Michael
+Contributors: Kifle, Nazareth Amlesom; Gasser, Michael
 Contributing: here
-Contact: nazareth.a.kifle@hiof.no, onlyskybl@gmail.com 
+Contact: nazareth.a.kifle@hiof.no, onlyskybl@gmail.com
 ===============================================================================
 </pre>
