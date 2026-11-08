@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>221</sentences><tokens>1287</tokens><words>1598</words><fused>265</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>221</sentences><tokens>1287</tokens><words>1598</words><fused>265</fused></test>
+  </size>
+  <lemmas unique="351" /><!-- ።, እዩ, ን, ዝ, እቲ, ክ, ፡, መጽአ, ኣሎ, ኣብ, ገዛ, ንሳ, ኣይ, ኮነ, አይ -->
+  <forms unique="453" /><!-- ።, ን, ዝ, እቲ, እዩ, ክ, ፡, ኣብ, ገዛ, ንሳ, ኣይ, አይ, ኡ, ኣ, ብ -->
+  <fusions unique="164" /><!-- ነቲ, ክመጽእ, ዘስተውዓልኩዎ, ምዃና, ክትመጽእ, ዝሓሸ, ምዃኑ, ስርሐይ, ምበለኒ, ነዚ, ከምዝኾነት, ወደይ, ዝበጽሐ, ሓፍተይ, ምንባራ -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="15">
+    <tag name="ADJ">32</tag><!-- ጽቡቕ, ንፉዕ, ሃብታም, ፍጹም, ቅቡል, ካልእ, ሓበጀራይ, ሓጺር, ሓፋር, ሕማቕ -->
+    <tag name="ADP">148</tag><!-- ን, ኣብ, ብ, ከም, ናይ, እንተ, ካብ, ናብ, ምስ, ስለ -->
+    <tag name="ADV">55</tag><!-- ኣይ, ን, ዘይ, ጥራሕ, 'ውን, ምናልባት, ብጣዕሚ, ኣበይ, እውን, ወላ -->
+    <tag name="AUX">106</tag><!-- እዩ, ነበረ, ኣሎ, ኮነ -->
+    <tag name="CCONJ">10</tag><!-- ን, ግን, ወይስ, ከኣ -->
+    <tag name="DET">145</tag><!-- እቲ, አይ, ኡ, ኣ, እዚ, እታ, ና, እቶም, ናታ, እተን -->
+    <tag name="INTJ">1</tag><!-- እዋይ -->
+    <tag name="NOUN">295</tag><!-- ገዛ, ምዃን, ሰብ, ወዲ, ትምህርቲ, ስራሕ, ቤት, ገንዘብ, ነገር, ከተማ -->
+    <tag name="NUM">4</tag><!-- ክልተ, ሓደ, ሽሕ -->
+    <tag name="PART">19</tag><!-- ደስ, ዶ, እንዶ, ውድእ, ህድ, ርግእ, ስ, ስቕ, ቀስ, ክፍት -->
+    <tag name="PRON">41</tag><!-- ንሳ, ንሱ, ኣነ, ንስኺ, መን, ነብሲ, ናትኪ, ናቶም, ኣታ, እዚ -->
+    <tag name="PROPN">48</tag><!-- ኣስቴር, ኣበበ, ካሕሳይ, ጅማ, ኣልማዝ, ካሌብ, ኣስመራ, ኪዳነ, ጽገወይኒ, ሃይለ -->
+    <tag name="PUNCT">266</tag><!-- ።, ፡, ፧, ", ፤, ! -->
+    <tag name="SCONJ">122</tag><!-- ዝ, ክ, ምስ, ም, እና, ምእንቲ, እንተ, እንክ, ክሳብ -->
+    <tag name="VERB">306</tag><!-- መጽአ, ኣሎ, ከደ, በለ, ኮነ, ፈለጠ, ነገረ, ኣስተውዓለ, ደለየ, ሓሸ -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="42">
+    <feat name="Abbr" value="Yes" upos="NOUN">1</feat><!-- ወ/ሮ -->
+    <feat name="Aspect" value="Imp" upos="AUX,VERB">89</feat><!-- ይመጽእ, ትመጽእ, የምጽእ, ይመጹ, ይሳተፍ, ትኸይድ, ንሰምዕ, ይመሃር, ይመልስ, ይምሃር -->
+    <feat name="Aspect" value="Perf" upos="AUX,VERB">115</feat><!-- ኣስተውዓልኩዎ, ሓሸ, ኮነት, ሂቡዋ, በለኒ, በጽሐ, ከይዶም, ኰይንካ, መደብናዮ, ርኣኻ -->
+    <feat name="Case" value="Acc" upos="PRON">1</feat><!-- ንዓኣ -->
+    <feat name="Case" value="All" upos="PRON">1</feat><!-- ናብኡ -->
+    <feat name="Case" value="Equ" upos="PRON">3</feat><!-- ከምኡ -->
+    <feat name="Definite" value="Def" upos="DET">1</feat><!-- እቲ -->
+    <feat name="ExtPos" value="DET" upos="SCONJ">1</feat><!-- ዝ -->
+    <feat name="Gender" value="Fem" upos="ADJ,AUX,DET,NOUN,PRON,PROPN,VERB">164</feat><!-- ንሳ, ኣ, ኣስቴር, ትመጽእ, ነጊራትና, ኣላ, እያ, እታ, ኮነት, ሓፍቲ -->
+    <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,PRON,PROPN,VERB">371</feat><!-- እቲ, እዩ, ኡ, ኣሎ, ይመጽእ, 'ቲ, ነይሩ, እዚ, ሓሸ, ሕተታ -->
+    <feat name="Gender[app]" value="Masc" upos="VERB">2</feat><!-- ሰትዩሉ, ገዚአሉ -->
+    <feat name="Gender[obj]" value="Fem" upos="VERB">19</feat><!-- ሕተታ, ሂቡዋ, ኣለዋ, ኣላታ, ሞይቱዋ, ቀሊዑዋ, ነበራ, ኣሕዚኑዋ, ይወስዳ, ደኺሙዋ -->
+    <feat name="Gender[obj]" value="Masc" upos="VERB">44</feat><!-- ኣስተውዓልኩዎ, ሂቡዎ, መደብናዮ, ሰቢሩዎ, ኣቐመጦ, ኣእትዩዎ, የብሉ, ጠምዩዎ, ጸውዓዮ, ሓብሮ -->
+    <feat name="Mood" value="Imp" upos="VERB">15</feat><!-- ሕተታ, እፈቱ, ጸውዓዮ, ሓብሮ, መልሱ, ተጸበዮ, ኣጋዝእኒ, እተዉ, ውሰድ -->
+    <feat name="Mood" value="Ind" upos="VERB">4</feat><!-- ይነብሕ, ደቀሰ, ጠምዩ, ጠምያ -->
+    <feat name="Mood" value="Jus" upos="VERB">8</feat><!-- ንኺድ, ትምጻእ, ትኺድ, እንበል, ይስማዕ, ይኹን -->
+    <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,PRON,VERB">71</feat><!-- ፈሊጥና, ሰባት, ና, ንኺድ, እቶም, ከይዶም, ይመጹ, ሕጕሳት, መደብናዮ, ንሰምዕ -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">902</feat><!-- እቲ, እዩ, ገዛ, ንሳ, አይ, ኡ, ኣ, ኣስቴር, እየ, ይመጽእ -->
+    <feat name="Number[app]" value="Sing" upos="VERB">3</feat><!-- ሓልፈለይ, ሰትዩሉ, ገዚአሉ -->
+    <feat name="Number[obj]" value="Plur" upos="VERB">19</feat><!-- ነጊራትና, ኣለና, ሰለጠና, ረኸብክዎም, ኣሕዚኑና, ኣዚዙዎም, ኣገሪሙና, ይሕጎስኦም, ይርድእና -->
+    <feat name="Number[obj]" value="Sing" upos="VERB">68</feat><!-- ኣስተውዓልኩዎ, ሕተታ, ሂቡዋ, በለኒ, ሂቡዎ, መደብናዮ, ሰቢሩዎ, ኣለዋ, ኣላታ, ኣቐመጦ -->
+    <feat name="NumType" value="Ord" upos="ADJ">1</feat><!-- ቀዳመይቲ -->
+    <feat name="Person" value="1" upos="AUX,DET,PRON,VERB">106</feat><!-- አይ, እየ, ፈሊጥና, ኣስተውዓልኩዎ, ይመጽእ, ኣነ, ና, ንኺድ, የምጽእ, ይሳተፍ -->
+    <feat name="Person" value="2" upos="AUX,DET,PRON,VERB">31</feat><!-- ሕተታ, ኰይንካ, ርኣኻ, ንስኺ, እፈቱ, ጸውዓዮ, ሓብሮ, መልሱ, ረኣኻ, ተጸበዮ -->
+    <feat name="Person" value="3" upos="AUX,DET,PRON,VERB">374</feat><!-- እዩ, ንሳ, ኡ, ኣ, ኣሎ, ይመጽእ, ትመጽእ, ነጊራትና, ኣላ, ነይሩ -->
+    <feat name="Person[app]" value="1" upos="VERB">1</feat><!-- ሓልፈለይ -->
+    <feat name="Person[app]" value="3" upos="VERB">2</feat><!-- ሰትዩሉ, ገዚአሉ -->
+    <feat name="Person[obj]" value="1" upos="VERB">24</feat><!-- ነጊራትና, በለኒ, ኣለና, ሰለጠና, ሒሙኒ, ተረደአን, ተኸፍለኒ, ኣሕዚኑና, ኣገሪሙና, ኣጋዝእኒ -->
+    <feat name="Person[obj]" value="3" upos="VERB">63</feat><!-- ኣስተውዓልኩዎ, ሕተታ, ሂቡዋ, ሂቡዎ, መደብናዮ, ሰቢሩዎ, ኣለዋ, ኣላታ, ኣቐመጦ, ኣእትዩዎ -->
+    <feat name="Polarity" value="Neg" upos="ADV,AUX,VERB">47</feat><!-- ኣይ, ን, ዘይ, ኣይኮነን, የለ -->
+    <feat name="Poss" value="Yes" upos="DET,PRON">62</feat><!-- አይ, ኡ, ኣ, ና, ናታ, ኦም, ናትኪ, ናቶም, ካ, ኻ -->
+    <feat name="PronType" value="Art" upos="DET">76</feat><!-- እቲ, 'ቲ, እታ, እቶም, እተን, እዞም -->
+    <feat name="PronType" value="Dem" upos="DET,PRON">10</feat><!-- እዚ, ኣቱም, ኣታ, እዘን, እዝ -->
+    <feat name="PronType" value="Int" upos="ADV,DET,PRON">3</feat><!-- መን, ኣበይ, ኣየናይ -->
+    <feat name="PronType" value="Prs" upos="DET,PRON">98</feat><!-- ንሳ, አይ, ኡ, ኣ, ንሱ, ኣነ, ና, ከምኡ, ናታ, ንስኺ -->
+    <feat name="Reflex" value="Yes" upos="PRON">1</feat><!-- ነብሲ -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">15</feat><!-- ነይሩ, ነይራ, ነበረ, ነበረት, ነበራ -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">105</feat><!-- እዩ, እየ, ኣሎ, ኣላ, እያ, ኣለና, ኣለዋ, ኣላታ, ኣይኮነን, የብሉ -->
+    <feat name="VerbForm" value="Conv" upos="AUX,VERB">71</feat><!-- ነጊራትና, ፈሊጥና, ተቢዑ, ኢሉ, ሂቡዎ, መጺኡ, መጺኣ, ተሰሪዑ, ነይራ, ኢላ -->
+    <feat name="VerbForm" value="Vnoun" upos="NOUN">30</feat><!-- ምዃን, ምኻድ, ምምካር, ምብሳል, ምንባር, ምክባር, ምሃብ, ምህላው, ምሕባእ, ምብካይ -->
+    <feat name="Voice" value="Cau" upos="VERB">29</feat><!-- ኣስተውዓልኩዎ, የምጽእ, ኣቋረጸት, ኣቐመጦ, ኣእትዩዎ, ኣሕዚኑና, ኣሕዚኑዋ, ኣሕጒሱዎ, ኣምጺኣ, ኣስሪሐዮ -->
+    <feat name="Voice" value="Pass" upos="VERB">25</feat><!-- ተሰሪዑ, ተፈሊጡ, ይመሃር, ይምሃር, ተሃዊኽና, ተሓጒሳ, ተሰሚዑ, ተሰቢሩ, ተሰብሩ, ተቐይሩ -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="44">
+    <dep name="acl">22</dep>
+    <dep name="advcl">46</dep>
+    <dep name="advmod">8</dep>
+    <dep name="advmod:aff">44</dep>
+    <dep name="amod">6</dep>
+    <dep name="appos">2</dep>
+    <dep name="aux">52</dep>
+    <dep name="case">44</dep>
+    <dep name="case:pre">72</dep>
+    <dep name="cc">14</dep>
+    <dep name="ccomp">30</dep>
+    <dep name="compound">11</dep>
+    <dep name="compound:lvc">12</dep>
+    <dep name="compound:redup">1</dep>
+    <dep name="conj">12</dep>
+    <dep name="cop">54</dep>
+    <dep name="csubj">14</dep>
+    <dep name="csubj:cleft">3</dep>
+    <dep name="csubj:outer">13</dep>
+    <dep name="csubj:pass">2</dep>
+    <dep name="det">84</dep>
+    <dep name="det:poss">59</dep>
+    <dep name="discourse">7</dep>
+    <dep name="dislocated">2</dep>
+    <dep name="fixed">2</dep>
+    <dep name="flat">2</dep>
+    <dep name="iobj">6</dep>
+    <dep name="mark">153</dep>
+    <dep name="nmod">19</dep>
+    <dep name="nsubj">93</dep>
+    <dep name="nsubj:outer">6</dep>
+    <dep name="nsubj:pass">6</dep>
+    <dep name="nummod">3</dep>
+    <dep name="obj">65</dep>
+    <dep name="obj:exp">3</dep>
+    <dep name="obj:poss">2</dep>
+    <dep name="obl">83</dep>
+    <dep name="orphan">6</dep>
+    <dep name="parataxis">1</dep>
+    <dep name="punct">266</dep>
+    <dep name="root">221</dep>
+    <dep name="vocative">2</dep>
+    <dep name="xcomp">24</dep>
+    <dep name="xcomp:pred">21</dep>
+  </deps>
+</treebank>
